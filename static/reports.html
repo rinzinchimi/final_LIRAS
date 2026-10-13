@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>LIRAS | Reports</title>
+
+<link rel="stylesheet" href="reports.css">
+<link rel="stylesheet" href="shared.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<!---------------- Sidebar ---------------->
+
+<aside class="sidebar">
+
+    <div class="logo"><img class="liras-brand-logo" src="assets/liras-logo.png" alt="LIRAS logo"><span>LIRAS</span></div>
+
+
+    <ul class="menu">
+
+        <li>
+            <a href="dashboard.html">
+                <i class="fa-solid fa-chart-line"></i>
+                Dashboard
+            </a>
+        </li>
+
+
+        <li>
+            <a href="employers.html">
+                <i class="fa-solid fa-building"></i>
+                Employers
+            </a>
+        </li>
+
+
+
+        <li>
+            <a href="risk-assessment.html">
+                <i class="fa-solid fa-brain"></i>
+                AI Risk Assessment
+            </a>
+        </li>
+
+         <li>
+            <a href="inspection.html">
+                <i class="fa-solid fa-clipboard-check"></i>
+                Inspections
+            </a>
+        </li>
+
+        <li class="active">
+            <a href="reports.html">
+                <i class="fa-solid fa-file-lines"></i>
+                Reports
+            </a>
+        </li>
+
+
+        <li>
+            <a href="settings.html">
+                <i class="fa-solid fa-gear"></i>
+                Settings
+            </a>
+        </li>
+
+        <li>
+            <a href="profile.html">
+                <i class="fa-solid fa-user"></i>
+                Profile
+            </a>
+        </li>
+
+        <li>
+            <a href="#" onclick="lirasLogout(); return false;">
+                <i class="fa-solid fa-right-from-bracket"></i>
+                Logout
+            </a>
+        </li>
+
+    </ul>
+
+
+</aside>
+
+<!---------------- Main ---------------->
+
+<main>
+
+<header>
+
+<div>
+
+<h1>Reports</h1>
+
+<p>
+Generate and manage inspection reports.
+</p>
+
+</div>
+
+<div class="profile">
+
+<i class="fa fa-bell"></i>
+
+<div class="user">
+
+<img src="https://i.pravatar.cc/45">
+
+<span>Labour Officer</span>
+
+</div>
+
+</div>
+
+</header>
+
+<!---------------- Cards ---------------->
+
+<section class="cards">
+
+<div class="card liras-card-clickable" id="cardTotalReports" onclick="filterReports('all')">
+
+<i class="fa-solid fa-file-circle-check"></i>
+
+<h2 id="statTotalReports">0</h2>
+
+<p>Total Reports</p>
+
+</div>
+
+<div class="card liras-card-clickable" id="cardThisMonth" onclick="filterReports('this_month')">
+
+<i class="fa-solid fa-file-circle-plus"></i>
+
+<h2 id="statThisMonth">0</h2>
+
+<p>This Month</p>
+
+</div>
+
+<div class="card liras-card-clickable" id="cardPendingReports" onclick="filterReports('pending')">
+
+<i class="fa-solid fa-hourglass-half"></i>
+
+<h2 id="statPendingReports">0</h2>
+
+<p>Pending</p>
+
+</div>
+
+<div class="card liras-card-clickable" id="cardCompletedReports" onclick="filterReports('completed')">
+
+<i class="fa-solid fa-circle-check"></i>
+
+<h2 id="statCompletedReports">0</h2>
+
+<p>Completed</p>
+
+</div>
+
+</section>
+
+<!---------------- Toolbar ---------------->
+
+<section class="toolbar">
+
+<div class="search">
+
+<i class="fa fa-search"></i>
+
+<input
+type="text"
+placeholder="Search reports..."
+id="search"
+oninput="applyFilterAndRender()">
+
+</div>
+
+<div class="filters">
+
+<select id="month" onchange="applyFilterAndRender()">
+
+<option value="">All Months</option>
+
+<option value="1">January</option>
+
+<option value="2">February</option>
+
+<option value="3">March</option>
+
+<option value="4">April</option>
+
+<option value="5">May</option>
+
+<option value="6">June</option>
+
+<option value="7">July</option>
+
+<option value="8">August</option>
+
+<option value="9">September</option>
+
+<option value="10">October</option>
+
+<option value="11">November</option>
+
+<option value="12">December</option>
+
+</select>
+
+<select id="year" onchange="applyFilterAndRender()">
+
+<option value="">All Years</option>
+
+<option value="2026">2026</option>
+
+<option value="2025">2025</option>
+
+<option value="2024">2024</option>
+
+</select>
+
+</div>
+
+<select id="generateEmployerSelect" style="min-width:220px;padding:10px 12px;border-radius:8px;border:1px solid #d0d7de;margin-right:8px;">
+<option value="">Select employer...</option>
+</select>
+
+<select id="generateFormatSelect" style="padding:10px 12px;border-radius:8px;border:1px solid #d0d7de;margin-right:8px;">
+<option value="pdf">PDF</option>
+<option value="docx">DOCX</option>
+</select>
+
+<button class="generate" onclick="generateReport()">
+
+<i class="fa fa-plus"></i>
+
+Generate Report
+
+</button>
+
+</section>
+
+<!---------------- Export ---------------->
+
+<section class="exports">
+
+<button onclick="exportReportsPdf()">
+
+<i class="fa-solid fa-file-pdf"></i>
+
+Export PDF
+
+</button>
+
+<button onclick="exportReportsExcel()">
+
+<i class="fa-solid fa-file-excel"></i>
+
+Export Excel
+
+</button>
+
+<button onclick="window.print()">
+
+<i class="fa-solid fa-print"></i>
+
+Print
+
+</button>
+
+</section>
+
+<!---------------- Table ---------------->
+
+<section class="table-box">
+
+<table id="reportTable">
+
+<thead>
+
+<tr>
+
+<th>Report ID</th>
+
+<th>Employer</th>
+
+<th>Type</th>
+
+<th>Date</th>
+
+<th>Status</th>
+
+<th>Actions</th>
+
+</tr>
+
+</thead>
+
+<tbody id="reportTableBody">
+
+<tr><td colspan="6" style="text-align:center;padding:20px;color:#64748b;">Loading reports...</td></tr>
+
+</tbody>
+
+</table>
+
+</section>
+
+</main>
+
+</div>
+
+<script src="api.js"></script>
+<script src="shared.js"></script>
+<script src="profile-store.js"></script>
+<script src="reports.js"></script>
+
+</body>
+
+</html>

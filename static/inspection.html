@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Inspection Management | LIRAS</title>
+
+    <link rel="stylesheet" href="inspection.css">
+    <link rel="stylesheet" href="shared.css">
+
+    <!-- Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+
+<!-- Sidebar -->
+
+<aside class="sidebar">
+
+    <div class="logo"><img class="liras-brand-logo" src="assets/liras-logo.png" alt="LIRAS logo"><span>LIRAS</span></div>
+
+
+    <ul class="menu">
+
+        <li>
+            <a href="dashboard.html">
+                <i class="fa-solid fa-chart-line"></i>
+                Dashboard
+            </a>
+        </li>
+
+
+        <li>
+            <a href="employers.html">
+                <i class="fa-solid fa-building"></i>
+                Employers
+            </a>
+        </li>
+
+
+
+        <li>
+            <a href="risk-assessment.html">
+                <i class="fa-solid fa-brain"></i>
+                AI Risk Assessment
+            </a>
+        </li>
+
+         <li class="active">
+            <a href="#">
+                <i class="fa-solid fa-clipboard-check"></i>
+                Inspections
+            </a>
+        </li>
+
+        <li>
+            <a href="reports.html">
+                <i class="fa-solid fa-file-lines"></i>
+                Reports
+            </a>
+        </li>
+
+
+        <li>
+            <a href="settings.html">
+                <i class="fa-solid fa-gear"></i>
+                Settings
+            </a>
+        </li>
+
+        <li>
+            <a href="profile.html">
+                <i class="fa-solid fa-user"></i>
+                Profile
+            </a>
+        </li>
+
+        <li>
+            <a href="#" onclick="lirasLogout(); return false;">
+                <i class="fa-solid fa-right-from-bracket"></i>
+                Logout
+            </a>
+        </li>
+
+    </ul>
+
+
+</aside>
+
+
+
+
+<!-- Main Content -->
+
+<main class="main">
+
+
+<header>
+
+    <div>
+        <h2>Inspection Management</h2>
+        <p>Manage labour inspections and monitor compliance activities</p>
+    </div>
+
+
+    <div class="profile">
+
+        <i class="fa-solid fa-bell"></i>
+
+        <div class="user">
+
+            <img src="https://i.pravatar.cc/40">
+
+            <span>
+                Labour Officer
+            </span>
+
+        </div>
+
+    </div>
+
+
+</header>
+
+
+
+
+<!-- Statistics Cards -->
+
+
+<section class="cards">
+
+
+<div class="card liras-card-clickable" id="cardTotalInspections" onclick="filterInspections('all')">
+
+<i class="fa-solid fa-calendar-check"></i>
+
+<div>
+<h3 id="statTotalInspections">248</h3>
+<p>Total Inspections</p>
+</div>
+
+</div>
+
+
+
+<div class="card warning liras-card-clickable" id="cardPending" onclick="filterInspections('pending')">
+
+<i class="fa-solid fa-clock"></i>
+
+<div>
+<h3 id="statPending">35</h3>
+<p>Pending</p>
+</div>
+
+</div>
+
+
+
+<div class="card success liras-card-clickable" id="cardCompleted" onclick="filterInspections('completed')">
+
+<i class="fa-solid fa-check-circle"></i>
+
+<div>
+<h3 id="statCompleted">180</h3>
+<p>Completed</p>
+</div>
+
+</div>
+
+
+
+<div class="card danger liras-card-clickable" id="cardHighRisk" onclick="showHighRiskEmployers()">
+
+<i class="fa-solid fa-triangle-exclamation"></i>
+
+<div>
+<h3 id="statHighRiskCases">18</h3>
+<p>High Risk Cases</p>
+</div>
+
+</div>
+
+
+</section>
+
+
+
+
+
+<!-- Action Area -->
+
+
+<section class="action-bar">
+
+
+<div class="search">
+
+<i class="fa fa-search"></i>
+
+<input 
+type="text"
+id="searchInput"
+placeholder="Search employer or inspector..."
+>
+
+</div>
+
+
+
+<button class="primary-btn" onclick="openModal()">
+
+<i class="fa fa-plus"></i>
+
+Schedule Inspection
+
+</button>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- Inspection Table -->
+
+
+<section class="table-container">
+
+
+<table id="inspectionTable">
+
+
+<thead>
+
+<tr>
+
+<th>ID</th>
+
+<th>Employer</th>
+
+<th>Industry</th>
+
+<th>Inspector</th>
+
+<th>Date</th>
+
+<th>Risk Level</th>
+
+<th>Status</th>
+
+<th>Action</th>
+
+
+</tr>
+
+
+</thead>
+
+
+
+<tbody id="inspectionTableBody">
+
+
+<tr>
+
+<td>#INS-001</td>
+
+<td>Druk Construction Ltd</td>
+
+<td>Construction</td>
+
+<td>Karma Dorji</td>
+
+<td>27 June 2026</td>
+
+<td>
+<span class="high">
+High
+</span>
+</td>
+
+<td>
+<span class="pending">
+Pending
+</span>
+</td>
+
+
+<td>
+
+<button class="view">
+View
+</button>
+
+<button class="edit">
+Edit
+</button>
+
+
+</td>
+
+
+</tr>
+
+
+
+
+
+<tr>
+
+<td>#INS-002</td>
+
+<td>Bhutan Manufacturing</td>
+
+<td>Manufacturing</td>
+
+<td>Sonam Wangchuk</td>
+
+<td>29 June 2026</td>
+
+
+<td>
+<span class="medium">
+Medium
+</span>
+</td>
+
+
+<td>
+
+<span class="scheduled">
+Scheduled
+</span>
+
+</td>
+
+
+<td>
+
+<button class="view">
+View
+</button>
+
+<button class="edit">
+Edit
+</button>
+
+</td>
+
+
+</tr>
+
+
+
+
+
+<tr>
+
+<td>#INS-003</td>
+
+<td>Mountain Transport</td>
+
+<td>Transport</td>
+
+<td>Pema Tshering</td>
+
+<td>30 June 2026</td>
+
+
+<td>
+
+<span class="low">
+Low
+</span>
+
+</td>
+
+
+<td>
+
+<span class="completed">
+Completed
+</span>
+
+</td>
+
+
+<td>
+
+<button class="view">
+View
+</button>
+
+<button class="edit">
+Edit
+</button>
+
+
+</td>
+
+
+</tr>
+
+
+</tbody>
+
+
+</table>
+
+
+</section>
+
+
+
+
+</main>
+
+
+
+
+
+
+
+<!-- Add Inspection Modal -->
+
+
+<div class="modal" id="inspectionModal">
+
+
+<div class="modal-box">
+
+
+<h2>
+Schedule New Inspection
+</h2>
+
+
+
+<label>
+Employer Name
+</label>
+
+<input type="text" id="employer">
+
+
+
+<label>
+Inspector
+</label>
+
+<input type="text" id="inspector">
+
+
+
+<label>
+Inspection Date
+</label>
+
+<input type="date" id="date">
+
+
+
+<label>
+Risk Level
+</label>
+
+
+<select id="risk">
+
+<option>High</option>
+
+<option>Medium</option>
+
+<option>Low</option>
+
+</select>
+
+
+
+<div class="modal-buttons">
+
+<button onclick="closeModal()" class="cancel">
+Cancel
+</button>
+
+
+<button onclick="addInspection()" class="save">
+Save Inspection
+</button>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+<!-- Edit Inspection Status Modal -->
+
+<div class="modal" id="editInspectionModal">
+
+<div class="modal-box">
+
+<h2>Update Inspection Status</h2>
+
+<p id="editInspectionEmployerLabel" style="margin-bottom:10px;color:#475569;"></p>
+
+<label>Status</label>
+
+<select id="editInspectionStatus">
+<option value="Pending">Pending</option>
+<option value="Completed">Completed</option>
+</select>
+
+<div class="modal-buttons">
+<button onclick="closeEditModal()" class="cancel">Cancel</button>
+<button onclick="saveInspectionStatus()" class="save">Save Changes</button>
+</div>
+
+</div>
+
+</div>
+
+
+<script src="api.js"></script>
+<script src="shared.js"></script>
+<script src="profile-store.js"></script>
+<script src="inspection.js"></script>
+
+
+</body>
+</html>

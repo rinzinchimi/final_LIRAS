@@ -1,0 +1,234 @@
+{
+  "best_model": "Random Forest",
+  "trained_at": "2026-07-20T11:08:26",
+  "n_employers": 457,
+  "n_features": 25,
+  "feature_columns": [
+    "total_inspections",
+    "improvement_notices",
+    "penalty_memos",
+    "total_penalty_amount",
+    "osh_violation_count",
+    "osh_ratio",
+    "days_since_last_inspection",
+    "inspection_frequency",
+    "violation_rate",
+    "sector_Accommodation and Food service activities",
+    "sector_Construction",
+    "sector_Manufacturing",
+    "sector_Other",
+    "sector_Other Services",
+    "sector_Professional, scientific and technical services",
+    "sector_Wholesale and retail trade",
+    "dzongkhag_Haa",
+    "dzongkhag_Other",
+    "dzongkhag_Paro",
+    "dzongkhag_Punakha",
+    "dzongkhag_Samdrupjongkhar",
+    "dzongkhag_Samtse",
+    "dzongkhag_Sarpang",
+    "dzongkhag_Thimphu",
+    "dzongkhag_Wangdue Phodrang"
+  ],
+  "label_classes": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.9891,
+      "precision_macro": 0.8333,
+      "recall_macro": 0.9848,
+      "f1_macro": 0.8811,
+      "roc_auc_macro": 1.0,
+      "cv_f1_macro_mean": 0.8861,
+      "cv_f1_macro_std": 0.09,
+      "confusion_matrix": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          69,
+          0
+        ],
+        [
+          1,
+          0,
+          21
+        ]
+      ],
+      "classes": [
+        "High",
+        "Low",
+        "Medium"
+      ],
+      "train_seconds": 0.055
+    },
+    "Decision Tree": {
+      "accuracy": 0.9891,
+      "precision_macro": 0.8333,
+      "recall_macro": 0.9848,
+      "f1_macro": 0.8811,
+      "roc_auc_macro": 0.9906,
+      "cv_f1_macro_mean": 0.8486,
+      "cv_f1_macro_std": 0.0718,
+      "confusion_matrix": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          69,
+          0
+        ],
+        [
+          1,
+          0,
+          21
+        ]
+      ],
+      "classes": [
+        "High",
+        "Low",
+        "Medium"
+      ],
+      "train_seconds": 0.027
+    },
+    "Random Forest": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "roc_auc_macro": 1.0,
+      "cv_f1_macro_mean": 0.8439,
+      "cv_f1_macro_std": 0.1436,
+      "confusion_matrix": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          69,
+          0
+        ],
+        [
+          0,
+          0,
+          22
+        ]
+      ],
+      "classes": [
+        "High",
+        "Low",
+        "Medium"
+      ],
+      "train_seconds": 1.503
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.9783,
+      "precision_macro": 0.9906,
+      "recall_macro": 0.9697,
+      "f1_macro": 0.9794,
+      "roc_auc_macro": 1.0,
+      "cv_f1_macro_mean": 0.8989,
+      "cv_f1_macro_std": 0.0756,
+      "confusion_matrix": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          69,
+          0
+        ],
+        [
+          0,
+          2,
+          20
+        ]
+      ],
+      "classes": [
+        "High",
+        "Low",
+        "Medium"
+      ],
+      "train_seconds": 0.955
+    },
+    "XGBoost": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "roc_auc_macro": 1.0,
+      "cv_f1_macro_mean": 0.8862,
+      "cv_f1_macro_std": 0.0849,
+      "confusion_matrix": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          69,
+          0
+        ],
+        [
+          0,
+          0,
+          22
+        ]
+      ],
+      "classes": [
+        "High",
+        "Low",
+        "Medium"
+      ],
+      "train_seconds": 0.327
+    }
+  },
+  "feature_importance": {
+    "osh_violation_count": 0.2703,
+    "violation_rate": 0.2643,
+    "osh_ratio": 0.1607,
+    "penalty_memos": 0.0977,
+    "total_penalty_amount": 0.0839,
+    "improvement_notices": 0.0511,
+    "days_since_last_inspection": 0.0156,
+    "sector_Construction": 0.0139,
+    "dzongkhag_Other": 0.0133,
+    "dzongkhag_Thimphu": 0.0073,
+    "dzongkhag_Samdrupjongkhar": 0.0051,
+    "inspection_frequency": 0.0046,
+    "dzongkhag_Sarpang": 0.0041,
+    "total_inspections": 0.0033,
+    "dzongkhag_Punakha": 0.0016,
+    "dzongkhag_Paro": 0.0009,
+    "dzongkhag_Samtse": 0.0008,
+    "dzongkhag_Wangdue Phodrang": 0.0007,
+    "sector_Accommodation and Food service activities": 0.0002,
+    "sector_Manufacturing": 0.0001,
+    "sector_Other": 0.0001,
+    "sector_Other Services": 0.0001,
+    "dzongkhag_Haa": 0.0001,
+    "sector_Professional, scientific and technical services": 0.0,
+    "sector_Wholesale and retail trade": 0.0
+  },
+  "pipeline_meta": {
+    "notices_rows_loaded": 145,
+    "notices_duplicates_removed": 4,
+    "inspections_rows_loaded": 529,
+    "inspections_duplicates_removed": 51,
+    "employers_count": 457
+  }
+}

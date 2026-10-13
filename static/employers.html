@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>LIRAS | Employer Management</title>
+
+<link rel="stylesheet" href="employers.css">
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="shared.css">
+
+</head>
+
+
+<body>
+
+
+<!-- SIDEBAR -->
+
+<aside class="sidebar">
+
+    <div class="logo"><img class="liras-brand-logo" src="assets/liras-logo.png" alt="LIRAS logo"><span>LIRAS</span></div>
+
+
+    <ul class="menu">
+
+        <li>
+            <a href="dashboard.html">
+                <i class="fa-solid fa-chart-line"></i>
+                Dashboard
+            </a>
+        </li>
+
+
+        <li class="active">
+            <a href="employers.html">
+                <i class="fa-solid fa-building"></i>
+                Employers
+            </a>
+        </li>
+
+
+
+        <li>
+            <a href="risk-assessment.html">
+                <i class="fa-solid fa-brain"></i>
+                AI Risk Assessment
+            </a>
+        </li>
+
+         <li>
+            <a href="inspection.html">
+                <i class="fa-solid fa-clipboard-check"></i>
+                Inspections
+            </a>
+        </li>
+
+        <li>
+            <a href="reports.html">
+                <i class="fa-solid fa-file-lines"></i>
+                Reports
+            </a>
+        </li>
+
+
+        <li>
+            <a href="settings.html">
+                <i class="fa-solid fa-gear"></i>
+                Settings
+            </a>
+        </li>
+
+        <li>
+            <a href="profile.html">
+                <i class="fa-solid fa-user"></i>
+                Profile
+            </a>
+        </li>
+
+        <li>
+            <a href="#" onclick="lirasLogout(); return false;">
+                <i class="fa-solid fa-right-from-bracket"></i>
+                Logout
+            </a>
+        </li>
+
+    </ul>
+
+
+</aside>
+
+
+
+
+<!-- MAIN CONTENT -->
+
+<main>
+
+
+<header>
+
+<div>
+<h1>Employer Management</h1>
+<p>Manage registered workplaces and compliance information</p>
+</div>
+
+
+<div style="display:flex;align-items:center;gap:18px;">
+
+<button class="add-btn" onclick="openModal()">
+
+<i class="fa-solid fa-plus"></i>
+
+Add Employer
+
+</button>
+
+<div class="profile" style="display:flex;align-items:center;gap:14px;cursor:pointer;">
+<i class="fa-solid fa-bell" style="font-size:17px;color:#64748b;"></i>
+<div class="user" style="display:flex;align-items:center;gap:10px;">
+<img src="https://i.pravatar.cc/40" style="width:40px;height:40px;border-radius:50%;object-fit:cover;">
+<span style="font-size:13px;color:#334155;font-weight:600;">Labour Officer</span>
+</div>
+</div>
+
+</div>
+
+
+</header>
+
+
+
+
+
+<!-- STATISTICS -->
+
+
+<section class="cards">
+
+
+<div class="card liras-card-clickable" onclick="drillAllEmployers()">
+
+<div>
+<h3>Total Employers</h3>
+<h2 id="totalEmployers">1284</h2>
+</div>
+
+<i class="fa-solid fa-building"></i>
+
+</div>
+
+
+
+
+<div class="card high liras-card-clickable" onclick="drillRisk('High')">
+
+<div>
+<h3>High Risk</h3>
+<h2 id="statHighRisk">214</h2>
+</div>
+
+<i class="fa-solid fa-triangle-exclamation"></i>
+
+</div>
+
+
+
+<div class="card medium liras-card-clickable" onclick="drillRisk('Medium')">
+
+<div>
+<h3>Medium Risk</h3>
+<h2 id="statMediumRisk">536</h2>
+</div>
+
+<i class="fa-solid fa-circle-exclamation"></i>
+
+</div>
+
+
+
+
+<div class="card low liras-card-clickable" onclick="drillRisk('Low')">
+
+<div>
+<h3>Low Risk</h3>
+<h2 id="statLowRisk">534</h2>
+</div>
+
+<i class="fa-solid fa-circle-check"></i>
+
+</div>
+
+
+
+</section>
+
+
+
+
+
+<!-- SEARCH AREA -->
+
+
+<div class="toolbar">
+
+
+<input 
+type="text"
+id="search"
+placeholder="Search employer..."
+onkeyup="searchEmployer()"
+>
+
+
+<select id="filter">
+
+<option value="all">
+All Risk Levels
+</option>
+
+
+<option value="High">
+High Risk
+</option>
+
+
+<option value="Medium">
+Medium Risk
+</option>
+
+
+<option value="Low">
+Low Risk
+</option>
+
+
+</select>
+
+
+<button>
+
+<i class="fa-solid fa-file-import"></i>
+
+Import CSV
+
+</button>
+
+
+<button>
+
+<i class="fa-solid fa-file-export"></i>
+
+Export
+
+</button>
+
+
+
+</div>
+
+
+
+
+
+
+<!-- TABLE -->
+
+
+<section class="table-container">
+
+
+<table>
+
+
+<thead>
+
+<tr>
+
+<th>ID</th>
+
+<th>Employer</th>
+
+<th>Industry</th>
+
+<th>Location</th>
+
+<th>Employees</th>
+
+<th>Risk Level</th>
+
+<th>Score</th>
+
+<th>Actions</th>
+
+</tr>
+
+</thead>
+
+
+
+<tbody id="employerTable">
+
+
+<tr>
+
+<td>EMP001</td>
+
+<td>
+Druk Construction Ltd
+</td>
+
+<td>
+Construction
+</td>
+
+<td>
+Thimphu
+</td>
+
+
+<td>
+120
+</td>
+
+
+<td>
+<span class="badge high-risk">
+High
+</span>
+</td>
+
+
+<td>
+86%
+</td>
+
+
+<td>
+
+<button class="view">
+<i class="fa fa-eye"></i>
+</button>
+
+
+<button class="edit">
+<i class="fa fa-pen"></i>
+</button>
+
+
+<button class="delete">
+<i class="fa fa-trash"></i>
+</button>
+
+
+</td>
+
+
+</tr>
+
+
+
+
+
+<tr>
+
+<td>EMP002</td>
+
+<td>
+Bhutan Manufacturing Co.
+</td>
+
+<td>
+Manufacturing
+</td>
+
+<td>
+Paro
+</td>
+
+
+<td>
+75
+</td>
+
+
+<td>
+
+<span class="badge medium-risk">
+Medium
+</span>
+
+</td>
+
+
+<td>
+54%
+</td>
+
+
+<td>
+
+<button class="view">
+<i class="fa fa-eye"></i>
+</button>
+
+<button class="edit">
+<i class="fa fa-pen"></i>
+</button>
+
+
+<button class="delete">
+<i class="fa fa-trash"></i>
+</button>
+
+</td>
+
+</tr>
+
+
+
+
+
+</tbody>
+
+
+</table>
+
+
+</section>
+
+
+
+</main>
+
+
+
+
+
+
+
+<!-- ADD EMPLOYER MODAL -->
+
+
+<div class="modal" id="modal">
+
+
+<div class="modal-box">
+
+
+<h2>Add New Employer</h2>
+
+
+<input id="name" placeholder="Employer Name">
+
+<input id="industry" placeholder="Industry">
+
+<input id="location" placeholder="Location">
+
+<input id="employees" placeholder="Number of Employees">
+
+
+<select id="risk">
+
+<option>
+High
+</option>
+
+<option>
+Medium
+</option>
+
+<option>
+Low
+</option>
+
+
+</select>
+
+
+
+<div class="actions">
+
+<button onclick="addEmployer()">
+Save
+</button>
+
+
+<button onclick="closeModal()">
+Cancel
+</button>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+<script src="api.js"></script>
+<script src="shared.js"></script>
+<script src="profile-store.js"></script>
+<script src="employers.js"></script>
+
+
+</body>
+</html>

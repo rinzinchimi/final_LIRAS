@@ -1,0 +1,397 @@
+/* ================================
+   LIRAS Reports Page
+   reports.css
+================================ */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Inter',sans-serif;
+}
+
+body{
+    background:#f4f7fc;
+    color:#1f2937;
+}
+
+/* Layout */
+
+.container{
+    display:flex;
+}
+
+/* Sidebar */
+
+.sidebar{
+    width:250px;
+    height:100vh;
+    background:#12355B;
+    color:#fff;
+    position:fixed;
+    left:0;
+    top:0;
+    overflow-y:auto;
+}
+
+.logo{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:12px;
+    padding:28px 20px;
+    font-size:20px;
+    font-weight:700;
+    border-bottom:1px solid rgba(255,255,255,.08);
+}
+
+.logo i{
+    color:#4FC3F7;
+    font-size:28px;
+}
+
+.sidebar ul{
+    list-style:none;
+    margin-top:20px;
+}
+
+.sidebar ul li{
+    margin:8px 15px;
+}
+
+.sidebar ul li a{
+    color:#dbe7f5;
+    text-decoration:none;
+    display:flex;
+    align-items:center;
+    gap:14px;
+    padding:14px 16px;
+    border-radius:10px;
+    transition:.3s;
+}
+
+.sidebar ul li a:hover,
+.sidebar ul li.active a{
+    background:#1D4ED8;
+    color:#fff;
+}
+
+/* Main */
+
+main{
+    margin-left:250px;
+    width:calc(100% - 250px);
+    padding:30px;
+}
+
+/* Header */
+
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:30px;
+}
+
+header h1{
+    font-size:30px;
+    margin-bottom:5px;
+}
+
+header p{
+    color:#64748b;
+}
+
+.profile{
+    display:flex;
+    align-items:center;
+    gap:25px;
+}
+
+.profile i{
+    font-size:22px;
+    cursor:pointer;
+}
+
+.user{
+    display:flex;
+    align-items:center;
+    gap:12px;
+}
+
+.user img{
+    width:45px;
+    height:45px;
+    border-radius:50%;
+}
+
+/* Cards */
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:20px;
+    margin-bottom:30px;
+}
+
+.card{
+    background:#fff;
+    border-radius:15px;
+    padding:25px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.card i{
+    font-size:28px;
+    color:#2563EB;
+    margin-bottom:15px;
+}
+
+.card h2{
+    margin-bottom:5px;
+    color:#12355B;
+}
+
+.card p{
+    color:#64748b;
+}
+
+/* Toolbar */
+
+.toolbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:20px;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+.search{
+    background:#fff;
+    padding:12px 18px;
+    border-radius:10px;
+    display:flex;
+    align-items:center;
+    gap:10px;
+    width:320px;
+    box-shadow:0 3px 10px rgba(0,0,0,.05);
+}
+
+.search input{
+    width:100%;
+    border:none;
+    outline:none;
+    font-size:15px;
+}
+
+.filters{
+    display:flex;
+    gap:12px;
+}
+
+.filters select{
+    padding:10px 14px;
+    border:1px solid #d1d5db;
+    border-radius:8px;
+    outline:none;
+    cursor:pointer;
+}
+
+.generate{
+    background:#2563EB;
+    color:#fff;
+    border:none;
+    padding:12px 22px;
+    border-radius:10px;
+    cursor:pointer;
+    transition:.3s;
+}
+
+.generate:hover{
+    background:#1D4ED8;
+}
+
+/* Export */
+
+.exports{
+    display:flex;
+    gap:15px;
+    margin-bottom:25px;
+}
+
+.exports button{
+    border:none;
+    background:#fff;
+    padding:12px 18px;
+    border-radius:10px;
+    cursor:pointer;
+    box-shadow:0 3px 10px rgba(0,0,0,.05);
+    transition:.3s;
+}
+
+.exports button:hover{
+    background:#2563EB;
+    color:#fff;
+}
+
+/* Table */
+
+.table-box{
+    background:#fff;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+    overflow-x:auto;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+thead{
+    background:#EFF6FF;
+}
+
+thead th{
+    padding:16px;
+    text-align:left;
+    color:#12355B;
+}
+
+tbody td{
+    padding:16px;
+    border-bottom:1px solid #edf2f7;
+}
+
+tbody tr:hover{
+    background:#f9fbff;
+}
+
+/* Status */
+
+.completed,
+.pending{
+    padding:6px 14px;
+    border-radius:20px;
+    font-size:13px;
+    font-weight:600;
+}
+
+.completed{
+    background:#DCFCE7;
+    color:#166534;
+}
+
+.pending{
+    background:#FEF3C7;
+    color:#92400E;
+}
+
+/* Action Buttons */
+
+.view,
+.download,
+.print{
+    border:none;
+    width:38px;
+    height:38px;
+    border-radius:8px;
+    cursor:pointer;
+    margin-right:6px;
+    transition:.3s;
+}
+
+.view{
+    background:#DBEAFE;
+    color:#1D4ED8;
+}
+
+.download{
+    background:#DCFCE7;
+    color:#15803D;
+}
+
+.print{
+    background:#F3F4F6;
+    color:#374151;
+}
+
+.view:hover,
+.download:hover,
+.print:hover{
+    transform:scale(1.08);
+}
+
+/* Responsive */
+
+@media(max-width:1200px){
+
+.cards{
+    grid-template-columns:repeat(2,1fr);
+}
+
+}
+
+@media(max-width:900px){
+
+.sidebar{
+    display:none;
+}
+
+main{
+    margin-left:0;
+    width:100%;
+}
+
+.toolbar{
+    flex-direction:column;
+    align-items:stretch;
+}
+
+.search{
+    width:100%;
+}
+
+.filters{
+    width:100%;
+}
+
+.filters select{
+    width:100%;
+}
+
+.exports{
+    flex-wrap:wrap;
+}
+
+}
+
+@media(max-width:600px){
+
+.cards{
+    grid-template-columns:1fr;
+}
+
+header{
+    flex-direction:column;
+    align-items:flex-start;
+    gap:20px;
+}
+
+.profile{
+    width:100%;
+    justify-content:space-between;
+}
+
+table{
+    min-width:750px;
+}
+
+}

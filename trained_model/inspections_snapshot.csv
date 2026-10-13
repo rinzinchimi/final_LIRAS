@@ -1,0 +1,479 @@
+sl_no,name,application_no,inspection_type,inspection_date,inspection_team,inspected_by,dzongkhag,region,sector,location,name_key,employer_key
+1,Druk Yango Automobiles,44000551,Routine Inspection,2026-03-12,"Thinley Wangmo,Ugyen Lhadon",Ugyen Lhadon,Thimphu,Thimphu,Other Services,Namsaling,druk yango automobiles,druk yango automobiles
+2,Chhundu Automobile Workshop,44000552,Routine Inspection,2026-03-12,"Ugyen Lhadon,Thinley Wangmo",Ugyen Lhadon,Thimphu,Thimphu,"Professional, scientific and technical services","Namseling, Mewang, Thimphu",chhundu automobile workshop,chhundu automobile workshop
+3,J&J Automobile Workshop,44000567,Routine Inspection,2026-04-08,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olakha Workshop,j j automobile workshop,j j automobile workshop
+4,Tshewang Pem,44002472,Routine Inspection,2025-11-04,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Construction,Paro Town,tshewang pem,tshewang pem
+5,Mindu Construction Private Limited,44002482,Routine Inspection,2025-11-04,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Construction,-,mindu construction,mindu construction
+6,Rajesh Automobile,44004430,Routine Inspection,2026-05-27,"Dorji Gyeltshen,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olakha,rajesh automobile,rajesh automobile
+7,Hotel Lhayul,44005119,Routine Inspection,2025-09-10,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Accommodation and Food service activities,Haa Town,hotel lhayul,hotel lhayul
+8,Tshering Dorji,44005156,Routine Inspection,2025-09-12,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Haha throm,tshering dorji,tshering dorji
+9,Risum Resort,44005158,Routine Inspection,2026-02-26,"Tshering Dema,Pema Lhamo",Tshering Dema,Haa,Thimphu,Accommodation and Food service activities,Katsho,risum resort,risum resort
+10,Rinzin,44005186,Routine Inspection,2025-09-12,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Yangthang,rinzin,rinzin
+11,Pelden Restaurant,44005187,Routine Inspection,2026-02-26,"Tshering Dema,Pema Lhamo",Tshering Dema,Haa,Thimphu,Accommodation and Food service activities,Haa Throm,pelden restaurant,pelden restaurant
+12,Ministry of Education and Skills Development Chundu Armed Forces Public School,44005188,Routine Inspection,2025-09-12,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Haa Chundhu School,ministry of education and skills development chundu armed forces public school,ministry of education and skills development chundu armed forces public school
+13,Wangmo,44007589,Routine Inspection,2025-09-12,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Haa town,wangmo,wangmo
+14,Tshering Wangchuk,44007591,Routine Inspection,2025-09-11,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Above Haa town,tshering wangchuk,tshering wangchuk
+15,Bidha,44007592,Routine Inspection,2025-09-12,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Haa Town,bidha,bidha
+16,Risum Resort,44007596,Routine Inspection,2025-09-12,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Accommodation and Food service activities,Watsa,risum resort,risum resort
+17,Sangay Wangdi,44007598,Routine Inspection,2025-09-11,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Damchu,sangay wangdi,sangay wangdi
+18,Rinzin,44007602,Routine Inspection,2025-09-11,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Yangthang,rinzin,rinzin
+19,Dorji,44007604,Routine Inspection,2025-09-12,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Naktsho,dorji,dorji
+20,Kinley Tshomo,44007624,Routine Inspection,2025-09-13,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Gaydrna,kinley tshomo,kinley tshomo
+21,Druk PNB Bank Ltd.,448089,Routine Inspection,2025-08-22,"Dechen Wangmo Dorji,Sonam Wangmo",Sonam Wangmo,Thimphu,Thimphu,Financial services and insurance,Town,druk pnb bank,druk pnb bank
+22,Thinley Dorji,448093,Routine Inspection,2025-07-22,"Phuntsho Dendup,Sonam Wangmo,Sangay Dorji CLO-LAS",Phuntsho Dendup,Punakha,Thimphu,Construction,Kuru punakha,thinley dorji,thinley dorji
+23,Wood World,448115,Routine Inspection,2025-08-14,"Sonam Wangmo,Phuntsho Dendup",Sonam Wangmo,Thimphu,Thimphu,Manufacturing,Changzamtog,wood world,wood world
+24,Karma Rangdol,448144,Routine Inspection,2025-08-22,"Dechen Wangmo Dorji,Sonam Wangmo",Sonam Wangmo,Thimphu,Thimphu,Construction,Above MCH,karma rangdol,karma rangdol
+25,Bhutan Power Corporation Limited,448184,Routine Inspection,2025-09-03,kezang Wangmo,Dorji Wangdi,Thimphu,Thimphu,"Electricity, gas, steam and air conditioning supply",test location,bhutan power,bhutan power
+26,KOMS Education Consultancy and Placement Firm,448194,Routine Inspection,2025-09-03,"Sonam Wangmo,Dechen Wangmo Dorji",Dorji Wangdi,Thimphu,Thimphu,Education,olakha,koms education consultancy and placement firm,koms education consultancy and placement firm
+27,Karma Dema,448203,Routine Inspection,2025-09-06,Rinchen Letho Wangmo,Rinchen Letho Wangmo,Paro,Thimphu,Construction,Lamgong,karma dema,karma dema
+28,Gegay,448204,Routine Inspection,2025-09-06,Rinchen Letho Wangmo,Rinchen Letho Wangmo,Paro,Thimphu,Construction,Nemjo,gegay,gegay
+30,Ugyen Dorji,448206,Routine Inspection,2025-09-07,Rinchen Letho Wangmo,Rinchen Letho Wangmo,Paro,Thimphu,Construction,Tsohngtu,ugyen dorji,ugyen dorji
+31,Tandin Wangmo,448207,Routine Inspection,2025-09-07,Rinchen Letho Wangmo,Rinchen Letho Wangmo,Paro,Thimphu,Construction,Geptey,tandin wangmo,tandin wangmo
+32,Dawa Dem,448208,Routine Inspection,2025-09-07,Rinchen Letho Wangmo,Rinchen Letho Wangmo,Paro,Thimphu,Construction,Shaba,dawa dem,dawa dem
+33,Wangda,448236,Routine Inspection,2025-09-10,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Construction,Changjiji,wangda,wangda
+34,Denka,448237,Routine Inspection,2025-09-10,Sonam Geley Dorjee,Sonam Geley Dorjee,Paro,Thimphu,Construction,Rangshigang,denka,denka
+35,Chencho Pem,448238,Routine Inspection,2025-09-10,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Haa,chencho pem,chencho pem
+36,Kinley Tshomo,448239,Routine Inspection,2025-09-10,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Gaydena,kinley tshomo,kinley tshomo
+37,Tshering Wangmo,448240,Routine Inspection,2025-09-11,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Construction,Haa,tshering wangmo,tshering wangmo
+38,J.M Builders Pvt.LTD,448274,Routine Inspection,2025-09-24,"Phuntsho Dendup,Tshering Yangki",Phuntsho Dendup,Wangdue Phodrang,Thimphu,Construction,Samthang TTI,j m builders,j m builders
+39,MEDHEY E-COMMERCE,448462,Routine Inspection,2025-10-24,Sonam Wangmo,Sonam Wangmo,Thimphu,Thimphu,Wholesale and retail trade,Chubachu,medhey e commerce,medhey e commerce
+40,Penjor,448463,Routine Inspection,2025-10-22,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Construction,Babesa,penjor,penjor
+41,Lhundub Dorji,448464,Routine Inspection,2025-09-01,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Construction,Babesa,lhundub dorji,lhundub dorji
+42,Bongde Institute of Hotel and Tourism,448512,Routine Inspection,2025-11-04,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Transportation and storage,Bongde,bongde institute of hotel and tourism,bongde institute of hotel and tourism
+43,Bongde Goma Resort,448514,Routine Inspection,2025-11-04,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Accommodation and Food service activities,Bongde,bongde goma resort,bongde goma resort
+44,Zhideychen Boutique Hotel,448515,Routine Inspection,2025-11-04,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Accommodation and Food service activities,Geptey,zhideychen boutique hotel,zhideychen boutique hotel
+45,Khamsum Inn,448526,Routine Inspection,2025-11-08,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Accommodation and Food service activities,Town,khamsum inn,khamsum inn
+46,Padma Gayul Resort,448527,Routine Inspection,2026-05-11,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Accommodation and Food service activities,Nemjo,padma gayul resort,padma gayul resort
+47,Maya Machinery,448536,Routine Inspection,2025-11-21,Sonam Wangmo,Sonam Wangmo,Thimphu,Thimphu,Other Services,Babesa,maya machinery,maya machinery
+48,Venus Beauty Salon,448537,Routine Inspection,2026-03-23,Sonam Wangmo,Sonam Wangmo,Thimphu,Thimphu,Other Services,Next to Le Meredian,venus beauty salon,venus beauty salon
+49,Rinchen Education Consultancy and Placement Firm,448574,Routine Inspection,2025-12-03,Sonam Wangmo,Sonam Wangmo,Thimphu,Thimphu,"Professional, scientific and technical services",Jattu Building,rinchen education consultancy and placement firm,rinchen education consultancy and placement firm
+50,J.M Builders Pvt.LTD,448757,Routine Inspection,2026-01-22,"Thinley Wangmo,Thinley Gyeltshen,Tshering Yangki,Ugyen Lhadon,Pema Lhamo,Tshering Dema",Thinley Wangmo,Wangdue Phodrang,Thimphu,Construction,Samthang,j m builders,j m builders
+51,Bhutan Power Corporation Limited,448769,Routine Inspection,2026-01-28,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,"Electricity, gas, steam and air conditioning supply",yyyy,bhutan power,bhutan power
+52,Kezang Namgay,448805,Routine Inspection,2026-02-20,"Ugyen Lhadon,Pema Lhamo,Thinley Wangmo,Tshering Dema",Thinley Wangmo,Thimphu,Thimphu,Construction,Dangrina,kezang namgay,kezang namgay
+53,Tashi Deling Construction,448806,Routine Inspection,2026-02-20,"Ugyen Lhadon,Pema Lhamo,Thinley Wangmo,Tshering Dema",Thinley Wangmo,Thimphu,Thimphu,Construction,Bebena,tashi deling construction,tashi deling construction
+55,Dawa Tshering Construction Private Limited,448808,Routine Inspection,2026-02-20,"Ugyen Lhadon,Pema Lhamo,Thinley Wangmo,Tshering Dema",Thinley Wangmo,Thimphu,Thimphu,Construction,Dechencholing,dawa tshering construction,dawa tshering construction
+56,Jochu Thinley,448809,Routine Inspection,2026-02-20,"Ugyen Lhadon,Pema Lhamo,Thinley Wangmo,Tshering Dema",Thinley Wangmo,Thimphu,Thimphu,Construction,Bebena,jochu thinley,jochu thinley
+57,M/s GAYJUR Construction Company Pvt Ltd,448810,Routine Inspection,2026-02-20,"Ugyen Lhadon,Pema Lhamo,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Construction,"Thimphu, Sherabgatshel PS",m s gayjur construction,m s gayjur construction
+58,O.S.T Construction Private Limited,448811,Routine Inspection,2026-02-20,"Ugyen Lhadon,Pema Lhamo,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Construction,"Dechencholing, Thimphu",o s t construction,o s t construction
+59,Penjor Construction Private Limited,448812,Routine Inspection,2026-02-20,"Ugyen Lhadon,Pema Lhamo,Thinley Wangmo,Tshering Dema",Thinley Wangmo,Thimphu,Thimphu,Construction,Bebena,penjor construction,penjor construction
+60,Haa Valley Camp,448825,Routine Inspection,2026-03-25,"Tshering Dema,Pema Lhamo",Tshering Dema,Haa,Thimphu,Accommodation and Food service activities,Yangthang,haa valley camp,haa valley camp
+61,Pem Zam,448826,Routine Inspection,2026-02-28,"Tshering Dema,Pema Lhamo",Pema Lhamo,Paro,Thimphu,Construction,Geptey,pem zam,pem zam
+62,Dechen Pemo,448827,Routine Inspection,2026-02-28,"Tshering Dema,Pema Lhamo",Pema Lhamo,Paro,Thimphu,Construction,Dopshari,dechen pemo,dechen pemo
+63,Highlander,448829,Routine Inspection,2026-02-16,"Thinley Gyeltshen,Sonam Geley Dorjee,Ugyen Lhadon,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Accommodation and Food service activities,Norzin Lam,highlander,highlander
+64,NTT Construction,448834,Routine Inspection,2026-03-09,"Ugyen Lhadon,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Construction,Changjiji,ntt construction,ntt construction
+65,U. L. T construction,448835,Routine Inspection,2026-03-09,"Ugyen Lhadon,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Construction,Changjiji,u l t construction,u l t construction
+66,Dema,448836,Routine Inspection,2026-03-09,"Ugyen Lhadon,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Construction,Lungtenphu,dema,dema
+67,DRUK HOME BUILDER,448837,Routine Inspection,2026-03-09,"Ugyen Lhadon,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Construction,Babesa,druk home builder,druk home builder
+68,Rinzin Wangmo,448838,Routine Inspection,2026-03-09,"Ugyen Lhadon,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Construction,Babesa,rinzin wangmo,rinzin wangmo
+69,M/s Ugyen Tshenden Construction & Rirab Construction,448839,Routine Inspection,2026-03-10,"Ugyen Lhadon,Thinley Wangmo",Ugyen Lhadon,Thimphu,Thimphu,Construction,Jungshina,m s ugyen tshenden construction rirab construction,m s ugyen tshenden construction rirab construction
+70,Khendum Dorji,448840,Routine Inspection,2026-03-10,"Ugyen Lhadon,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Construction,Jazam,khendum dorji,khendum dorji
+71,Ministry of Infrastructure and TransportDepartment of Human Settlement,448841,Routine Inspection,2026-03-09,"Ugyen Lhadon,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,"Public administration and defense,compulsory social security",Olakha,ministry of infrastructure and transportdepartment of human settlement,ministry of infrastructure and transportdepartment of human settlement
+72,Dharma Design,448843,Routine Inspection,2026-03-12,"Thinley Wangmo,Ugyen Lhadon",Thinley Wangmo,Thimphu,Thimphu,Manufacturing,Ramtokto,dharma design,dharma design
+73,Lilly Construction,448844,Routine Inspection,2026-03-10,"Ugyen Lhadon,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Construction,Jungshina,lilly construction,lilly construction
+74,Techno Engineering Works,448845,Routine Inspection,2026-03-12,"Ugyen Lhadon,Thinley Wangmo",Ugyen Lhadon,Thimphu,Thimphu,Other Services,Olakha,techno engineering works,techno engineering works
+75,Sonam Dorji,448848,Routine Inspection,2026-03-17,"Ugyen Lhadon,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Construction,Lower Mothithang,sonam dorji,sonam dorji
+76,Yoenang Specialized Firm,448850,Routine Inspection,2026-03-18,"Pema Lhamo,Ugyen Lhadon",Ugyen Lhadon,Thimphu,Thimphu,Construction,Lower Motithang,yoenang specialized firm,yoenang specialized firm
+77,Lungten Wangmo,448851,Routine Inspection,2026-03-18,"Ugyen Lhadon,Pema Lhamo",Ugyen Lhadon,Thimphu,Thimphu,Construction,Lower Motithang,lungten wangmo,lungten wangmo
+78,Kota,448852,Routine Inspection,2026-03-18,"Pema Lhamo,Ugyen Lhadon",Ugyen Lhadon,Thimphu,Thimphu,Unknown,Lower Motithang,kota,kota
+79,Gyekden Bulders Pvt.Ltd,448863,Routine Inspection,2026-03-19,"Ugyen Lhadon,Pema Lhamo",Ugyen Lhadon,Thimphu,Thimphu,Construction,Changangkha,gyekden bulders,gyekden bulders
+80,M/s Samphel Dhendup Construction Company Private Limited,448864,Routine Inspection,2026-04-27,"Pema Lhamo,Ugyen Lhadon",Pema Lhamo,Thimphu,Thimphu,Construction,Lungtenphu MSS,m s samphel dhendup construction,m s samphel dhendup construction
+81,Bhutan Eco Ventures (P) Limited,448867,Routine Inspection,2026-04-07,"Ugyen Lhadon,Tshering Yangki",Ugyen Lhadon,Paro,Thimphu,Accommodation and Food service activities,"Changnangkha, Above NIE",bhutan eco ventures p,bhutan eco ventures p
+82,Bhutan Eco Ventures (P) Limited,448868,Routine Inspection,2026-03-23,"Tshering Yangki,Ugyen Lhadon",Ugyen Lhadon,Paro,Thimphu,Accommodation and Food service activities,"Changnangkha, Above NIE",bhutan eco ventures p,bhutan eco ventures p
+84,STCBL-HPCL Petroleum Distributors,448881,Routine Inspection,2026-03-27,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Wholesale and retail trade,Babesa,stcbl hpcl petroleum distributors,stcbl hpcl petroleum distributors
+85,Jaiprakash Associates Ltd,448884,Routine Inspection,2026-03-26,"Tshering Yangki,Ugyen Lhadon",Ugyen Lhadon,Wangdue Phodrang,Thimphu,Construction,Zawakha,jaiprakash associates,jaiprakash associates
+86,Rajiv Chhetri,448886,Routine Inspection,2026-04-01,"Pema Lhamo,Tshering Dema,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Construction,Changbangdu,rajiv chhetri,rajiv chhetri
+88,Druk Norzang Private Limited,448888,Routine Inspection,2026-04-01,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Thinley Wangmo,Thimphu,Thimphu,Construction,Lungtenphu,druk norzang,druk norzang
+89,Khandu Wangmo,448889,Routine Inspection,2026-04-01,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Thinley Wangmo,Thimphu,Thimphu,Construction,Lungtenphu,khandu wangmo,khandu wangmo
+90,Dheyma-Vajra JV,448890,Routine Inspection,2026-04-01,"Thinley Wangmo,Pema Lhamo,Tshering Dema",Thinley Wangmo,Thimphu,Thimphu,Construction,Babesa,dheyma vajra jv,dheyma vajra jv
+91,Namgay Tshering,448891,Routine Inspection,2026-04-01,"Thinley Wangmo,Tshering Dema,Pema Lhamo",Tshering Dema,Thimphu,Thimphu,Unknown,Babesa,namgay tshering,namgay tshering
+92,Institute of Skills & Management Studies,448892,Routine Inspection,2026-04-01,"Tshering Yangki,Thinley Gyeltshen,Pema Lhamo,Ugyen Lhadon",Ugyen Lhadon,Thimphu,Thimphu,Administrative and support services,Jungshina,institute of skills management studies,institute of skills management studies
+93,Choki Automobile Workshop,448894,Routine Inspection,2026-04-06,"Ugyen Lhadon,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,"Professional, scientific and technical services",Olakha,choki automobile workshop,choki automobile workshop
+94,M/s Lungten Automobile Workshop Olarongchu Thimphu,448895,Routine Inspection,2026-04-06,"Ugyen Lhadon,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,"Professional, scientific and technical services",Olakha,m s lungten automobile workshop olarongchu thimphu,m s lungten automobile workshop olarongchu thimphu
+95,Kuenzang Automobile Workshop,448896,Routine Inspection,2026-04-06,"Ugyen Lhadon,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,"Professional, scientific and technical services",Olakha,kuenzang automobile workshop,kuenzang automobile workshop
+96,Yangki Automobile,448897,Routine Inspection,2026-04-06,"Pema Lhamo,Ugyen Lhadon",Pema Lhamo,Thimphu,Thimphu,"Professional, scientific and technical services",Olakha,yangki automobile,yangki automobile
+97,Garden kuenjung Auto Workshop,448907,Routine Inspection,2026-04-09,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchhu/Olakha,garden kuenjung auto workshop,garden kuenjung auto workshop
+98,Kancha Automobile Workshop,448910,Routine Inspection,2026-04-08,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olarangchu/Olakha,kancha automobile workshop,kancha automobile workshop
+99,Pelbar Geyphyel Automobile,448918,Routine Inspection,2026-04-08,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu/Olakha,pelbar geyphyel automobile,pelbar geyphyel automobile
+100,Changba Automobile Workshop,448920,Routine Inspection,2026-04-08,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu/Olakha,changba automobile workshop,changba automobile workshop
+101,Yangchen Automobile Workshop,448921,Routine Inspection,2026-04-08,"Tshering Dema,Thinley Wangmo",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu/Olakha,yangchen automobile workshop,yangchen automobile workshop
+102,U.J Automobile Workshop,448922,Routine Inspection,2026-04-08,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu/Olakha,u j automobile workshop,u j automobile workshop
+103,Trans Himalayan Automobiles,448923,Routine Inspection,2026-04-08,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu/Olakha,trans himalayan automobiles,trans himalayan automobiles
+104,BAiL Auto & Industrial Lubricants,448924,Routine Inspection,2026-04-08,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Wholesale and retail trade,"Olarongchu, Olakha",bail auto industrial lubricants,bail auto industrial lubricants
+105,Dorji Auto Parts & Electrical Repair Service,448925,Routine Inspection,2026-04-08,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Wholesale and retail trade,Olarongchu.Olakha,dorji auto parts electrical repair service,dorji auto parts electrical repair service
+106,Viviek Automobile Workshop,448926,Routine Inspection,2026-04-06,"Ugyen Lhadon,Pema Lhamo",Ugyen Lhadon,Thimphu,Thimphu,Other Services,Olakha,viviek automobile workshop,viviek automobile workshop
+107,Purna Automobile Workshop,448927,Routine Inspection,2026-04-06,"Ugyen Lhadon,Pema Lhamo",Ugyen Lhadon,Thimphu,Thimphu,Other Services,Olakha,purna automobile workshop,purna automobile workshop
+108,Karma Wangmo Auto Mobile Service,448928,Routine Inspection,2026-04-06,"Pema Lhamo,Ugyen Lhadon",Ugyen Lhadon,Thimphu,Thimphu,Other Services,Olakha,karma wangmo auto mobile service,karma wangmo auto mobile service
+109,J.S spare parts and accessories,448929,Routine Inspection,2026-04-09,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Wholesale and retail trade,Olarongchu/Olakha,j s spare parts and accessories,j s spare parts and accessories
+110,Bhutan Eco Automobiles,448930,Routine Inspection,2026-04-09,"Thinley Wangmo,Thinley Wangmo",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu/Olakha,bhutan eco automobiles,bhutan eco automobiles
+111,Deki Dema Spare Parts,448931,Routine Inspection,2026-04-09,"Tshering Dema,Thinley Wangmo",Tshering Dema,Thimphu,Thimphu,Wholesale and retail trade,Olarongchu/Olakha,deki dema spare parts,deki dema spare parts
+112,Kuenjung Automobile Workshop,448932,Routine Inspection,2026-04-23,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu/Olakha,kuenjung automobile workshop,kuenjung automobile workshop
+113,Dhendup Automobiles,448933,Routine Inspection,2026-04-09,"Tshering Dema,Thinley Wangmo",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu/Olakha,dhendup automobiles,dhendup automobiles
+114,Dhendup Auto Spare Parts,448934,Routine Inspection,2026-04-09,"Tshering Dema,Thinley Wangmo",Tshering Dema,Thimphu,Thimphu,Wholesale and retail trade,Olarongchu/Olakha,dhendup auto spare parts,dhendup auto spare parts
+115,Reina Sampheling Automobile Workshop,448935,Routine Inspection,2026-04-09,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu/Olakha,reina sampheling automobile workshop,reina sampheling automobile workshop
+116,Dagap Brothers Automobile,448936,Routine Inspection,2026-04-09,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu/Olakha,dagap brothers automobile,dagap brothers automobile
+117,Tashi Khel Automobile Workshop,448937,Routine Inspection,2026-04-09,"Tshering Dema,Thinley Wangmo",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu /Olakha,tashi khel automobile workshop,tashi khel automobile workshop
+118,A.S Automobile Workshop,448938,Routine Inspection,2026-04-09,"Tshering Dema,Thinley Wangmo",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu/Olakha,a s automobile workshop,a s automobile workshop
+119,R D Engineering Workshop,448939,Routine Inspection,2026-04-09,"Tshering Dema,Thinley Wangmo",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu/Olakha,r d engineering workshop,r d engineering workshop
+120,Ghalley Auto Electrical Workshop,448940,Routine Inspection,2026-04-09,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu/Olakha,ghalley auto electrical workshop,ghalley auto electrical workshop
+121,Chheme Auto Workshop,448941,Routine Inspection,2026-04-24,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu/Olakha,chheme auto workshop,chheme auto workshop
+122,Karma Tenzin Automobile Workshop,448942,Routine Inspection,2026-04-10,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu/Olakha,karma tenzin automobile workshop,karma tenzin automobile workshop
+123,Lakpa Engineering Workshop,448943,Routine Inspection,2026-04-10,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu,lakpa engineering workshop,lakpa engineering workshop
+124,NSK Automobile Workshop,448944,Routine Inspection,2026-05-06,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu,nsk automobile workshop,nsk automobile workshop
+125,Dawa Automobile Workshop,448945,Routine Inspection,2026-04-10,"Tshering Dema,Thinley Wangmo",Tshering Dema,Thimphu,Thimphu,Manufacturing,Olarongchu,dawa automobile workshop,dawa automobile workshop
+126,Tashi Dungkarling Automobile Workshop,448946,Routine Inspection,2026-04-10,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu,tashi dungkarling automobile workshop,tashi dungkarling automobile workshop
+127,Tandin Auto Electric Workshop,448947,Routine Inspection,2026-04-10,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu,tandin auto electric workshop,tandin auto electric workshop
+129,Tee Dee Auto Works,448949,Routine Inspection,2026-04-10,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu,tee dee auto works,tee dee auto works
+130,Bali Raj Rai,448975,Routine Inspection,2026-05-04,"Thinley Wangmo,Dorji Gyeltshen,Pema Lhamo",Thinley Wangmo,Thimphu,Thimphu,Construction,Changbangdu,bali raj rai,bali raj rai
+131,Pema Thinley,448976,Routine Inspection,2026-05-04,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Pema Lhamo,Thimphu,Thimphu,Construction,Changbangdu,pema thinley,pema thinley
+132,Phurba Dorji,448977,Routine Inspection,2026-05-04,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Pema Lhamo,Thimphu,Thimphu,Construction,Changbangdu,phurba dorji,phurba dorji
+133,Thimphu ThromdeThimphu Thromde,448978,Routine Inspection,2026-05-05,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Thinley Wangmo,Thimphu,Thimphu,"Public administration and defense,compulsory social security",Pamtsho,thimphu thromdethimphu thromde,thimphu thromdethimphu thromde
+134,Ninda Wangmo,448979,Routine Inspection,2026-05-05,"Thinley Wangmo,Pema Lhamo,Dorji Gyeltshen",Pema Lhamo,Thimphu,Thimphu,Construction,Jungshina,ninda wangmo,ninda wangmo
+135,Ugyen Tshering,448980,Routine Inspection,2026-05-08,"Dorji Gyeltshen,Pema Lhamo,Thinley Wangmo",Pema Lhamo,Thimphu,Thimphu,Construction,Taba,ugyen tshering,ugyen tshering
+136,Kezang Dawa,448981,Routine Inspection,2026-05-07,"Pema Lhamo,Dorji Gyeltshen,Thinley Wangmo",Pema Lhamo,Thimphu,Thimphu,Construction,"Hejo,Samteling",kezang dawa,kezang dawa
+137,Devika Rani Rai,448982,Routine Inspection,2026-05-05,"Dechen Tshomo,Tshering Dema,Ugyen Lhadon",Ugyen Lhadon,Thimphu,Thimphu,Construction,Depsi,devika rani rai,devika rani rai
+138,Kinley Chimi Construction,448983,Routine Inspection,2026-05-05,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Ugyen Lhadon,Thimphu,Thimphu,Construction,Babesa,kinley chimi construction,kinley chimi construction
+139,Dratshang LhentshogTala Goenpa Chobuel Yojey,448984,Routine Inspection,2026-05-05,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Ugyen Lhadon,Thimphu,Thimphu,Education,Babesa,dratshang lhentshogtala goenpa chobuel yojey,dratshang lhentshogtala goenpa chobuel yojey
+140,Yarphel Furniture Unit,448985,Routine Inspection,2026-05-05,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Ugyen Lhadon,Thimphu,Thimphu,Manufacturing,Babesa,yarphel furniture unit,yarphel furniture unit
+141,Sonam Tshering,448986,Routine Inspection,2026-05-05,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Ugyen Lhadon,Thimphu,Thimphu,Construction,Babesa,sonam tshering,sonam tshering
+142,Tashi Topgyal,448987,Routine Inspection,2026-05-05,"Ugyen Lhadon,Dechen Tshomo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Babesa,tashi topgyal,tashi topgyal
+143,DRUK HOME BUILDER,448988,Routine Inspection,2026-05-05,"Dechen Tshomo,Tshering Dema,Ugyen Lhadon",Tshering Dema,Thimphu,Thimphu,Construction,Babesa,druk home builder,druk home builder
+144,Lama Dorji,448989,Routine Inspection,2026-05-05,"Dechen Tshomo,Tshering Dema,Ugyen Lhadon",Tshering Dema,Thimphu,Thimphu,Construction,Babesa,lama dorji,lama dorji
+145,Bali Raj Rai,448990,Routine Inspection,2026-05-06,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Construction,Changbangdu,bali raj rai,bali raj rai
+146,Pema Thinley,448991,Routine Inspection,2026-05-06,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Construction,Changbangdu,pema thinley,pema thinley
+147,Dorji Tshering,448992,Routine Inspection,2026-05-06,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Construction,Changbangdhu,dorji tshering,dorji tshering
+148,Phurba Dorji,448993,Routine Inspection,2026-05-06,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Construction,Changbangdhu,phurba dorji,phurba dorji
+149,Sayden,448994,Routine Inspection,2026-05-06,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Unknown,Changbangdu,sayden,sayden
+150,Ugyen Wangmo,448995,Routine Inspection,2026-05-06,"Thinley Wangmo,Pema Lhamo,Dorji Gyeltshen",Pema Lhamo,Thimphu,Thimphu,Construction,Changtagang,ugyen wangmo,ugyen wangmo
+151,Mandala Builders,448996,Routine Inspection,2026-05-06,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Pema Lhamo,Thimphu,Thimphu,Construction,Dangrina,mandala builders,mandala builders
+152,M/s GAYJUR Construction Company Pvt Ltd,448997,Routine Inspection,2026-05-06,"Thinley Wangmo,Pema Lhamo,Dorji Gyeltshen",Thinley Wangmo,Thimphu,Thimphu,Construction,Sharabgatshel ps,m s gayjur construction,m s gayjur construction
+153,Tshering Yangzom,448998,Routine Inspection,2026-05-06,"Thinley Wangmo,Dorji Gyeltshen,Pema Lhamo",Thinley Wangmo,Thimphu,Thimphu,Construction,Dechencholing,tshering yangzom,tshering yangzom
+154,O.S.T Construction Private Limited,448999,Routine Inspection,2026-05-06,"Thinley Wangmo,Pema Lhamo,Dorji Gyeltshen",Pema Lhamo,Thimphu,Thimphu,Construction,Dechencholing,o s t construction,o s t construction
+155,Jurme Yeshe Phuntsho,449000,Routine Inspection,2026-05-06,"Pema Lhamo,Dorji Gyeltshen,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Construction,Begana,jurme yeshe phuntsho,jurme yeshe phuntsho
+156,Kinley Wangmo,449003,Routine Inspection,2026-05-11,"Dorji Gyeltshen,Pema Lhamo,Thinley Wangmo",Dorji Gyeltshen,Paro,Thimphu,Construction,Bara,kinley wangmo,kinley wangmo
+157,Tshering Dema,449004,Routine Inspection,2026-05-12,"Dorji Gyeltshen,Pema Lhamo,Thinley Wangmo",Dorji Gyeltshen,Paro,Thimphu,Construction,Bondey,tshering dema,tshering dema
+158,Rinchen Lham,449006,Routine Inspection,2026-05-12,"Pema Lhamo,Dorji Gyeltshen,Thinley Wangmo",Thinley Wangmo,Paro,Thimphu,Construction,"Above AMC, Paro",rinchen lham,rinchen lham
+159,Chencho Dorji,449007,Routine Inspection,2026-05-12,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Pema Lhamo,Paro,Thimphu,Construction,Bonday,chencho dorji,chencho dorji
+160,Deki Wangmo,449008,Routine Inspection,2026-05-12,"Pema Lhamo,Dorji Gyeltshen,Thinley Wangmo",Thinley Wangmo,Paro,Thimphu,Construction,Bondey,deki wangmo,deki wangmo
+161,Dechen Pemo,449010,Routine Inspection,2026-05-12,"Dorji Gyeltshen,Pema Lhamo,Thinley Wangmo",Dorji Gyeltshen,Paro,Thimphu,Construction,Damjee,dechen pemo,dechen pemo
+162,Namgay Rinchen,449011,Routine Inspection,2026-05-12,"Thinley Wangmo,Pema Lhamo,Dorji Gyeltshen",Thinley Wangmo,Paro,Thimphu,Construction,Richukha,namgay rinchen,namgay rinchen
+163,Dorji Khandu,449012,Routine Inspection,2026-05-12,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Pema Lhamo,Paro,Thimphu,Construction,Jukha Dopshari,dorji khandu,dorji khandu
+164,Kezang,449013,Routine Inspection,2026-05-11,"Dorji Gyeltshen,Thinley Wangmo,Pema Lhamo",Dorji Gyeltshen,Paro,Thimphu,Construction,Richukha,kezang,kezang
+165,Phuntsho,449014,Routine Inspection,2026-05-12,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Thinley Wangmo,Paro,Thimphu,Construction,Tsendona,phuntsho,phuntsho
+166,Sunny Drukla,449015,Routine Inspection,2026-05-11,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,"Professional, scientific and technical services",Shaba,sunny drukla,sunny drukla
+167,Chakra Subba,449016,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Ngoba,chakra subba,chakra subba
+168,Onsen Karma Private Limited,449017,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Phangdo,onsen karma,onsen karma
+169,Man Maya Rai,449018,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Kitchu,man maya rai,man maya rai
+170,Pem Tshomo,449019,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Shomo,pem tshomo,pem tshomo
+171,Sonam Choden,449020,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Ngoba,sonam choden,sonam choden
+172,Trulku Dorji Thogme,449021,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Ngoba,trulku dorji thogme,trulku dorji thogme
+173,Mindu Tshering,449023,Routine Inspection,2026-05-13,"Dorji Gyeltshen,Thinley Wangmo,Pema Lhamo",Dorji Gyeltshen,Paro,Thimphu,Construction,Woochu,mindu tshering,mindu tshering
+174,Ugyen Tshering,449024,Routine Inspection,2026-05-13,"Thinley Wangmo,Pema Lhamo,Dorji Gyeltshen",Thinley Wangmo,Paro,Thimphu,Construction,Chukha,ugyen tshering,ugyen tshering
+175,Nisha Limbu,449025,Routine Inspection,2026-05-13,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Kharilamyo,nisha limbu,nisha limbu
+176,Pem Deki,449026,Routine Inspection,2026-05-13,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Tsatsam,pem deki,pem deki
+177,Choden,449027,Routine Inspection,2026-05-13,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Jitshephu,choden,choden
+178,Chenzom,449028,Routine Inspection,2026-05-13,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Drugyel,chenzom,chenzom
+180,Yangzom,449030,Routine Inspection,2026-05-13,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Tsenshi,yangzom,yangzom
+181,Chenchen,449031,Routine Inspection,2026-05-13,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Tshenjee,chenchen,chenchen
+182,Lathos Construction,449032,Routine Inspection,2026-05-13,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Lamgong,lathos construction,lathos construction
+183,Karma Dema,449033,Routine Inspection,2026-05-13,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Lamgong,karma dema,karma dema
+184,Tshering Choden,449034,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Chogzhing,tshering choden,tshering choden
+185,Nima Bidha,449035,Routine Inspection,2026-05-13,"Dorji Gyeltshen,Thinley Wangmo,Pema Lhamo",Dorji Gyeltshen,Paro,Thimphu,Construction,Tshandona,nima bidha,nima bidha
+186,Tshering Choki,449036,Routine Inspection,2026-05-13,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Pema Lhamo,Paro,Thimphu,Construction,Tshelkha Lamgong,tshering choki,tshering choki
+188,Zangmo,449038,Routine Inspection,2026-05-13,"Dorji Gyeltshen,Pema Lhamo,Thinley Wangmo",Dorji Gyeltshen,Paro,Thimphu,Construction,Nyameyzampa,zangmo,zangmo
+189,Ugyen Wangchuk,449039,Routine Inspection,2026-05-13,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Pema Lhamo,Paro,Thimphu,Construction,Chemnasakha,ugyen wangchuk,ugyen wangchuk
+190,Dawa,449040,Routine Inspection,2026-05-13,"Dorji Gyeltshen,Pema Lhamo,Thinley Wangmo",Dorji Gyeltshen,Paro,Thimphu,Construction,Wangchang,dawa,dawa
+191,Nidu Tshering,449041,Routine Inspection,2026-05-13,"Dorji Gyeltshen,Pema Lhamo,Pema Lhamo",Dorji Gyeltshen,Paro,Thimphu,Construction,Nyamezampa,nidu tshering,nidu tshering
+192,Ugyen Penjor,449042,Routine Inspection,2026-05-13,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Pema Lhamo,Paro,Thimphu,Construction,Tsendona,ugyen penjor,ugyen penjor
+193,Karma Phuntsho Wangdi,449043,Routine Inspection,2026-05-13,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Thinley Wangmo,Paro,Thimphu,Unknown,Tshakha,karma phuntsho wangdi,karma phuntsho wangdi
+194,Choki,449051,Routine Inspection,2026-05-14,"Dorji Gyeltshen,Pema Lhamo,Thinley Wangmo",Dorji Gyeltshen,Paro,Thimphu,Construction,Gebjana,choki,choki
+195,Pem Dem,449052,Routine Inspection,2026-05-14,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Nemjo,pem dem,pem dem
+196,Dendy,449053,Routine Inspection,2026-05-14,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Unknown,Yoezerling,dendy,dendy
+197,Choney Wangmo,449054,Routine Inspection,2026-05-14,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Shomo,choney wangmo,choney wangmo
+198,Sonam Dema,449055,Routine Inspection,2026-05-14,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Nemjo,sonam dema,sonam dema
+199,Penjor,449056,Routine Inspection,2026-05-14,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Dongkensham,penjor,penjor
+200,Wangmo,449057,Routine Inspection,2026-05-14,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Geptay,wangmo,wangmo
+201,Tandin Wangmo,449058,Routine Inspection,2026-05-14,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Geptay,tandin wangmo,tandin wangmo
+202,Tashi Phuntsho,449059,Routine Inspection,2026-05-14,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Paro Hospital,tashi phuntsho,tashi phuntsho
+203,Dechen Tshomo,449060,Routine Inspection,2026-05-15,"Dorji Gyeltshen,Thinley Wangmo,Pema Lhamo",Thinley Wangmo,Thimphu,Thimphu,Construction,Khasadrapchu,dechen tshomo,dechen tshomo
+204,Chencho Dema,449061,Routine Inspection,2026-05-15,"Pema Lhamo,Dorji Gyeltshen,Thinley Wangmo",Thinley Wangmo,Paro,Thimphu,Construction,Wanakha,chencho dema,chencho dema
+205,Denka,449062,Routine Inspection,2026-05-15,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Thinley Wangmo,Paro,Thimphu,Construction,Rangshigang,denka,denka
+206,Tshering Wangdi,449063,Routine Inspection,2026-05-15,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Thinley Wangmo,Haa,Thimphu,Construction,Haa Throm,tshering wangdi,tshering wangdi
+207,Tshering Wangmo,449064,Routine Inspection,2026-05-15,"Tshering Dema,Ugyen Lhadon,Dechen Tshomo",Dechen Tshomo,Haa,Thimphu,Construction,Haa Throm,tshering wangmo,tshering wangmo
+209,Norbu Tshering,449066,Routine Inspection,2026-05-15,"Tshering Dema,Ugyen Lhadon,Dechen Tshomo",Dechen Tshomo,Haa,Thimphu,Construction,"Lhayel Ka, Haa",norbu tshering,norbu tshering
+211,Tshering Pem,449068,Routine Inspection,2026-05-14,"Thinley Wangmo,Pema Lhamo,Dorji Gyeltshen",Thinley Wangmo,Paro,Thimphu,Construction,Gabjana,tshering pem,tshering pem
+212,Ugyen Choden,449069,Routine Inspection,2026-05-14,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Thinley Wangmo,Paro,Thimphu,Construction,Luni,ugyen choden,ugyen choden
+214,Dorji,449071,Routine Inspection,2026-05-15,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Haa,Thimphu,Construction,Kajena,dorji,dorji
+215,Phuntsho Construction,449072,Routine Inspection,2026-05-15,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Haa,Thimphu,Construction,Haa Throm,phuntsho construction,phuntsho construction
+216,TSAMGAR Construction Private Limited,449073,Routine Inspection,2026-05-15,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Haa,Thimphu,Construction,Gongzim Ugyen Dorji HSS,tsamgar construction,tsamgar construction
+217,Thinley,449074,Routine Inspection,2026-05-14,"Thinley Wangmo,Dorji Gyeltshen,Pema Lhamo",Thinley Wangmo,Paro,Thimphu,Construction,Drugyeldingkha,thinley,thinley
+218,Sonam Kiba,449075,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Shomo,sonam kiba,sonam kiba
+220,Tashi Dorji,449077,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Nemjo,tashi dorji,tashi dorji
+221,Pem Dem,449078,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Nemjo,pem dem,pem dem
+222,Druk KarZey Builder Private Limited,449079,Routine Inspection,2026-05-12,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Drugyel,druk karzey builder,druk karzey builder
+224,Dema Yangzom,449091,Routine Inspection,2026-05-15,"Pema Lhamo,Dorji Gyeltshen,Thinley Wangmo",Pema Lhamo,Paro,Thimphu,Unknown,Drugyeldingkha,dema yangzom,dema yangzom
+225,Dawa,449092,Routine Inspection,2026-05-15,"Pema Lhamo,Dorji Gyeltshen,Thinley Wangmo",Pema Lhamo,Paro,Thimphu,Unknown,Bong Phel Nang,dawa,dawa
+227,Tandin Samphel Norbu,449108,Routine Inspection,2026-05-19,"Dechen Tshomo,Thinley Wangmo,Ugyen Lhadon",Thinley Wangmo,Punakha,Thimphu,Construction,Laptsakha,tandin samphel norbu,tandin samphel norbu
+228,Yeega Selden,449109,Routine Inspection,2026-05-19,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Bala,yeega selden,yeega selden
+229,Chimi Wangmo & Karma Phuntsho,449110,Routine Inspection,2026-05-19,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Khuruthang,chimi wangmo karma phuntsho,chimi wangmo karma phuntsho
+230,Suk Bdr Tamang,449111,Routine Inspection,2026-05-19,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Khuruthang,suk bdr tamang,suk bdr tamang
+231,Issup Construction Private Limited,449112,Routine Inspection,2026-05-19,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Khuruthang,issup construction,issup construction
+232,Wangchuk,449113,Routine Inspection,2026-05-19,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Wangchuk,wangchuk,wangchuk
+233,Thinley Dorji,449114,Routine Inspection,2026-05-19,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Khuruthang,thinley dorji,thinley dorji
+234,U. L. T construction,449124,Routine Inspection,2026-05-19,"Sonam Geley Dorjee,Ngawang Norbu",Sonam Geley Dorjee,Thimphu,Thimphu,Construction,Kawajangsa,u l t construction,u l t construction
+235,Pema Namgay,449125,Routine Inspection,2026-05-20,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Kabjisa,pema namgay,pema namgay
+236,Phen-dey Zangmo Construction,449126,Routine Inspection,2026-05-20,"Thinley Wangmo,Dechen Tshomo,Ugyen Lhadon",Thinley Wangmo,Punakha,Thimphu,Construction,Kabesa,phen dey zangmo construction,phen dey zangmo construction
+237,Choden,449127,Routine Inspection,2026-05-20,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Serigang,choden,choden
+238,Yoejung Construction,449128,Routine Inspection,2026-05-20,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Punakha Highway,yoejung construction,yoejung construction
+239,Pema Choki,449129,Routine Inspection,2026-05-20,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Wangdue Phodrang,Thimphu,Construction,Thango,pema choki,pema choki
+240,Druk Chapchab Const. Pvt. Ltd,449158,Routine Inspection,2026-05-21,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,"Lobesa, CNR",druk chapchab const,druk chapchab const
+241,Design & Build Private Limited,449159,Routine Inspection,2026-05-21,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,"CNR, Lobesa",design build,design build
+242,Rinchen Buli Construction,449160,Routine Inspection,2026-05-21,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,"CNR, lobesa",rinchen buli construction,rinchen buli construction
+243,Sangay Lhamo,449161,Routine Inspection,2026-05-21,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Yusakha,sangay lhamo,sangay lhamo
+244,Pelzang Buthe,449162,Routine Inspection,2026-05-21,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Tongphutsawa,pelzang buthe,pelzang buthe
+245,Bhakta Maya Labar,449163,Routine Inspection,2026-05-22,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Dechen Tshomo,Wangdue Phodrang,Thimphu,Construction,"Thangkhu, Wangdue Phodrang",bhakta maya labar,bhakta maya labar
+246,Yangphel Private Limited,449164,Routine Inspection,2026-05-22,"Dechen Tshomo,Ugyen Lhadon,Thinley Wangmo",Thinley Wangmo,Punakha,Thimphu,Other Services,Ewakha,yangphel,yangphel
+247,Sangay Wangmo,449165,Routine Inspection,2026-05-22,"Thinley Wangmo,Dechen Tshomo,Ugyen Lhadon",Thinley Wangmo,Punakha,Thimphu,Construction,Yuwakha,sangay wangmo,sangay wangmo
+248,Yonten,449166,Routine Inspection,2026-05-22,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Yuwakha,yonten,yonten
+249,Namgay Zangmo,449167,Routine Inspection,2026-05-22,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Yuwakha,namgay zangmo,namgay zangmo
+250,Namgay Zam,449168,Routine Inspection,2026-05-22,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Pungdzong,namgay zam,namgay zam
+251,Sonam,449169,Routine Inspection,2026-05-22,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Zomi,sonam,sonam
+252,tobden construction,449170,Routine Inspection,2026-05-22,"Thinley Wangmo,Dechen Tshomo,Ugyen Lhadon",Thinley Wangmo,Wangdue Phodrang,Thimphu,Construction,Bajo Throm,tobden construction,tobden construction
+253,Passang Dema,449171,Routine Inspection,2026-05-22,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Wangdue Phodrang,Thimphu,Construction,Bajo Throm,passang dema,passang dema
+254,Chimi Dema,449172,Routine Inspection,2026-05-22,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Wangdue Phodrang,Thimphu,Construction,Bajo Throm,chimi dema,chimi dema
+255,Phub Dem,449173,Routine Inspection,2026-05-21,"Dechen Tshomo,Thinley Wangmo,Ugyen Lhadon",Thinley Wangmo,Punakha,Thimphu,Unknown,Lobesa,phub dem,phub dem
+256,Aita Singh Gajmer,449174,Routine Inspection,2026-05-23,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Wangdue Phodrang,Thimphu,Construction,Thangkhu,aita singh gajmer,aita singh gajmer
+257,J.M Builders Pvt.LTD,449175,Routine Inspection,2026-05-23,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Wangdue Phodrang,Thimphu,Construction,TTI samthang,j m builders,j m builders
+258,Construction Development Corporation Limited,449176,Routine Inspection,2026-05-23,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Wangdue Phodrang,Thimphu,Construction,Bajo Throm,construction development,construction development
+259,Phurba,449177,Routine Inspection,2026-05-22,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Tshokhana,phurba,phurba
+260,Yoebar T Construction,449178,Routine Inspection,2026-05-23,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Messina Town,yoebar t construction,yoebar t construction
+261,Ugyel Rabsel Workshop,449179,Routine Inspection,2026-05-25,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Other Services,Tshokhana,ugyel rabsel workshop,ugyel rabsel workshop
+262,Rinchen Wangdi,449180,Routine Inspection,2026-05-25,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Bjichulum,rinchen wangdi,rinchen wangdi
+263,Anjuli Darjee,449181,Routine Inspection,2026-05-25,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Mendelgang,anjuli darjee,anjuli darjee
+264,Thangu Wood Works,449182,Routine Inspection,2026-05-22,"Thinley Wangmo,Ugyen Lhadon,Dechen Tshomo",Thinley Wangmo,Wangdue Phodrang,Thimphu,Manufacturing,Thango,thangu wood works,thangu wood works
+265,YT Trading,449183,Routine Inspection,2026-05-25,"Ugyen Lhadon,Thinley Wangmo,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Wholesale and retail trade,Tshokona,yt trading,yt trading
+266,Tenzin Shacha,449184,Routine Inspection,2026-05-26,"Pema Lhamo,Dorji Gyeltshen,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Construction,Jazam,tenzin shacha,tenzin shacha
+267,Khendum Dorji,449185,Routine Inspection,2026-05-25,"Dorji Gyeltshen,Pema Lhamo",Dorji Gyeltshen,Thimphu,Thimphu,Construction,Jazam,khendum dorji,khendum dorji
+268,Sunita Chhetri,449202,Routine Inspection,2026-05-27,"Pema Lhamo,Dechen Tshomo,Ugyen Lhadon",Pema Lhamo,Thimphu,Thimphu,Construction,Babesa,sunita chhetri,sunita chhetri
+269,Sonam Tshering,449203,Routine Inspection,2026-05-27,"Pema Lhamo,Ugyen Lhadon,Dechen Tshomo",Pema Lhamo,Thimphu,Thimphu,Construction,Babesa,sonam tshering,sonam tshering
+270,Tashi Topgyal,449204,Routine Inspection,2026-05-27,"Pema Lhamo,Ugyen Lhadon,Dechen Tshomo",Pema Lhamo,Thimphu,Thimphu,Other Services,Babesa,tashi topgyal,tashi topgyal
+271,Dema,449205,Routine Inspection,2026-05-27,"Ugyen Lhadon,Dechen Tshomo,Pema Lhamo",Ugyen Lhadon,Thimphu,Thimphu,Construction,Changjiji,dema,dema
+272,Kinley Chimi Construction,449206,Routine Inspection,2026-05-27,"Pema Lhamo,Dechen Tshomo,Ugyen Lhadon",Pema Lhamo,Thimphu,Thimphu,Construction,Babesa,kinley chimi construction,kinley chimi construction
+273,Dratshang LhentshogTala Goenpa Chobuel Yojey,449207,Routine Inspection,2026-05-27,"Pema Lhamo,Dechen Tshomo,Ugyen Lhadon",Pema Lhamo,Thimphu,Thimphu,Education,Babesa,dratshang lhentshogtala goenpa chobuel yojey,dratshang lhentshogtala goenpa chobuel yojey
+274,Drukgyal Workshop,449208,Routine Inspection,2026-05-27,"Thinley Wangmo,Dorji Gyeltshen,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu,drukgyal workshop,drukgyal workshop
+275,Nima Om,449209,Routine Inspection,2026-05-27,"Ugyen Lhadon,Dechen Tshomo,Pema Lhamo",Ugyen Lhadon,Thimphu,Thimphu,Construction,Lungtenphu,nima om,nima om
+276,Sonam Automobile,449210,Routine Inspection,2026-05-27,"Dorji Gyeltshen,Tshering Dema,Thinley Wangmo",Tshering Dema,Thimphu,Thimphu,Other Services,Olarongchu,sonam automobile,sonam automobile
+277,Dungkar Ugyen Automobile Workshop,449211,Routine Inspection,2026-05-27,"Dorji Gyeltshen,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olarongchu,dungkar ugyen automobile workshop,dungkar ugyen automobile workshop
+278,Lobzang Nima,449212,Routine Inspection,2026-05-27,"Pema Lhamo,Ugyen Lhadon,Dechen Tshomo",Dechen Tshomo,Thimphu,Thimphu,Construction,Babesa,lobzang nima,lobzang nima
+279,Dorji,449213,Routine Inspection,2026-05-27,"Ugyen Lhadon,Pema Lhamo,Dechen Tshomo",Dechen Tshomo,Thimphu,Thimphu,Construction,Lungtenphu,dorji,dorji
+280,Royal Bhutan ArmyRBA Head Quarter,449214,Routine Inspection,2026-05-27,"Ugyen Lhadon,Pema Lhamo,Dechen Tshomo",Dechen Tshomo,Thimphu,Thimphu,"Public administration and defense,compulsory social security",Lungtenphu,royal bhutan armyrba head quarter,royal bhutan armyrba head quarter
+281,The Green Road,449215,Routine Inspection,2026-05-27,"Ugyen Lhadon,Dechen Tshomo,Pema Lhamo",Ugyen Lhadon,Thimphu,Thimphu,Construction,Lungtenphu,the green road,the green road
+282,Dratshang LhentshogTala Goenpa Chobuel Yojey,449216,Routine Inspection,2026-05-28,"Pema Lhamo,Ugyen Lhadon,Dechen Tshomo",Dechen Tshomo,Thimphu,Thimphu,Education,Babesa,dratshang lhentshogtala goenpa chobuel yojey,dratshang lhentshogtala goenpa chobuel yojey
+283,Tsengo,449217,Routine Inspection,2026-05-27,"Ugyen Lhadon,Dechen Tshomo,Pema Lhamo",Ugyen Lhadon,Thimphu,Thimphu,Unknown,Lungtenphu Lap,tsengo,tsengo
+284,Norzin Enterprise,449219,Routine Inspection,2026-05-27,"Dorji Gyeltshen,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Wholesale and retail trade,Olarongchu,norzin enterprise,norzin enterprise
+285,Nirmala Tamang,449220,Routine Inspection,2026-05-28,"Pema Lhamo,Ugyen Lhadon,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Construction,Hongtsho,nirmala tamang,nirmala tamang
+286,Tenzin Wangmo,449221,Routine Inspection,2026-05-28,"Pema Lhamo,Tshering Dema,Ugyen Lhadon",Pema Lhamo,Thimphu,Thimphu,Construction,"Ngabiphu, Near RTC",tenzin wangmo,tenzin wangmo
+287,Phuensum Builders Private Limited,449222,Routine Inspection,2026-05-28,"Ugyen Lhadon,Pema Lhamo,Tshering Dema",Ugyen Lhadon,Thimphu,Thimphu,Construction,Ngabiphu,phuensum builders,phuensum builders
+288,Choden,449223,Routine Inspection,2026-05-28,"Ugyen Lhadon,Pema Lhamo,Tshering Dema",Ugyen Lhadon,Thimphu,Thimphu,Construction,Ngabiphu,choden,choden
+289,Sangay Wangdi,449230,Routine Inspection,2026-06-03,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Construction,"Sisina, Mewang",sangay wangdi,sangay wangdi
+290,Leki Pem,449231,Routine Inspection,2026-06-03,"Pema Lhamo,Tshering Dema,Thinley Wangmo",Pema Lhamo,Thimphu,Thimphu,Construction,"Langdro, Mewang",leki pem,leki pem
+291,Kelzang Dawa,449232,Routine Inspection,2026-06-03,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Construction,Geney,kelzang dawa,kelzang dawa
+292,Rinzin Choden,449233,Routine Inspection,2026-06-03,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Construction,Gedagom,rinzin choden,rinzin choden
+293,Kinley Wangmo,449234,Routine Inspection,2026-06-03,"Pema Lhamo,Tshering Dema,Thinley Wangmo",Pema Lhamo,Thimphu,Thimphu,Construction,Gedagom,kinley wangmo,kinley wangmo
+294,Yongchab Engineering Solution,449264,Routine Inspection,2026-06-04,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Manufacturing,Bjemina,yongchab engineering solution,yongchab engineering solution
+295,Lhadon,449265,Routine Inspection,2026-06-05,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Unknown,Hejo,lhadon,lhadon
+296,Bumpa Tshering,449266,Routine Inspection,2026-06-05,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Construction,Hejo,bumpa tshering,bumpa tshering
+297,Bhutan Concrete Bricks,449267,Routine Inspection,2026-06-04,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Manufacturing,Bjemina Industrial Estate,bhutan concrete bricks,bhutan concrete bricks
+298,Tshering Choden,449268,Routine Inspection,2026-06-05,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Construction,Bebena,tshering choden,tshering choden
+299,Lhawang Dorji,449269,Routine Inspection,2026-06-05,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Unknown,Hejo,lhawang dorji,lhawang dorji
+300,Damchae Dem,449270,Routine Inspection,2026-06-04,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Construction,"Near Zero, Babasa",damchae dem,damchae dem
+301,Chencho Gyeltshen,449271,Routine Inspection,2026-06-05,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Construction,Hejo,chencho gyeltshen,chencho gyeltshen
+302,Tandin,449272,Routine Inspection,2026-06-05,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Construction,Hejo,tandin,tandin
+303,Sonam Choden,449273,Routine Inspection,2026-06-05,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Construction,Hejo,sonam choden,sonam choden
+304,Tenzin Dolma,449274,Routine Inspection,2026-06-05,"Pema Lhamo,Thinley Wangmo,Tshering Dema",Thinley Wangmo,Thimphu,Thimphu,Construction,Hejo,tenzin dolma,tenzin dolma
+305,Tashi Deling Construction,449275,Routine Inspection,2026-06-05,"Thinley Wangmo,Pema Lhamo,Tshering Dema",Thinley Wangmo,Thimphu,Thimphu,Construction,Babena,tashi deling construction,tashi deling construction
+306,Ugyen Wangmo,449276,Routine Inspection,2026-06-05,"Thinley Wangmo,Tshering Dema,Pema Lhamo",Thinley Wangmo,Thimphu,Thimphu,Unknown,Hejo,ugyen wangmo,ugyen wangmo
+307,Phub Lhamo,449316,Routine Inspection,2026-06-14,"Dorji Gyeltshen,Tshering Yangki,Ugyen Dorji,Ugyen Lhadon",Dorji Gyeltshen,Punakha,Thimphu,Construction,Gumakarmo,phub lhamo,phub lhamo
+308,Army Sawmill,449317,Routine Inspection,2026-06-14,"Ugyen Dorji,Tshering Yangki,Dorji Gyeltshen,Ugyen Lhadon",Ugyen Lhadon,Wangdue Phodrang,Thimphu,Manufacturing,Tencholing,army sawmill,army sawmill
+309,Thuenkyen Phuntsho Sawmill Unit,449318,Routine Inspection,2026-06-14,"Ugyen Dorji,Tshering Yangki,Dorji Gyeltshen,Ugyen Lhadon",Ugyen Lhadon,Wangdue Phodrang,Thimphu,"Agriculture, forestry and fishing",Wongjukha,thuenkyen phuntsho sawmill unit,thuenkyen phuntsho sawmill unit
+310,Dechen Tshomo,449319,Routine Inspection,2026-06-17,"Dorji Gyeltshen,Ugyen Lhadon,Pema Lhamo",Dorji Gyeltshen,Paro,Thimphu,Construction,"Gangri, Darcagang",dechen tshomo,dechen tshomo
+313,Dema,449330,Routine Inspection,2026-06-17,"Dorji Gyeltshen,Ugyen Lhadon,Pema Lhamo",Ugyen Lhadon,Paro,Thimphu,Construction,Dopshari,dema,dema
+314,Karma Ghalay Wangchuk,449331,Routine Inspection,2026-06-17,"Dorji Gyeltshen,Pema Lhamo,Ugyen Lhadon",Dorji Gyeltshen,Paro,Thimphu,Unknown,Gangri,karma ghalay wangchuk,karma ghalay wangchuk
+318,Namgay Rinchen,449335,Routine Inspection,2026-06-17,"Dorji Gyeltshen,Ugyen Lhadon,Pema Lhamo",Dorji Gyeltshen,Paro,Thimphu,Construction,Rinchukha,namgay rinchen,namgay rinchen
+319,Chencho Om,449336,Routine Inspection,2026-06-17,"Pema Lhamo,Dorji Gyeltshen,Ugyen Lhadon",Pema Lhamo,Paro,Thimphu,Construction,Dopshari,chencho om,chencho om
+320,Tashi Demba,449337,Routine Inspection,2026-06-17,"Pema Lhamo,Dorji Gyeltshen,Ugyen Lhadon",Pema Lhamo,Paro,Thimphu,Construction,Samten Tsemo,tashi demba,tashi demba
+321,Build Assist,449338,Routine Inspection,2026-06-18,"Sonam Wangmo,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Wholesale and retail trade,Changzamtok,build assist,build assist
+322,Yeega Selden,449357,Routine Inspection,2026-06-18,"Thinley Wangmo,Dechen Tshomo,Tshering Dema",Tshering Dema,Punakha,Thimphu,Construction,Bala,yeega selden,yeega selden
+323,Chimi Wangmo & Karma Phuntsho,449358,Routine Inspection,2026-06-18,"Dechen Tshomo,Thinley Wangmo,Tshering Dema",Tshering Dema,Punakha,Thimphu,Construction,Khuruthang,chimi wangmo karma phuntsho,chimi wangmo karma phuntsho
+324,Wangchuk,449359,Routine Inspection,2026-06-18,"Thinley Wangmo,Tshering Dema,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Khuruthang,wangchuk,wangchuk
+325,Sangay Wangmo,449360,Routine Inspection,2026-06-18,"Dechen Tshomo,Thinley Wangmo,Tshering Dema",Dechen Tshomo,Punakha,Thimphu,Construction,Yuwakha,sangay wangmo,sangay wangmo
+326,Namgay Zangmo,449361,Routine Inspection,2026-06-18,"Thinley Wangmo,Tshering Dema,Dechen Tshomo",Thinley Wangmo,Punakha,Thimphu,Construction,Yuwakha,namgay zangmo,namgay zangmo
+327,Tandin Samphel Norbu,449362,Routine Inspection,2026-06-18,"Dechen Tshomo,Tshering Dema,Thinley Wangmo",Dechen Tshomo,Punakha,Thimphu,Construction,Siew Drangsa,tandin samphel norbu,tandin samphel norbu
+328,Suk Bdr Tamang,449363,Routine Inspection,2026-06-18,"Dechen Tshomo,Thinley Wangmo,Tshering Dema",Dechen Tshomo,Punakha,Thimphu,Construction,Khuruthang,suk bdr tamang,suk bdr tamang
+329,Yangphel Private Limited,449364,Routine Inspection,2026-06-18,"Thinley Wangmo,Dechen Tshomo,Tshering Dema",Thinley Wangmo,Punakha,Thimphu,Other Services,Yuwakha,yangphel,yangphel
+330,Thinlay Gyamtsho,449366,Routine Inspection,2026-06-22,"Ugyen Lhadon,Tshering Dema",Ugyen Lhadon,Thimphu,Thimphu,Construction,Babesa,thinlay gyamtsho,thinlay gyamtsho
+331,Megh Raj Tamang,449367,Routine Inspection,2026-06-22,"Ugyen Lhadon,Tshering Dema",Ugyen Lhadon,Thimphu,Thimphu,Construction,Babesa,megh raj tamang,megh raj tamang
+332,Jamyang Loden,449368,Routine Inspection,2026-06-23,"Ugyen Lhadon,Tshering Dema,Thinley Wangmo",Ugyen Lhadon,Thimphu,Thimphu,Construction,Pamtsho,jamyang loden,jamyang loden
+333,Sangay Wangmo,449369,Routine Inspection,2026-06-23,"Ugyen Lhadon,Tshering Dema,Thinley Wangmo",Ugyen Lhadon,Thimphu,Thimphu,Construction,Pamtsho,sangay wangmo,sangay wangmo
+334,Ugyen Wangmo,449370,Routine Inspection,2026-06-23,"Ugyen Lhadon,Tshering Dema,Thinley Wangmo",Ugyen Lhadon,Thimphu,Thimphu,Construction,Pamtsho,ugyen wangmo,ugyen wangmo
+335,Lhamo,449371,Routine Inspection,2026-06-23,"Ugyen Lhadon,Tshering Dema,Thinley Wangmo",Ugyen Lhadon,Thimphu,Thimphu,Construction,Pamtsho,lhamo,lhamo
+336,Yangki Dema,449372,Routine Inspection,2026-06-23,"Ugyen Lhadon,Tshering Dema,Thinley Wangmo",Ugyen Lhadon,Thimphu,Thimphu,Unknown,Jungshina,yangki dema,yangki dema
+338,Kezang Dawa,449374,Routine Inspection,2026-06-23,"Thinley Wangmo,Tshering Dema,Ugyen Lhadon",Tshering Dema,Thimphu,Thimphu,Construction,Jungshina,kezang dawa,kezang dawa
+339,Royal Body GuardRoyal Body Guard,449375,Routine Inspection,2026-06-23,"Thinley Wangmo,Tshering Dema,Ugyen Lhadon",Tshering Dema,Thimphu,Thimphu,"Public administration and defense,compulsory social security",Pamtsho,royal body guardroyal body guard,royal body guardroyal body guard
+340,Choki Gyeltshen,449376,Routine Inspection,2026-06-23,"Thinley Wangmo,Tshering Dema,Ugyen Lhadon",Tshering Dema,Thimphu,Thimphu,Construction,Pamtsho,choki gyeltshen,choki gyeltshen
+341,Sonam Tshomo,449377,Routine Inspection,2026-06-23,"Thinley Wangmo,Tshering Dema,Ugyen Lhadon",Tshering Dema,Thimphu,Thimphu,Construction,Jungshina,sonam tshomo,sonam tshomo
+342,Nob Tshering,449378,Routine Inspection,2026-06-23,"Thinley Wangmo,Tshering Dema,Ugyen Lhadon",Tshering Dema,Thimphu,Thimphu,Construction,Jungshina,nob tshering,nob tshering
+344,Gauri Maya Tamang,449380,Routine Inspection,2026-06-26,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Construction,MOICE head office,gauri maya tamang,gauri maya tamang
+345,YD Auto Mobile Workshop,45000111,Special Inspection,2026-05-27,"Dorji Gyeltshen,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olakha,yd auto mobile workshop,yd auto mobile workshop
+346,R D Engineering Workshop,45000121,Special Inspection,2026-04-09,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olakha,r d engineering workshop,r d engineering workshop
+347,Norzin Automobiles Workshop,45000130,Special Inspection,2026-05-27,"Dorji Gyeltshen,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olokha,norzin automobiles workshop,norzin automobiles workshop
+348,Namsay automobile Workshop,45000140,Special Inspection,2026-04-10,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olakha,namsay automobile workshop,namsay automobile workshop
+349,Yangchen Automobile Workshop,45000169,Special Inspection,2026-04-08,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,olakha,yangchen automobile workshop,yangchen automobile workshop
+351,Tandin Automobile Workshop,45000197,Special Inspection,2026-04-08,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Professional, scientific and technical services",Olakha,tandin automobile workshop,tandin automobile workshop
+352,Choeda Automobile Workshop,45000243,Special Inspection,2026-04-09,"Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Other Services,Olakha,choeda automobile workshop,choeda automobile workshop
+353,Sonam Automobile,45000560,Special Inspection,2026-03-11,"Ugyen Lhadon,Thinley Wangmo",Ugyen Lhadon,Thimphu,Thimphu,Other Services,Olakha,sonam automobile,sonam automobile
+354,Kichu Resort,45000594,Special Inspection,2026-05-11,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Accommodation and Food service activities,Kichu,kichu resort,kichu resort
+355,Hotel Lhayul,45000615,Special Inspection,2025-09-12,Sonam Geley Dorjee,Sonam Geley Dorjee,Haa,Thimphu,Accommodation and Food service activities,haa,hotel lhayul,hotel lhayul
+356,Heruka Security Services,45000628,Special Inspection,2025-12-04,"Sonam Wangmo,Dechen Wangmo Dorji",Sonam Wangmo,Thimphu,Thimphu,"Public administration and defense,compulsory social security",Sangay Enterprise Building,heruka security services,heruka security services
+357,KCR Privite Limited,45000632,Special Inspection,2025-08-13,"Sonam Wangmo,Dechen Wangmo Dorji",Sonam Wangmo,Thimphu,Thimphu,Other Services,Near Hongkong Market,kcr privite,kcr privite
+358,Serphel Energy & Construction,45000633,Special Inspection,2025-07-03,"Dechen Wangmo Dorji,Damcho Wangchuk,Sonam Geley Dorjee,Sonam Wangmo",Dechen Wangmo Dorji,Thimphu,Thimphu,Construction,Babesa,serphel energy construction,serphel energy construction
+359,DRUK EVENTS,45636,Special Inspection,2025-09-05,"Sonam Geley Dorjee,Phuntsho Dendup",Sonam Geley Dorjee,Thimphu,Thimphu,Other Services,Changlimithang,druk events,druk events
+360,DASH GROUP CONSTRUCTION,45638,Special Inspection,2025-09-05,"Sonam Geley Dorjee,Phuntsho Dendup",Sonam Geley Dorjee,Thimphu,Thimphu,Construction,Sabji Bazaar,dash group construction,dash group construction
+361,Yoenang Specialized Firm,45639,Special Inspection,2025-09-05,"Sonam Geley Dorjee,Phuntsho Dendup",Sonam Geley Dorjee,Thimphu,Thimphu,Construction,Changlimithang,yoenang specialized firm,yoenang specialized firm
+362,Pemako,45640,Special Inspection,2025-09-09,"Sonam Geley Dorjee,Phuntsho Dendup",Sonam Geley Dorjee,Punakha,Thimphu,Accommodation and Food service activities,Lhabesa,pemako,pemako
+363,Issup Construction Private Limited,45641,Special Inspection,2025-09-09,"Sonam Geley Dorjee,Phuntsho Dendup",Sonam Geley Dorjee,Punakha,Thimphu,Construction,Kuruthang,issup construction,issup construction
+364,Diamond Hotel,45645,Special Inspection,2025-09-12,Sonam Geley Dorjee,Sonam Geley Dorjee,Paro,Thimphu,Accommodation and Food service activities,Town,diamond hotel,diamond hotel
+365,Venus Hair & Beauty Training Institute,45646,Special Inspection,2025-10-06,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Other Services,Thimphu Town - Opposite to Hotel 89,venus hair beauty training institute,venus hair beauty training institute
+366,8 Eleven - Vivo Bhutan,45647,Special Inspection,2025-10-06,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Wholesale and retail trade,Hongkong Market,8 eleven vivo bhutan,8 eleven vivo bhutan
+368,Build Assist,45649,Special Inspection,2025-10-22,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Wholesale and retail trade,Changzamtok,build assist,build assist
+369,Wildcloud,45650,Special Inspection,2025-10-08,"Sonam Geley Dorjee,Thinley Gyeltshen",Sonam Geley Dorjee,Thimphu,Thimphu,Accommodation and Food service activities,Motithang,wildcloud,wildcloud
+370,Nob Tshering,45652,Special Inspection,2025-10-23,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Construction,Junshina,nob tshering,nob tshering
+371,Tashi Peljor,45653,Special Inspection,2025-10-23,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Construction,Jungshina,tashi peljor,tashi peljor
+372,Penjor,45654,Special Inspection,2025-09-01,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Construction,Babesa,penjor,penjor
+373,Lhundub Dorji,45655,Special Inspection,2025-10-22,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Construction,Babesa,lhundub dorji,lhundub dorji
+374,Mindu Dorji,45657,Special Inspection,2025-11-04,Sonam Geley Dorjee,Sonam Geley Dorjee,Paro,Thimphu,Construction,Bongde,mindu dorji,mindu dorji
+375,Chencho Pem,45658,Special Inspection,2025-11-04,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Construction,Bongde,chencho pem,chencho pem
+376,Mindu Tshering,45659,Special Inspection,2025-11-11,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Construction,Woochu,mindu tshering,mindu tshering
+377,Sherab Wangchuk,45660,Special Inspection,2025-11-05,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Construction,Town,sherab wangchuk,sherab wangchuk
+378,River Front Resort,45661,Special Inspection,2025-11-06,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Accommodation and Food service activities,Tshendona,river front resort,river front resort
+379,Pema Yangsel Hotel,45662,Special Inspection,2025-11-06,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Accommodation and Food service activities,Town,pema yangsel hotel,pema yangsel hotel
+380,Kaachi Grand,45663,Special Inspection,2025-11-07,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Accommodation and Food service activities,Town,kaachi grand,kaachi grand
+381,TaktsangRi-La [SonamMissie Boutique Private Limited ],45664,Special Inspection,2025-11-07,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Accommodation and Food service activities,Tsento,taktsangri la sonammissie boutique,taktsangri la sonammissie boutique
+382,Choki Wangmo,45665,Special Inspection,2025-11-08,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Construction,Town,choki wangmo,choki wangmo
+383,Druk Norzang Private Limited,45666,Special Inspection,2025-11-08,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Construction,Town,druk norzang,druk norzang
+385,Nado,45668,Special Inspection,2025-11-08,"Sonam Geley Dorjee,Tshering Yangki",Sonam Geley Dorjee,Paro,Thimphu,Construction,Town,nado,nado
+386,Druk Gangjong construction,45669,Special Inspection,2025-11-28,"Dechen Wangmo Dorji,Sonam Wangmo",Dechen Wangmo Dorji,Thimphu,Thimphu,Construction,Near YDF,druk gangjong construction,druk gangjong construction
+387,Tshering,45670,Special Inspection,2026-01-20,Sonam Geley Dorjee,Sonam Geley Dorjee,Thimphu,Thimphu,Other Services,Changangkha,tshering,tshering
+388,J.M Builders Pvt.LTD,45671,Special Inspection,2026-01-22,"Thinley Gyeltshen,Tshering Yangki,Ugyen Lhadon,Pema Lhamo,Thinley Wangmo,Tshering Dema",Thinley Wangmo,Wangdue Phodrang,Thimphu,Construction,Samthang,j m builders,j m builders
+389,Wangchuk,45672,Special Inspection,2026-01-22,"Thinley Gyeltshen,Tshering Yangki,Thinley Wangmo,Tshering Dema,Pema Lhamo,Ugyen Lhadon",Thinley Wangmo,Wangdue Phodrang,Thimphu,Construction,Samthang,wangchuk,wangchuk
+391,Phuntsho Construction,45691,Special Inspection,2026-02-25,"Tshering Dema,Pema Lhamo",Pema Lhamo,Haa,Thimphu,Construction,Haa Throm,phuntsho construction,phuntsho construction
+392,Tenzing Tshering,45692,Special Inspection,2026-02-27,"Pema Lhamo,Tshering Dema",Pema Lhamo,Paro,Thimphu,Construction,Tsongdu,tenzing tshering,tenzing tshering
+393,M/s Larjab Construction,45693,Special Inspection,2026-03-28,"Tshering Dema,Pema Lhamo",Tshering Dema,Paro,Thimphu,Construction,Main town,m s larjab construction,m s larjab construction
+394,Haa Valley Camp,45694,Special Inspection,2026-02-25,"Tshering Dema,Pema Lhamo",Tshering Dema,Haa,Thimphu,Accommodation and Food service activities,Yangthang,haa valley camp,haa valley camp
+395,Wangthang Construction Private Limited,45695,Special Inspection,2026-02-27,"Pema Lhamo,Tshering Dema",Pema Lhamo,Paro,Thimphu,Construction,Paro college,wangthang construction,wangthang construction
+396,M/s Larjab Construction,45696,Special Inspection,2026-02-28,"Tshering Dema,Pema Lhamo",Tshering Dema,Paro,Thimphu,Construction,Main town,m s larjab construction,m s larjab construction
+397,Penjor Construction Private Limited,45697,Special Inspection,2026-02-28,"Pema Lhamo,Tshering Dema",Pema Lhamo,Paro,Thimphu,Construction,"Paro International Airport, Paro",penjor construction,penjor construction
+398,Sunny Drukla,45698,Special Inspection,2026-02-28,"Pema Lhamo,Tshering Dema",Tshering Dema,Paro,Thimphu,"Professional, scientific and technical services",Shaba,sunny drukla,sunny drukla
+399,Diamond Hotel,45699,Special Inspection,2026-02-27,"Tshering Dema,Pema Lhamo",Tshering Dema,Paro,Thimphu,Accommodation and Food service activities,Main town,diamond hotel,diamond hotel
+400,Tsherim Resort,45700,Special Inspection,2026-02-27,"Pema Lhamo,Tshering Dema",Tshering Dema,Paro,Thimphu,Accommodation and Food service activities,"Shumu, Lango",tsherim resort,tsherim resort
+401,Resort Thim-Dorji @ Paro Riverfront,45701,Special Inspection,2026-04-15,"Pema Lhamo,Tshering Dema",Tshering Dema,Paro,Thimphu,Accommodation and Food service activities,Remphakha,resort thim dorji paro riverfront,resort thim dorji paro riverfront
+402,Hotel Ratna Vara,45702,Special Inspection,2026-02-27,"Pema Lhamo,Tshering Dema",Tshering Dema,Paro,Thimphu,Accommodation and Food service activities,Main Town,hotel ratna vara,hotel ratna vara
+403,T.T Wangyal Construction,45703,Special Inspection,2026-02-27,"Pema Lhamo,Tshering Dema",Tshering Dema,Paro,Thimphu,Construction,Town,t t wangyal construction,t t wangyal construction
+404,Haa Heritage Hotel,45704,Special Inspection,2026-02-26,"Pema Lhamo,Tshering Dema",Tshering Dema,Haa,Thimphu,Accommodation and Food service activities,"Kajena, Katsho",haa heritage hotel,haa heritage hotel
+405,Build Assist,45705,Special Inspection,2026-06-18,"Sonam Wangmo,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Wholesale and retail trade,Changzamtok,build assist,build assist
+406,Build Assist,45706,Special Inspection,2026-03-11,"Thinley Gyeltshen,Thinley Wangmo",Thinley Wangmo,Thimphu,Thimphu,Wholesale and retail trade,Changzamtog,build assist,build assist
+416,Menjong Sorig Pharmaceuticals Corporation Limited,45718,Special Inspection,2026-03-23,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Manufacturing,Kawajangs,menjong sorig pharmaceuticals,menjong sorig pharmaceuticals
+417,Bhutan Telecom Limited,45719,Special Inspection,2026-03-26,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Information and communication services,Chubachuu,bhutan telecom,bhutan telecom
+418,National Housing Development Corporation Limited,45720,Special Inspection,2026-03-24,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Real estate,Drimey Lam,national housing development,national housing development
+419,Living Water Yusipang,45721,Special Inspection,2026-03-24,"Tshering Yangki,Ugyen Lhadon",Ugyen Lhadon,Thimphu,Thimphu,Manufacturing,Yusipang,living water yusipang,living water yusipang
+421,Construction Development Corporation Limited,45723,Special Inspection,2026-03-25,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Construction,Namtog Lam Khangulu,construction development,construction development
+422,Bhutan Agro Industries Limited,45724,Special Inspection,2026-03-25,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Manufacturing,Wangchutaba,bhutan agro industries,bhutan agro industries
+423,Basochu Hydropower Plant,45725,Special Inspection,2026-03-25,"Tshering Yangki,Ugyen Lhadon",Ugyen Lhadon,Wangdue Phodrang,Thimphu,"Electricity, gas, steam and air conditioning supply",Rurichhu,basochu hydropower plant,basochu hydropower plant
+425,PES Pvt. Ltd C/o BHEL,45727,Special Inspection,2026-03-25,"Tshering Yangki,Ugyen Lhadon",Ugyen Lhadon,Wangdue Phodrang,Thimphu,"Electricity, gas, steam and air conditioning supply",Kamichu,pes pvt ltd c o bhel,pes pvt ltd c o bhel
+427,Penjor Construction Private Limited,45729,Special Inspection,2026-03-30,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Construction,Changjilu,penjor construction,penjor construction
+428,Bhutan National Bank Limited,45730,Special Inspection,2026-03-26,"Sonam Wangmo,Thinley Gyeltshen",Sonam Wangmo,Thimphu,Thimphu,Financial services and insurance,BNB Head Office,bhutan national bank,bhutan national bank
+429,Soenam Mebar Construction,45731,Special Inspection,2026-03-26,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Construction,Changzamtog,soenam mebar construction,soenam mebar construction
+430,Greener Way,45732,Special Inspection,2026-03-26,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,"Water supply; sewerage, waste management",Babesa,greener way,greener way
+431,Larsen and Toubro Limited,45733,Special Inspection,2026-03-27,"Tshering Yangki,Ugyen Lhadon",Ugyen Lhadon,Wangdue Phodrang,Thimphu,Construction,Khempa Jichu,larsen and toubro,larsen and toubro
+432,Zimdra Automobiles,45734,Special Inspection,2026-03-27,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,"Professional, scientific and technical services",Babesa,zimdra automobiles,zimdra automobiles
+433,Jaiprakash Associates Ltd,45735,Special Inspection,2026-03-26,"Tshering Yangki,Ugyen Lhadon",Ugyen Lhadon,Wangdue Phodrang,Thimphu,Construction,Zawakha,jaiprakash associates,jaiprakash associates
+434,Natural Resources Development Corporation Limited,45752,Special Inspection,2026-03-31,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,"Agriculture, forestry and fishing",Phendey Lam,natural resources development,natural resources development
+435,Dharma Arts & Crafts,45753,Special Inspection,2026-03-30,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Manufacturing,Bjemina,dharma arts crafts,dharma arts crafts
+436,Singay Group of Comapnies,45754,Special Inspection,2026-04-15,"Bhim Bdr. Chhetri LAS,Pema Lhamo",Pema Lhamo,Thimphu,Thimphu,Mining and quarrying,Bjemina,singay group of comapnies,singay group of comapnies
+439,33 Soksoom Centre for Well-being and Happiness,45784,Special Inspection,2026-05-04,"Thinley Wangmo,Pema Lhamo,Dorji Gyeltshen",Thinley Wangmo,Thimphu,Thimphu,Accommodation and Food service activities,Main Town,33 soksoom centre for well being and happiness,33 soksoom centre for well being and happiness
+440,Lemon Tree Resort,45785,Special Inspection,2026-05-04,"Thinley Wangmo,Pema Lhamo,Dorji Gyeltshen",Thinley Wangmo,Thimphu,Thimphu,Accommodation and Food service activities,Taba,lemon tree resort,lemon tree resort
+441,High Heaven Karaoke,45786,Special Inspection,2026-05-06,"Dechen Wangmo Dorji,Dechen Tshomo,Dorji Gyeltshen,Tshering Dema",Tshering Dema,Thimphu,Thimphu,"Arts, entertainment and recreation",Main Town,high heaven karaoke,high heaven karaoke
+442,Tsherim Resort,45787,Special Inspection,2026-05-11,"Pema Lhamo,Thinley Wangmo,Dorji Gyeltshen",Thinley Wangmo,Paro,Thimphu,Accommodation and Food service activities,Shomo,tsherim resort,tsherim resort
+443,Thimphu ThromdeThimphu Thromde,45789,Special Inspection,2026-05-13,"Dechen Wangmo Dorji,Ugyen Lhadon,Thinley Wangmo",Dechen Wangmo Dorji,Thimphu,Thimphu,"Public administration and defense,compulsory social security",Jungzhina-Pamtsho highway,thimphu thromdethimphu thromde,thimphu thromdethimphu thromde
+444,Indo Venture Pvt. Ltd,45790,Special Inspection,2026-05-13,"Thinley Wangmo,Pema Lhamo,Dorji Gyeltshen",Thinley Wangmo,Paro,Thimphu,Wholesale and retail trade,Nemeyzampa,indo venture,indo venture
+445,Padma Gayul Resort,45791,Special Inspection,2026-05-11,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Accommodation and Food service activities,Nemjo,padma gayul resort,padma gayul resort
+448,RSA Pvt.Ltd.,45794,Special Inspection,2026-05-18,"Dechen Wangmo Dorji,Sonam Wangmo",Sonam Wangmo,Thimphu,Thimphu,Mining and quarrying,Next to Hotel Kisa,rsa,rsa
+449,Heruka Security Services,45795,Special Inspection,2026-05-22,"Sonam Wangmo,Dechen Wangmo Dorji",Sonam Wangmo,Thimphu,Thimphu,"Public administration and defense,compulsory social security",Hongkong Market,heruka security services,heruka security services
+450,Bhutan Biscuit and Gourmet,45796,Special Inspection,2026-05-22,"Thinley Wangmo,Dechen Tshomo,Ugyen Lhadon",Thinley Wangmo,Wangdue Phodrang,Thimphu,Manufacturing,"Bajo, Thango",bhutan biscuit and gourmet,bhutan biscuit and gourmet
+451,Bhutan Biscuit and Gourmet,45797,Special Inspection,2026-05-26,"Dechen Tshomo,Thinley Wangmo,Ugyen Lhadon",Thinley Wangmo,Wangdue Phodrang,Thimphu,Manufacturing,"Bajo,Thango",bhutan biscuit and gourmet,bhutan biscuit and gourmet
+452,Dewa Spa and Wellness Resort Pvt. Ltd,45798,Special Inspection,2026-05-25,"Dorji Gyeltshen,Pema Lhamo,Tshering Dema",Pema Lhamo,Thimphu,Thimphu,Human health and social work,"Nyenzerkha, Mewang",dewa spa and wellness resort,dewa spa and wellness resort
+453,Ludrong Hotel,45799,Special Inspection,2026-05-26,"Dechen Tshomo,Pema Lhamo,Thinley Wangmo,Tshering Dema",Tshering Dema,Thimphu,Thimphu,Accommodation and Food service activities,Langjophakha,ludrong hotel,ludrong hotel
+454,KCR Privite Limited,7127,Follow Up Inspection,2025-08-13,"Sonam Wangmo,Dechen Wangmo Dorji",Sonam Wangmo,Thimphu,Thimphu,Other Services,"MLCP 2 Building, Thimphu",kcr privite,kcr privite
+455,Heruka Security Services,7128,Follow Up Inspection,2025-12-04,"Sonam Wangmo,Dechen Wangmo Dorji",Sonam Wangmo,Thimphu,Thimphu,"Public administration and defense,compulsory social security","hongkong market,sangay enterprise building 3rd floor",heruka security services,heruka security services
+456,Institute of Skills & Management Studies,7129,Follow Up Inspection,2026-04-01,"Thinley Gyeltshen,Tshering Yangki,Ugyen Lhadon,Pema Lhamo",Ugyen Lhadon,Thimphu,Thimphu,Administrative and support services,"Jungshina,second floor of flexible shop,Thimphu",institute of skills management studies,institute of skills management studies
+457,Kichu Resort,7130,Follow Up Inspection,2026-05-11,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Accommodation and Food service activities,kichu lango (paro),kichu resort,kichu resort
+458,Padma Gayul Resort,7131,Follow Up Inspection,2026-05-11,"Dechen Tshomo,Ugyen Lhadon,Tshering Dema",Tshering Dema,Paro,Thimphu,Accommodation and Food service activities,Nemjo,padma gayul resort,padma gayul resort
+459,Lotus Hotel,72425,Self Inspection,2025-07-12,,Lotus Hotel,Thimphu,Thimphu,Accommodation and Food service activities,Babesa,lotus hotel,lotus hotel
+460,Hejo ECCD,72427,Self Inspection,2025-07-20,Sonam Wangmo,Sonam Wangmo,Thimphu,Thimphu,Education,Hejo,hejo eccd,hejo eccd
+462,Dynamic Motor Care Service,72429,Self Inspection,2025-07-21,,Dynamic Motor Care Service,Thimphu,Thimphu,Other Services,Babesa,dynamic motor care service,dynamic motor care service
+463,Phub Lham,72430,Self Inspection,2025-07-29,,Phub Lham,Punakha,Thimphu,Construction,Punakha : Serigang,phub lham,phub lham
+464,Norbu Healing Hotel,72431,Self Inspection,2025-08-04,Sonam Wangmo,Sonam Wangmo,Thimphu,Thimphu,Accommodation and Food service activities,Olakah,norbu healing hotel,norbu healing hotel
+465,City Hotel,72432,Self Inspection,2025-08-06,,City Hotel,Thimphu,Thimphu,Accommodation and Food service activities,"Chang Lam, Dungkor Lam Junction",city hotel,city hotel
+466,Takin Education Consultancy and Placement Firm,72434,Self Inspection,2025-08-21,,Takin Education Consultancy and Placement Firm,Thimphu,Thimphu,"Professional, scientific and technical services",Maintown,takin education consultancy and placement firm,takin education consultancy and placement firm
+467,D.G Archi-Techs' Studio,72438,Self Inspection,2025-09-12,,D.G Archi-Techs' Studio,Thimphu,Thimphu,"Professional, scientific and technical services",Olakha Lam-4,d g archi techs studio,d g archi techs studio
+468,Penjor Yardak (Fabrication Unit),72442,Self Inspection,2025-09-12,,Penjor Yardak (Fabrication Unit),Thimphu,Thimphu,Manufacturing,Debsi,penjor yardak fabrication unit,penjor yardak fabrication unit
+469,Hotel Rustic Roots,72445,Self Inspection,2025-09-13,,Rustic Roots Resort and Spa,Paro,Thimphu,Accommodation and Food service activities,Duezhi,hotel rustic roots,hotel rustic roots
+470,PAEGYEL CONSTRUCTION PRIVATE LIMITED,72449,Self Inspection,2025-09-14,,Paegyel Construction Private Limited,Thimphu,Thimphu,Construction,Changlimethang,paegyel construction,paegyel construction
+471,City Hotel,72450,Self Inspection,2025-09-16,,City Hotel,Thimphu,Thimphu,Accommodation and Food service activities,"Jattu Commercial Complex, Chang Lam, Dungkhor Lam Junction",city hotel,city hotel
+472,Robotics & IoT Training Institute (RITI),72451,Self Inspection,2025-09-17,Sonam Wangmo,Sonam Wangmo,Thimphu,Thimphu,Education,"Hongkong Market, Sangay Enterprise building, Top floor",robotics iot training institute riti,robotics iot training institute riti
+473,THE CAPITAL HOTEL,72452,Self Inspection,2025-09-18,,THE CAPITAL HOTEL,Thimphu,Thimphu,Accommodation and Food service activities,"Chubachu, Thimphu",the capital hotel,the capital hotel
+474,International Treks and Tours,72459,Self Inspection,2025-09-26,,International Treks and Tours,Paro,Thimphu,Other Services,Jagathang,international treks and tours,international treks and tours
+475,Punatshangchu Hydro Power ProjectPHPA-I,72461,Self Inspection,2025-10-04,,PHPA-I,Wangdue Phodrang,Thimphu,Construction,"Bjimthangkha, Gase Tshogom",punatshangchu hydro power projectphpa i,punatshangchu hydro power projectphpa i
+477,RENEW Microfinance private limited,72464,Self Inspection,2025-10-09,,RENEW Microfinance private limited,Thimphu,Thimphu,Financial services and insurance,Lower Mothithang,renew microfinance,renew microfinance
+478,Tenzin,72465,Self Inspection,2025-10-12,,Tenzin,Punakha,Thimphu,Accommodation and Food service activities,KHURUTHANG,tenzin,tenzin
+479,DRUK TRADING EQUIPMENTS,72469,Self Inspection,2025-10-24,,DRUK TRADING EQUIPMENTS,Thimphu,Thimphu,Wholesale and retail trade,"Namsiling, Mewang Gewog",druk trading equipments,druk trading equipments
+480,Aero-TECH,72470,Self Inspection,2025-10-30,,Aero-TECH,Thimphu,Thimphu,"Professional, scientific and technical services","Changjalu, Thimphu",aero tech,aero tech
+481,iMerit Bhutan Private Limited,72472,Self Inspection,2025-11-03,,iMerit Bhutan Private Limited,Thimphu,Thimphu,"Professional, scientific and technical services","Babesa, ThimphuTechPark, Thimphu",imerit bhutan,imerit bhutan
+482,Bhutan Power Corporation limited,72489,Self Inspection,2026-01-09,,Bhutan Power Corporation limited,Thimphu,Thimphu,"Electricity, gas, steam and air conditioning supply","Yarden Lam, Chubachu",bhutan power,bhutan power
+483,Dzambala Pharmaceutical and Medical Supplies,72490,Self Inspection,2026-01-14,,Dzambala Pharmaceutical and Medical Supplies,Thimphu,Thimphu,Wholesale and retail trade,"Changzamtok, Behind Deki School",dzambala pharmaceutical and medical supplies,dzambala pharmaceutical and medical supplies
+484,Hejo ECCD,72493,Self Inspection,2026-02-16,,Hejo ECCD,Thimphu,Thimphu,Education,"Hejo, Across from the Supreme Court, Gate 1",hejo eccd,hejo eccd
+485,Bhutan Organic Mushroom,72494,Self Inspection,2026-02-17,,Bhutan Organic Mushroom,Paro,Thimphu,Manufacturing,Navana,bhutan organic mushroom,bhutan organic mushroom
+486,P.Gyeltshen Construction Pvt.ltd,72495,Self Inspection,2026-03-03,,P.Gyeltshen Construction Pvt.ltd,Thimphu,Thimphu,Construction,Changjalu,p gyeltshen construction,p gyeltshen construction
+487,DASH GROUP CONSTRUCTION,72497,Self Inspection,2026-03-18,,DASH GROUP CONSTRUCTION,Thimphu,Thimphu,Construction,Taba,dash group construction,dash group construction
+488,DORJIGS WOODWORKS,72500,Self Inspection,2026-04-04,,DORJIGS WOODWORS,Paro,Thimphu,Manufacturing,Lamgong Town,dorjigs woodworks,dorjigs woodworks
+489,Lhak Sam Super- Interlocking Bricks,72501,Self Inspection,2026-04-07,,Lhak Sam Super- Interlocking Bricks,Thimphu,Thimphu,Manufacturing,Ganekha,lhak sam super interlocking bricks,lhak sam super interlocking bricks
+490,Nado Poizokhang,72502,Self Inspection,2026-04-07,,Nado Poizokhang,Thimphu,Thimphu,Manufacturing,Changangkha,nado poizokhang,nado poizokhang
+491,Yongchab Engineering Solution,72503,Self Inspection,2026-04-07,,Yongchab Engineering Solution,Thimphu,Thimphu,Manufacturing,bjemina industrial estate,yongchab engineering solution,yongchab engineering solution
+493,Bhutan GRC,72505,Self Inspection,2026-04-07,,BHUTAN grc (A Unit of Peljorkhang Pvt. Ltd),Thimphu,Thimphu,Manufacturing,Bjemina Industrial Estate,bhutan grc,bhutan grc
+494,Kingdom Essences Private Limited,72506,Self Inspection,2026-04-07,,Kingdom Essences Private Limited,Thimphu,Thimphu,Manufacturing,Kabesa,kingdom essences,kingdom essences
+495,Tshejor's Ayzey,72507,Self Inspection,2026-04-07,,Tshejor's Ayzey,Thimphu,Thimphu,Manufacturing,"Tshaphu, Mewang Gewof",tshejor s ayzey,tshejor s ayzey
+496,Shingla Unit,72508,Self Inspection,2026-04-07,,Shingla Unit,Thimphu,Thimphu,Manufacturing,Chamgang,shingla unit,shingla unit
+497,Pema Duenjung Zorigkhang,72509,Self Inspection,2026-04-07,,Rada Phuensum Sawmill,Wangdue Phodrang,Thimphu,Manufacturing,Nachekha,pema duenjung zorigkhang,pema duenjung zorigkhang
+499,Nado Poizokhang,72511,Self Inspection,2026-04-08,,Nado Poizokhang,Thimphu,Thimphu,Manufacturing,Changgangkha,nado poizokhang,nado poizokhang
+500,Menjong Sorig Pharmaceuticals Corporation Limited,72512,Self Inspection,2026-04-08,,Menjong Sorig Pharmaceuticals Corporation Limited,Thimphu,Thimphu,Manufacturing,Kawangjangsa,menjong sorig pharmaceuticals,menjong sorig pharmaceuticals
+501,Central Perk (Bakery & Cafe),72513,Self Inspection,2026-04-08,,Central Perk (Bakery & Cafe),Thimphu,Thimphu,Manufacturing,Babesa,central perk bakery cafe,central perk bakery cafe
+503,RSA Pvt.Ltd.,72515,Self Inspection,2026-04-08,,RSA Pvt.Ltd.,Thimphu,Thimphu,Mining and quarrying,Gidakom,rsa,rsa
+504,Ongdi Timber Industries,72516,Self Inspection,2026-04-08,,M/s Ongdi Timber Industries,Thimphu,Thimphu,Manufacturing,Khasadrapchu,ongdi timber industries,ongdi timber industries
+505,Vara Furniture,72517,Self Inspection,2026-04-08,,Vara Furniture,Thimphu,Thimphu,Manufacturing,Ramtokto,vara furniture,vara furniture
+506,Dharma Design,72518,Self Inspection,2026-04-08,,Dharma Design,Thimphu,Thimphu,Manufacturing,Ramtokto,dharma design,dharma design
+507,Soyalla,72519,Self Inspection,2026-04-08,,SOYALLA,Thimphu,Thimphu,Manufacturing,Changzamtog startup,soyalla,soyalla
+509,Fine Bhutan Wine Ltd,72521,Self Inspection,2026-04-09,,The Bhutan Wine Pvt Ltd,Thimphu,Thimphu,Manufacturing,Chubachu,fine bhutan wine,fine bhutan wine
+511,Bhutan Herbal Tea,72523,Self Inspection,2026-04-10,,Bhutan Herbal Tea,Paro,Thimphu,Manufacturing,"Zhelngo, Shaba",bhutan herbal tea,bhutan herbal tea
+512,Wonder Wood Based Furniture Unit,72524,Self Inspection,2026-04-10,,Wonder Wood Based Furniture Unit,Paro,Thimphu,Manufacturing,"Dopshari, Thachuchalu",wonder wood based furniture unit,wonder wood based furniture unit
+513,DORJIGS WOODWORKS,72525,Self Inspection,2026-04-10,,DORJIGS WOODWORS,Paro,Thimphu,Manufacturing,Lamgong,dorjigs woodworks,dorjigs woodworks
+516,Wangchuk Agro Enginering,72528,Self Inspection,2026-04-10,,Wangchuk Agro Enginering,Paro,Thimphu,Manufacturing,"Paro,Wangchang",wangchuk agro enginering,wangchuk agro enginering
+518,Uhm-Chuna Natural Spring Water,72530,Self Inspection,2026-04-10,,Uhm-Chuna Natural Spring Water,Paro,Thimphu,Manufacturing,"Damserbu, Woochu",uhm chuna natural spring water,uhm chuna natural spring water
+519,Jurmed Phendhey Wire Netting,72531,Self Inspection,2026-04-10,,Jurmed Phendhey Wire Netting,Paro,Thimphu,Manufacturing,Shaba,jurmed phendhey wire netting,jurmed phendhey wire netting
+520,Namgay Artisanal Brewery,72532,Self Inspection,2026-04-10,,Namgay Artisanal Brewery,Paro,Thimphu,Manufacturing,"Damshibhu, Woochu, near Tashi Namgay resort",namgay artisanal brewery,namgay artisanal brewery
+521,Nortak Mines & Minerals Private Limited,72533,Self Inspection,2026-04-10,,Nortak Mines & Minerals Private Limited,Thimphu,Thimphu,Manufacturing,Thimphu,nortak mines minerals,nortak mines minerals
+522,Tenzin Samphel Sculpture House,72562,Self Inspection,2026-04-14,,Tenzin Samphel Sculpture House,Thimphu,Thimphu,Manufacturing,Upper Motithang,tenzin samphel sculpture house,tenzin samphel sculpture house
+523,Bhutan Concrete Bricks,72569,Self Inspection,2026-04-16,,Bhutan Concrete Bricks,Thimphu,Thimphu,Manufacturing,"Bjemina Industrial Estate, (Bjemina)",bhutan concrete bricks,bhutan concrete bricks
+524,The View by Tara Phendeyling,72572,Self Inspection,2026-04-17,,The View by Tara Phendeyling,Thimphu,Thimphu,Accommodation and Food service activities,Lungtenphu,the view by tara phendeyling,the view by tara phendeyling
+525,time4CHA,72574,Self Inspection,2026-04-18,,time4CHA,Thimphu,Thimphu,Accommodation and Food service activities,"Etho Metho Complex, Chang Lam",time4cha,time4cha
+527,TSAMGAR Construction Private Limited,72576,Self Inspection,2026-04-23,,M/s TSAMGAR Construction Private Limited,Thimphu,Thimphu,Construction,"Bebena,Thimphu",tsamgar construction,tsamgar construction
+528,Shambala Boutique Hotel,72579,Self Inspection,2026-05-01,,Shambala Boutique Hotel,Paro,Thimphu,Accommodation and Food service activities,shomu,shambala boutique hotel,shambala boutique hotel
+529,Pema Duenjung Zorigkhang,72580,Self Inspection,2026-05-28,,Rada Phuensum Sawmill,Wangdue Phodrang,Thimphu,Manufacturing,"Tashitokha, Bjena",pema duenjung zorigkhang,pema duenjung zorigkhang

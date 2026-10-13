@@ -1,0 +1,458 @@
+employer_id,employer_key,name,sector,dzongkhag,location,employer_ext_id,mobile,email,total_inspections,improvement_notices,penalty_memos,notices_count,total_penalty_amount,osh_violation_count,osh_ratio,last_inspection_date,first_inspection_date,days_since_last_inspection,days_since_last_violation,inspection_frequency,violation_rate,statistical_score,risk_category
+EMP0001,issup construction,Issup Construction Private Limited,Construction,Punakha,Khuruthang,31001355.0,17162360.0,issupconst4698@gmail.com,2.0,3.0,1.0,4.0,1875.0,3.0,0.75,2026-06-13,2025-09-09,37,37.0,2.64,2.0,76.9,High
+EMP0002,jaiprakash associates,Jaiprakash Associates Ltd,Construction,Wangdue Phodrang,Zawakha,3100268.0,17163185.0,punaii.p&a@jalindia.co.in,2.0,2.0,2.0,4.0,22500.0,4.0,1.0,2026-03-26,2026-03-26,116,116.0,4.0,2.0,96.82,High
+EMP0003,construction development,Construction Development Corporation Limited,Construction,Thimphu,Bajo Throm,3127725.0,17632566.0,dorji@cdcl.bt,3.0,1.0,2.0,3.0,3750.0,3.0,1.0,2026-05-23,2026-01-26,58,58.0,6.0,1.0,66.74,Medium
+EMP0004,bali raj rai,Bali Raj Rai,Construction,Thimphu,Changbangdu,3108740.0,17738656.0,baliraj2017@gmail.com,2.0,1.0,2.0,3.0,3750.0,3.0,1.0,2026-05-06,2026-05-04,75,75.0,4.0,1.5,73.78,High
+EMP0005,empid_31001023,Employer #31001023,Construction,Thimphu,Babesa,31001023.0,77725758.0,penjorpenjor555@gmail.com,2.0,2.0,1.0,3.0,1875.0,3.0,1.0,2025-10-22,2025-09-01,271,271.0,4.0,1.5,66.74,Medium
+EMP0006,lhundub dorji,Lhundub Dorji,Construction,Thimphu,Babesa,3112424.0,17110272.0,neelampradhan007@gmail.com,2.0,2.0,1.0,3.0,1875.0,3.0,1.0,2025-10-22,2025-09-01,271,271.0,4.0,1.5,66.74,Medium
+EMP0007,mindu tshering,Mindu Tshering,Construction,Paro,Woochu,3116624.0,17634880.0,fwrasamtse@gmail.com,2.0,1.0,2.0,3.0,3750.0,3.0,1.0,2026-05-13,2025-11-11,68,68.0,3.99,1.5,73.97,High
+EMP0008,j m builders,J.M Builders Pvt.LTD,Construction,Wangdue Phodrang,Samthang TTI,3102171.0,17118198.0,jmbuilderspvtltd@gmail.com,4.0,1.0,1.0,2.0,1875.0,2.0,1.0,2026-05-23,2025-09-24,58,179.0,6.06,0.5,54.26,Medium
+EMP0009,druk yargay dolma construction,DRUK YARGAY DOLMA CONSTRUCTION,Construction,Zhemgang,Dakphel,3112687.0,17837433.0,dakpaitobs@gmail.com,2.0,2.0,0.0,2.0,0.0,2.0,1.0,2026-06-13,2026-06-10,37,37.0,4.0,1.0,63.99,Medium
+EMP0010,empid_31034777,Employer #31034777,Construction,Mongar,Mongar Town,31034777.0,17652208.0,kdema419@gmail.com,2.0,0.0,2.0,2.0,3750.0,2.0,1.0,2025-11-03,2025-07-11,259,259.0,4.0,1.0,61.24,Medium
+EMP0011,m s larjab construction,M/s Larjab Construction,Construction,Paro,Main town,3127733.0,17647988.0,larjabconstruction@gmail.com,2.0,0.0,2.0,2.0,3750.0,2.0,1.0,2026-03-28,2026-02-28,114,114.0,4.0,1.0,65.21,Medium
+EMP0012,yoenang specialized firm,Yoenang Specialized Firm,Construction,Thimphu,Lower Motithang,31002066.0,17633708.0,yoenangsf@gmail.com,2.0,1.0,1.0,2.0,1875.0,2.0,1.0,2026-03-18,2025-09-05,124,124.0,3.76,1.0,63.27,Medium
+EMP0013,empid_31135808,Employer #31135808,Construction,Tsirang,Damphu lap,31135808.0,17515240.0,tashitobden20@gmail.com,1.0,1.0,1.0,2.0,1875.0,2.0,1.0,2026-05-18,2026-05-18,63,63.0,2.0,2.0,79.94,High
+EMP0014,soenam mebar construction,Soenam Mebar Construction,Construction,Thimphu,Changzamtog,3111612.0,77286587.0,rinzinlhamo1995@gmail.com,1.0,1.0,1.0,2.0,11250.0,2.0,1.0,2026-03-26,2026-03-26,116,116.0,2.0,2.0,86.82,High
+EMP0015,vajra builders,Vajra Builders Private Limited,Construction,Trashigang,Sakteng,3127959.0,77318008.0,kchuki@vajrabhutan.com,1.0,1.0,1.0,2.0,11250.0,2.0,1.0,2026-03-30,2026-03-30,112,112.0,2.0,2.0,86.93,High
+EMP0016,penjor construction,Penjor Construction Private Limited,Construction,Thimphu,Bebena,31000751.0,77743242.0,penjorconstruction@gmail.com,3.0,0.0,1.0,1.0,11250.0,1.0,1.0,2026-03-30,2026-01-26,112,175.0,6.0,0.333,60.2,Medium
+EMP0017,chencho pem,Chencho Pem,Construction,Haa,Haa,3101282.0,17376186.0,chencho234@gmail.com,2.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-04,2025-09-10,258,258.0,4.0,0.5,52.1,Medium
+EMP0018,druk norzang,Druk Norzang Private Limited,Construction,Paro,Lungtenphu,3106719.0,77118181.0,druknorzangprivatelimited@gmail.com,2.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-04-01,2025-11-08,110,254.0,4.0,0.5,52.21,Medium
+EMP0019,khendum dorji,Khendum Dorji,Construction,Thimphu,Jazam,3113195.0,17240880.0,khendumdorji2017@gmail.com,2.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-25,2026-03-10,56,132.0,4.0,0.5,55.55,Medium
+EMP0020,nob tshering,Nob Tshering,Construction,Thimphu,Jungshina,3110664.0,77608575.0,nobtshering17@gmail.com,2.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-06-23,2025-10-23,27,270.0,3.0,0.5,50.1,Medium
+EMP0021,u l t construction,U. L. T construction,Construction,Thimphu,Changjiji,3101094.0,17609442.0,ultdagana@gmail.com,2.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-19,2026-03-09,62,62.0,4.0,0.5,57.47,Medium
+EMP0022,choki wangmo,Choki Wangmo,Construction,Paro,Town,3119459.0,17119088.0,chokiwangmo78@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-08,2025-11-08,254,254.0,2.0,1.0,59.71,Medium
+EMP0023,damchoe,Damchoe,Construction,Samtse,Gola town,3111855.0,17646809.0,damchoedamchoe14@gmail.com,1.0,0.0,1.0,1.0,11250.0,0.0,0.0,2026-01-26,2026-01-26,175,175.0,2.0,1.0,55.21,Medium
+EMP0024,dendup,Dendup,Construction,Trashiyangtse,Doksum Town,3121462.0,17654551.0,dendup2829phc@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-01-04,2026-01-04,197,197.0,2.0,1.0,61.27,Medium
+EMP0025,druk chapchab const,Druk Chapchab Const. Pvt. Ltd,Construction,Punakha,"Lobesa, CNR",3106920.0,2323320.0,drukchapchaub@gmail.com,1.0,0.0,1.0,1.0,11250.0,1.0,1.0,2026-05-21,2026-05-21,60,60.0,2.0,1.0,73.36,High
+EMP0026,druk gangjong construction,Druk Gangjong construction,Construction,Thimphu,Near YDF,3101409.0,17651569.0,gangjong2019@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-28,2025-11-28,234,234.0,2.0,1.0,60.26,Medium
+EMP0027,empid_31001560,Employer #31001560,Construction,Samdrupjongkhar,SJ near DPDL,31001560.0,17118182.0,sangdorji48@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-12-09,2025-12-09,223,223.0,2.0,1.0,60.56,Medium
+EMP0028,empid_31011620,Employer #31011620,Construction,Thimphu,Changjiji,31011620.0,77933398.0,wangda2023@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-09-10,2025-09-10,313,313.0,2.0,1.0,56.42,Medium
+EMP0029,empid_31012887,Employer #31012887,Construction,Sarpang,Chokorling,31012887.0,77457333.0,zamtshering324@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-11-24,2025-11-24,238,238.0,2.0,1.0,58.48,Medium
+EMP0030,empid_31013209,Employer #31013209,Construction,Punakha,Yuwakha,31013209.0,17374294.0,sangaywangmo11@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-22,2026-05-22,59,59.0,2.0,1.0,65.05,Medium
+EMP0031,empid_31013239,Employer #31013239,Construction,Wangdue Phodrang,Samthang,31013239.0,17606292.0,wangchuk78@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-01-22,2026-01-22,179,179.0,2.0,1.0,61.76,Medium
+EMP0032,empid_31013326,Employer #31013326,Construction,Paro,Bongde,31013326.0,17606545.0,Mindudorji123@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-04,2025-11-04,258,258.0,2.0,1.0,59.6,Medium
+EMP0033,empid_31013775,Employer #31013775,Construction,Punakha,Siew Drangsa,31013775.0,17707326.0,norbutandin413@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-06-18,2026-06-18,32,32.0,2.0,1.0,65.79,Medium
+EMP0034,empid_31014024,Employer #31014024,Construction,Paro,"Above AMC, Paro",31014024.0,17580425.0,rinchenlham446@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-05-12,2026-05-12,69,69.0,2.0,1.0,63.11,Medium
+EMP0035,empid_31014089,Employer #31014089,Construction,Paro,Lamgong,31014089.0,17634077.0,acetee1100@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-09-06,2025-09-06,317,317.0,2.0,1.0,56.32,Medium
+EMP0036,empid_31014147,Employer #31014147,Construction,Paro,Tsatsam,31014147.0,17671659.0,pemdekii@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-13,2026-05-13,68,68.0,2.0,1.0,64.8,Medium
+EMP0037,empid_31014425,Employer #31014425,Construction,Paro,Geptey,31014425.0,17170800.0,tandinwangmo880@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-09-07,2025-09-07,316,316.0,2.0,1.0,56.34,Medium
+EMP0038,empid_31014487,Employer #31014487,Construction,Pemagatshel,Borkatsang,31014487.0,77620226.0,dechendorji719@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-27,2025-11-27,235,235.0,2.0,1.0,60.23,Medium
+EMP0039,empid_31014593,Employer #31014593,Construction,Samtse,Belbotey,31014593.0,17748631.0,dakchhetri2024@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-01-26,2026-01-26,175,175.0,2.0,1.0,61.87,Medium
+EMP0040,empid_31015317,Employer #31015317,Construction,Samdrupjongkhar,Samdrup Jongkhar throm,31015317.0,17668097.0,motilk80@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-01-26,2026-01-26,175,175.0,2.0,1.0,61.87,Medium
+EMP0041,empid_31015396,Employer #31015396,Construction,Paro,Shaba,31015396.0,17118852.0,dawadem8852@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-09-07,2025-09-07,316,316.0,2.0,1.0,56.34,Medium
+EMP0042,empid_31028997,Employer #31028997,Construction,Paro,Nemjo,31028997.0,77801361.0,sbidha@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-09-06,2025-09-06,317,317.0,2.0,1.0,56.32,Medium
+EMP0043,empid_31029007,Employer #31029007,Construction,Trashiyangtse,Doksum,31029007.0,17833557.0,tashitshering11@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-12-18,2025-12-18,214,214.0,2.0,1.0,60.8,Medium
+EMP0044,empid_31029075,Employer #31029075,Construction,Thimphu,Jungshina,31029075.0,17541047.0,kpem3950@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-10-23,2025-10-23,270,270.0,2.0,1.0,57.6,Medium
+EMP0045,empid_31029527,Employer #31029527,Construction,Thimphu,Lower Mothithang,31029527.0,17111130.0,reeta.fwra@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-03-17,2026-03-17,125,125.0,2.0,1.0,61.58,Medium
+EMP0046,empid_31029542,Employer #31029542,Construction,Trashigang,Melphay,31029542.0,17119370.0,duptho2025@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-12-09,2025-12-09,223,223.0,2.0,1.0,60.56,Medium
+EMP0047,empid_31029692,Employer #31029692,Construction,Pemagatshel,Denchi,31029692.0,17431147.0,dechenlhamo@gmail.com,1.0,0.0,1.0,1.0,7500.0,1.0,1.0,2025-08-20,2025-08-20,334,334.0,2.0,1.0,62.52,Medium
+EMP0048,empid_31029805,Employer #31029805,Construction,Samtse,Norzangsa,31029805.0,17370754.0,kami2025@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-01-26,2026-01-26,175,175.0,2.0,1.0,61.87,Medium
+EMP0049,empid_31029894,Employer #31029894,Construction,Dagana,Dagapela,31029894.0,77908546.0,dhan89@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-05-21,2026-05-21,60,60.0,2.0,1.0,63.36,Medium
+EMP0050,empid_31030022,Employer #31030022,Construction,Tsirang,Damphu lap,31030022.0,17317691.0,narindraadhikari47@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-18,2026-05-18,63,63.0,2.0,1.0,64.94,Medium
+EMP0051,empid_31030029,Employer #31030029,Construction,Pemagatshel,Nganglam,31030029.0,77424084.0,sd.dema@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-27,2025-11-27,235,235.0,2.0,1.0,60.23,Medium
+EMP0052,empid_31030034,Employer #31030034,Construction,Samtse,Belbotey,31030034.0,17613426.0,renuka2024@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-01-26,2026-01-26,175,175.0,2.0,1.0,61.87,Medium
+EMP0053,empid_31030088,Employer #31030088,Construction,Trashigang,Melphay,31030088.0,17937080.0,tkelzang98@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-12-09,2025-12-09,223,223.0,2.0,1.0,60.56,Medium
+EMP0054,empid_31030093,Employer #31030093,Construction,Pemagatshel,Denchi,31030093.0,17691180.0,kc074869@gmail.com,1.0,0.0,1.0,1.0,3750.0,1.0,1.0,2025-08-20,2025-08-20,334,334.0,2.0,1.0,59.18,Medium
+EMP0055,empid_31030113,Employer #31030113,Construction,Samdrupjongkhar,Phuntsothang,31030113.0,17395682.0,dchoden748@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-02-10,2026-02-10,160,160.0,2.0,1.0,62.28,Medium
+EMP0056,empid_31031028,Employer #31031028,Construction,Punakha,Kuru punakha,31031028.0,17530713.0,thinleydorji190@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-07-22,2025-07-22,363,363.0,2.0,1.0,56.72,Medium
+EMP0057,empid_31031102,Employer #31031102,Construction,Paro,Chogzhing,31031102.0,77902626.0,fwrasamtse@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-12,2026-05-12,69,69.0,2.0,1.0,64.78,Medium
+EMP0058,empid_31031200,Employer #31031200,Construction,Paro,Kharilamyo,31031200.0,17449587.0,nishilimbu145@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-13,2026-05-13,68,68.0,2.0,1.0,64.8,Medium
+EMP0059,empid_31031283,Employer #31031283,Construction,Pemagatshel,Nganglam,31031283.0,17114819.0,sangayzangmophc2025@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-03-13,2026-03-13,129,129.0,2.0,1.0,63.13,Medium
+EMP0060,empid_31031399,Employer #31031399,Construction,Haa,Haa,31031399.0,17416184.0,chenchpem184@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-09-10,2025-09-10,313,313.0,2.0,1.0,56.42,Medium
+EMP0061,empid_31031500,Employer #31031500,Construction,Samdrupjongkhar,Langchenphu,31031500.0,17514433.0,yogendra_nepal@education.gov.bt,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-02-12,2026-02-12,158,158.0,2.0,1.0,62.34,Medium
+EMP0062,empid_31033959,Employer #31033959,Construction,Samdrupjongkhar,SJ town,31033959.0,17915151.0,rinchen2025@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-12-09,2025-12-09,223,223.0,2.0,1.0,60.56,Medium
+EMP0063,empid_31034400,Employer #31034400,Construction,Pemagatshel,Nganglam,31034400.0,17502858.0,jamyangwangsu@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-27,2025-11-27,235,235.0,2.0,1.0,60.23,Medium
+EMP0064,empid_31034743,Employer #31034743,Construction,Wangdue Phodrang,"Thangkhu, Wangdue Phodrang",31034743.0,17738835.0,bhaktamaya@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-22,2026-05-22,59,59.0,2.0,1.0,65.05,Medium
+EMP0065,empid_31034803,Employer #31034803,Construction,Paro,Rangshigang,31034803.0,17689890.0,fwrasamtse@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-09-10,2025-09-10,313,313.0,2.0,1.0,56.42,Medium
+EMP0066,empid_31135325,Employer #31135325,Construction,Paro,Chukha,31135325.0,17569914.0,abdulrashid86536700@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-13,2026-05-13,68,68.0,2.0,1.0,64.8,Medium
+EMP0067,empid_31135406,Employer #31135406,Construction,Punakha,Khuruthang,31135406.0,77967070.0,lhamofwragelephu2024@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-05-19,2026-05-19,62,62.0,2.0,1.0,63.3,Medium
+EMP0068,empid_31135621,Employer #31135621,Construction,Samdrupjongkhar,Jomotsangkha,31135621.0,17477402.0,poudyelu@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-21,2026-05-21,60,60.0,2.0,1.0,65.02,Medium
+EMP0069,empid_31136136,Employer #31136136,Construction,Sarpang,"Hiley, Sarpang",31136136.0,77776900.0,chimikarma650@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-05-14,2026-05-14,67,67.0,2.0,1.0,63.16,Medium
+EMP0070,empid_31136166,Employer #31136166,Construction,Sarpang,Dolongang,31136166.0,17629239.0,dorjiwangden1998@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-05-11,2026-05-11,70,70.0,2.0,1.0,63.08,Medium
+EMP0071,empid_31136309,Employer #31136309,Construction,Samtse,Belbotey,31136309.0,17626209.0,fwrasamtse@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-01-26,2026-01-26,175,175.0,2.0,1.0,61.87,Medium
+EMP0072,empid_31136315,Employer #31136315,Construction,Thimphu,Hejo,31136315.0,17315358.0,tenzydee2021@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-06-05,2026-06-05,45,45.0,2.0,1.0,65.43,Medium
+EMP0073,empid_31136772,Employer #31136772,Construction,Samdrupjongkhar,Jomotsangkha,31136772.0,17533691.0,pematobgay123@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-21,2026-05-21,60,60.0,2.0,1.0,65.02,Medium
+EMP0074,empid_31136823,Employer #31136823,Construction,Zhemgang,Zhemgang Throm,31136823.0,17682679.0,dawazhem2025@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-06-13,2026-06-13,37,37.0,2.0,1.0,63.99,Medium
+EMP0075,empid_31136990,Employer #31136990,Construction,Wangdue Phodrang,Bajo Throm,31136990.0,77253230.0,killysthokey@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-22,2026-05-22,59,59.0,2.0,1.0,65.05,Medium
+EMP0076,empid_31137037,Employer #31137037,Construction,Samdrupjongkhar,Jomotsangkha,31137037.0,17121029.0,dejungbumzang@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-21,2026-05-21,60,60.0,2.0,1.0,65.02,Medium
+EMP0077,empid_31137068,Employer #31137068,Construction,Tsirang,Damphu,31137068.0,17960141.0,indrabdrthapa123@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-05-18,2026-05-18,63,63.0,2.0,1.0,63.27,Medium
+EMP0078,empid_31137141,Employer #31137141,Construction,Punakha,Yusakha,31137141.0,17938348.0,lhasangaylhamo56@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-21,2026-05-21,60,60.0,2.0,1.0,65.02,Medium
+EMP0079,empid_31137162,Employer #31137162,Construction,Thimphu,Lungtenphu,31137162.0,17618058.0,dorji2026@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-27,2026-05-27,54,54.0,2.0,1.0,65.19,Medium
+EMP0080,empid_31137164,Employer #31137164,Construction,Sarpang,Jigmechoeling,31137164.0,17653099.0,kingslhen777@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-06-10,2026-06-10,40,40.0,2.0,1.0,63.9,Medium
+EMP0081,empid_31137277,Employer #31137277,Construction,Sarpang,Shompangkha,31137277.0,17611427.0,karmafwra2024@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-05-14,2026-05-14,67,67.0,2.0,1.0,63.16,Medium
+EMP0082,empid_31137299,Employer #31137299,Construction,Sarpang,Sheychamthang,31137299.0,17856886.0,zangmod08@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-12,2026-05-12,69,69.0,2.0,1.0,64.78,Medium
+EMP0083,empid_31137312,Employer #31137312,Construction,Paro,Nemjo,31137312.0,17606389.0,fwrasamtse@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-14,2026-05-14,67,67.0,2.0,1.0,64.83,Medium
+EMP0084,empid_31137370,Employer #31137370,Construction,Paro,Ngoba,31137370.0,17348940.0,chakrasubba@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-12,2026-05-12,69,69.0,2.0,1.0,64.78,Medium
+EMP0085,empid_31137621,Employer #31137621,Construction,Paro,Tshandona,31137621.0,17161800.0,kjamtsho2@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-13,2026-05-13,68,68.0,2.0,1.0,64.8,Medium
+EMP0086,empid_31137713,Employer #31137713,Construction,Sarpang,Dolongang,31137713.0,17858118.0,rupa2027gurung@gmai.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-05-11,2026-05-11,70,70.0,2.0,1.0,63.08,Medium
+EMP0087,empid_31137736,Employer #31137736,Construction,Paro,Tshelkha Lamgong,31137736.0,17959323.0,tsheringchoki2011@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-13,2026-05-13,68,68.0,2.0,1.0,64.8,Medium
+EMP0088,empid_31137788,Employer #31137788,Construction,Wangdue Phodrang,Thango,31137788.0,77407696.0,lhamofwragelephu2024@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-20,2026-05-20,61,61.0,2.0,1.0,65.0,Medium
+EMP0089,empid_31137902,Employer #31137902,Construction,Wangdue Phodrang,Bajo Throm,31137902.0,17443361.0,traxelnorbu@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-22,2026-05-22,59,59.0,2.0,1.0,65.05,Medium
+EMP0090,empid_31137928,Employer #31137928,Construction,Sarpang,Shompangkha,31137928.0,17666624.0,karmafwra2024@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-05-14,2026-05-14,67,67.0,2.0,1.0,63.16,Medium
+EMP0091,empid_31139316,Employer #31139316,Construction,Thimphu,MOICE head office,31139316.0,17604005.0,,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-06-26,2026-06-26,24,24.0,2.0,1.0,66.01,Medium
+EMP0092,gyalcon infrastructure,Gyalcon Infrastructure Pvt.Ltd,Construction,Trashiyangtse,KHPL Colony,3110461.0,17116970.0,gyalconinfra@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-19,2025-11-19,243,243.0,2.0,1.0,60.01,Medium
+EMP0093,gyekden bulders,Gyekden Bulders Pvt.Ltd,Construction,Thimphu,Changangkha,3108226.0,17118830.0,sjamtsho96@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-03-19,2026-03-19,123,123.0,2.0,1.0,63.3,Medium
+EMP0094,indanella construction,Indanella Construction Pvt Ltd,Construction,Samdrupjongkhar,Martsala,3125338.0,17130096.0,indanellaconstruction@gmail.com,1.0,1.0,0.0,1.0,0.0,0.0,0.0,2025-11-20,2025-11-20,242,242.0,2.0,1.0,43.37,Medium
+EMP0095,indira gurung,Indira Gurung,Construction,Samtse,Belbotay,3114552.0,17714099.0,gindira196@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-01-26,2026-01-26,175,175.0,2.0,1.0,61.87,Medium
+EMP0096,jigme wangchuk construction,Jigme Wangchuk Construction,Construction,Samdrupjongkhar,Khatoethang,3120572.0,17575231.0,jigmeconstruction@gmail.com,1.0,1.0,0.0,1.0,0.0,0.0,0.0,2025-08-14,2025-08-14,340,340.0,2.0,1.0,40.68,Medium
+EMP0097,karma rangdol,Karma Rangdol,Construction,Thimphu,Above MCH,3122088.0,17602563.0,karmapila@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-08-22,2025-08-22,332,332.0,2.0,1.0,55.9,Medium
+EMP0098,khorlochhu hydro power,Khorlochhu Hydro Power Ltd.,Construction,Trashiyangtse,Doksum,31135315.0,17610822.0,clo@khpl.bt,1.0,1.0,0.0,1.0,0.0,0.0,0.0,2025-11-19,2025-11-19,243,243.0,2.0,1.0,43.34,Medium
+EMP0099,khorlochuu hydro energy,Khorlochuu Hydro Energy Limited,Construction,Trashiyangtse,Doksum,3129311.0,17610822.0,clo@khpl.bt,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-03-30,2026-03-30,112,112.0,2.0,1.0,61.93,Medium
+EMP0100,khuju sawmill,Khuju Sawmill,Construction,Sarpang,Chokorling,3104606.0,17812256.0,khujuconstruction2017@gmail.com,1.0,1.0,0.0,1.0,0.0,0.0,0.0,2025-11-24,2025-11-24,238,238.0,2.0,1.0,43.48,Medium
+EMP0101,larsen and toubro,Larsen and Toubro Limited,Construction,Wangdue Phodrang,Khempa Jichu,3120746.0,77101050.0,lntimmigration25@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-03-27,2026-03-27,115,115.0,2.0,1.0,61.85,Medium
+EMP0102,lungten wangmo,Lungten Wangmo,Construction,Thimphu,Lower Motithang,3109477.0,17119595.0,damchod@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2026-03-18,2026-03-18,124,124.0,2.0,1.0,61.6,Medium
+EMP0103,nado,Nado,Construction,Paro,Town,3114955.0,17679937.0,nadobjacho@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-08,2025-11-08,254,254.0,2.0,1.0,59.71,Medium
+EMP0104,ngawang dorji,Ngawang Dorji,Construction,Mongar,Main Town,3103698.0,17653058.0,ndphc2018@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-02,2025-11-02,260,260.0,2.0,1.0,59.54,Medium
+EMP0105,onsen karma,Onsen Karma Private Limited,Construction,Paro,Phangdo,31001564.0,17170540.0,onsenkarma@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-12,2026-05-12,69,69.0,2.0,1.0,64.78,Medium
+EMP0106,pelzang buthe,Pelzang Buthe,Construction,Punakha,Tongphutsawa,3135368.0,77353001.0,pelzangb@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-21,2026-05-21,60,60.0,2.0,1.0,65.02,Medium
+EMP0107,phen dey zangmo construction,Phen-dey Zangmo Construction,Construction,Punakha,Kabesa,31011539.0,17589652.0,dorji7256@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-20,2026-05-20,61,61.0,2.0,1.0,65.0,Medium
+EMP0108,rinchen buli construction,Rinchen Buli Construction,Construction,Punakha,"CNR, lobesa",31014554.0,17115587.0,zamtshering324@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-21,2026-05-21,60,60.0,2.0,1.0,65.02,Medium
+EMP0109,serphel energy construction,Serphel Energy & Construction,Construction,Thimphu,Babesa,31002050.0,17603470.0,serphelec@gmail.com,1.0,1.0,0.0,1.0,0.0,0.0,0.0,2025-07-03,2025-07-03,382,382.0,2.0,1.0,39.53,Low
+EMP0110,shambhala infra,Shambhala Infra Private Limited,Construction,Samtse,Dhamdhum,3110336.0,17178989.0,shambhalainfra@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-01-22,2026-01-22,179,179.0,2.0,1.0,61.76,Medium
+EMP0111,sherab wangchuk,Sherab Wangchuk,Construction,Paro,Town,3116533.0,17111155.0,sherabw107@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-05,2025-11-05,257,257.0,2.0,1.0,59.63,Medium
+EMP0112,sonam rinchen construction,Sonam Rinchen Construction Pvt. Ltd,Construction,Sarpang,"on the way to Phullari, Zomlingthang, Gelephu",31027687.0,17656878.0,,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-09-04,2025-09-04,319,319.0,2.0,1.0,56.26,Medium
+EMP0113,t kunzom,T-Kunzom Pvt. Ltd,Construction,Mongar,"MCH, MONGAR",3100045.0,17111667.0,Vekshal@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-11-02,2025-11-02,260,260.0,2.0,1.0,59.54,Medium
+EMP0114,the green road,The Green Road,Construction,Thimphu,Lungtenphu,3102848.0,17172928.0,plasticroads@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-27,2026-05-27,54,54.0,2.0,1.0,65.19,Medium
+EMP0115,tsen dorji phs,Tsen Dorji PHS,Construction,Trashiyangtse,Doksum,31033954.0,17667584.0,,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2025-12-18,2025-12-18,214,214.0,2.0,1.0,60.8,Medium
+EMP0116,ugyen dorji,Ugyen Dorji,Construction,Paro,Tsohngtu,3101309.0,77213777.0,chhunducementagent@gmail.com,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2025-09-07,2025-09-07,316,316.0,2.0,1.0,56.34,Medium
+EMP0117,yoebar t construction,Yoebar T Construction,Construction,Punakha,Messina Town,31000707.0,17172424.0,cyoebart2016@gmail.com,1.0,0.0,1.0,1.0,1875.0,1.0,1.0,2026-05-23,2026-05-23,58,58.0,2.0,1.0,65.08,Medium
+EMP0118,build assist,Build Assist,Wholesale and retail trade,Thimphu,Changzamtok,,,,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-18,2025-10-22,32,,6.11,0.0,0.0,Low
+EMP0119,bhutan power,Bhutan Power Corporation Limited,"Electricity, gas, steam and air conditioning supply",Thimphu,test location,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-01-28,2025-09-03,173,,6.0,0.0,0.0,Low
+EMP0120,choden,Choden,Construction,Paro,Jitshephu,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-28,2026-05-13,53,,6.0,0.0,0.0,Low
+EMP0121,dema,Dema,Construction,Thimphu,Lungtenphu,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-17,2026-03-09,33,,6.0,0.0,0.0,Low
+EMP0122,dorji,Dorji,Construction,Haa,Naktsho,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2025-09-12,54,,4.26,0.0,0.0,Low
+EMP0123,dratshang lhentshogtala goenpa chobuel yojey,Dratshang LhentshogTala Goenpa Chobuel Yojey,Education,Thimphu,Babesa,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-28,2026-05-05,53,,6.0,0.0,0.0,Low
+EMP0124,heruka security services,Heruka Security Services,"Public administration and defense,compulsory social security",Thimphu,Sangay Enterprise Building,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-22,2025-12-04,59,,6.0,0.0,0.0,Low
+EMP0125,padma gayul resort,Padma Gayul Resort,Accommodation and Food service activities,Paro,Nemjo,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-11,2026-05-11,70,,6.0,0.0,0.0,Low
+EMP0126,penjor,Penjor,Construction,Thimphu,Babesa,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2025-09-01,67,,4.29,0.0,0.0,Low
+EMP0127,sangay wangmo,Sangay Wangmo,Construction,Punakha,Yuwakha,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-23,2026-05-22,27,,6.0,0.0,0.0,Low
+EMP0128,ugyen wangmo,Ugyen Wangmo,Construction,Thimphu,Changtagang,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-23,2026-05-06,27,,6.0,0.0,0.0,Low
+EMP0129,wangchuk,Wangchuk,Construction,Punakha,Wangchuk,,,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-18,2026-01-22,32,,6.0,0.0,0.0,Low
+EMP0130,bhutan biscuit and gourmet,Bhutan Biscuit and Gourmet,Manufacturing,Wangdue Phodrang,"Bajo, Thango",,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-26,2026-05-22,55,,4.0,0.0,0.0,Low
+EMP0131,bhutan concrete bricks,Bhutan Concrete Bricks,Manufacturing,Thimphu,Bjemina Industrial Estate,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-04,2026-04-16,46,,4.0,0.0,0.0,Low
+EMP0132,bhutan eco ventures p,Bhutan Eco Ventures (P) Limited,Accommodation and Food service activities,Paro,"Changnangkha, Above NIE",,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-07,2026-03-23,104,,4.0,0.0,0.0,Low
+EMP0133,chimi wangmo karma phuntsho,Chimi Wangmo & Karma Phuntsho,Construction,Punakha,Khuruthang,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-18,2026-05-19,32,,4.0,0.0,0.0,Low
+EMP0134,city hotel,City Hotel,Accommodation and Food service activities,Thimphu,"Chang Lam, Dungkor Lam Junction",,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-16,2025-08-06,307,,4.0,0.0,0.0,Low
+EMP0135,dash group construction,DASH GROUP CONSTRUCTION,Construction,Thimphu,Sabji Bazaar,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-18,2025-09-05,124,,3.76,0.0,0.0,Low
+EMP0136,dawa,Dawa,Construction,Paro,Wangchang,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-15,2026-05-13,66,,4.0,0.0,0.0,Low
+EMP0137,dechen pemo,Dechen Pemo,Construction,Paro,Dopshari,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-02-28,69,,4.0,0.0,0.0,Low
+EMP0138,dechen tshomo,Dechen Tshomo,Construction,Paro,Khasadrapchu,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-17,2026-05-15,33,,4.0,0.0,0.0,Low
+EMP0139,denka,Denka,Construction,Paro,Rangshigang,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-15,2025-09-10,66,,2.96,0.0,0.0,Low
+EMP0140,dharma design,Dharma Design,Manufacturing,Thimphu,Ramtokto,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-03-12,103,,4.0,0.0,0.0,Low
+EMP0141,diamond hotel,Diamond Hotel,Accommodation and Food service activities,Paro,Town,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-27,2025-09-12,143,,4.0,0.0,0.0,Low
+EMP0142,dorjigs woodworks,DORJIGS WOODWORKS,Manufacturing,Paro,Lamgong Town,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-04,101,,4.0,0.0,0.0,Low
+EMP0143,druk home builder,DRUK HOME BUILDER,Construction,Thimphu,Babesa,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-05,2026-03-09,76,,4.0,0.0,0.0,Low
+EMP0144,haa valley camp,Haa Valley Camp,Accommodation and Food service activities,Haa,Yangthang,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-25,2026-02-25,117,,4.0,0.0,0.0,Low
+EMP0145,hejo eccd,Hejo ECCD,Education,Thimphu,Hejo,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-16,2025-07-20,154,,3.46,0.0,0.0,Low
+EMP0146,hotel lhayul,Hotel Lhayul,Accommodation and Food service activities,Haa,Haa Town,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-12,2025-09-10,311,,4.0,0.0,0.0,Low
+EMP0147,institute of skills management studies,Institute of Skills & Management Studies,Administrative and support services,Thimphu,Jungshina,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-01,2026-04-01,110,,4.0,0.0,0.0,Low
+EMP0148,karma dema,Karma Dema,Construction,Paro,Lamgong,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2025-09-06,68,,2.93,0.0,0.0,Low
+EMP0149,kcr privite,KCR Privite Limited,Other Services,Thimphu,Near Hongkong Market,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-08-13,2025-08-13,341,,4.0,0.0,0.0,Low
+EMP0150,kezang dawa,Kezang Dawa,Construction,Thimphu,"Hejo,Samteling",,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-23,2026-05-07,27,,4.0,0.0,0.0,Low
+EMP0151,kichu resort,Kichu Resort,Accommodation and Food service activities,Paro,Kichu,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-11,2026-05-11,70,,4.0,0.0,0.0,Low
+EMP0152,kinley chimi construction,Kinley Chimi Construction,Construction,Thimphu,Babesa,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-05,54,,4.0,0.0,0.0,Low
+EMP0153,kinley tshomo,Kinley Tshomo,Construction,Haa,Gaydrna,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-13,2025-09-10,310,,4.0,0.0,0.0,Low
+EMP0154,kinley wangmo,Kinley Wangmo,Construction,Paro,Bara,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-03,2026-05-11,47,,4.0,0.0,0.0,Low
+EMP0155,m s gayjur construction,M/s GAYJUR Construction Company Pvt Ltd,Construction,Thimphu,"Thimphu, Sherabgatshel PS",,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-02-20,75,,4.0,0.0,0.0,Low
+EMP0156,menjong sorig pharmaceuticals,Menjong Sorig Pharmaceuticals Corporation Limited,Manufacturing,Thimphu,Kawajangs,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-03-23,103,,4.0,0.0,0.0,Low
+EMP0157,nado poizokhang,Nado Poizokhang,Manufacturing,Thimphu,Changangkha,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-07,103,,4.0,0.0,0.0,Low
+EMP0158,namgay rinchen,Namgay Rinchen,Construction,Paro,Richukha,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-17,2026-05-12,33,,4.0,0.0,0.0,Low
+EMP0159,namgay zangmo,Namgay Zangmo,Construction,Punakha,Yuwakha,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-18,2026-05-22,32,,4.0,0.0,0.0,Low
+EMP0160,o s t construction,O.S.T Construction Private Limited,Construction,Thimphu,"Dechencholing, Thimphu",,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-02-20,75,,4.0,0.0,0.0,Low
+EMP0161,pem dem,Pem Dem,Construction,Paro,Nemjo,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2026-05-12,67,,4.0,0.0,0.0,Low
+EMP0162,pema duenjung zorigkhang,Pema Duenjung Zorigkhang,Manufacturing,Wangdue Phodrang,Nachekha,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-28,2026-04-07,53,,4.0,0.0,0.0,Low
+EMP0163,pema thinley,Pema Thinley,Construction,Thimphu,Changbangdu,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-05-04,75,,4.0,0.0,0.0,Low
+EMP0164,phuntsho construction,Phuntsho Construction,Construction,Haa,Haa Throm,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-15,2026-02-25,66,,4.0,0.0,0.0,Low
+EMP0165,phurba dorji,Phurba Dorji,Construction,Thimphu,Changbangdu,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-05-04,75,,4.0,0.0,0.0,Low
+EMP0166,r d engineering workshop,R D Engineering Workshop,"Professional, scientific and technical services",Thimphu,Olarongchu/Olakha,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,4.0,0.0,0.0,Low
+EMP0167,rinzin,Rinzin,Construction,Haa,Yangthang,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-12,2025-09-11,311,,4.0,0.0,0.0,Low
+EMP0168,risum resort,Risum Resort,Accommodation and Food service activities,Haa,Katsho,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-26,2025-09-12,144,,4.0,0.0,0.0,Low
+EMP0169,rsa,RSA Pvt.Ltd.,Mining and quarrying,Thimphu,Next to Hotel Kisa,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-18,2026-04-08,63,,4.0,0.0,0.0,Low
+EMP0170,sangay wangdi,Sangay Wangdi,Construction,Haa,Damchu,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-03,2025-09-11,47,,2.75,0.0,0.0,Low
+EMP0171,sonam automobile,Sonam Automobile,Other Services,Thimphu,Olarongchu,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-03-11,54,,4.0,0.0,0.0,Low
+EMP0172,sonam choden,Sonam Choden,Construction,Paro,Ngoba,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-05,2026-05-12,45,,4.0,0.0,0.0,Low
+EMP0173,sonam tshering,Sonam Tshering,Construction,Thimphu,Babesa,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-05,54,,4.0,0.0,0.0,Low
+EMP0174,suk bdr tamang,Suk Bdr Tamang,Construction,Punakha,Khuruthang,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-18,2026-05-19,32,,4.0,0.0,0.0,Low
+EMP0175,sunny drukla,Sunny Drukla,"Professional, scientific and technical services",Paro,Shaba,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-11,2026-02-28,70,,4.0,0.0,0.0,Low
+EMP0176,tandin samphel norbu,Tandin Samphel Norbu,Construction,Punakha,Laptsakha,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-18,2026-05-19,32,,4.0,0.0,0.0,Low
+EMP0177,tandin wangmo,Tandin Wangmo,Construction,Paro,Geptey,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2025-09-07,67,,2.93,0.0,0.0,Low
+EMP0178,tashi deling construction,Tashi Deling Construction,Construction,Thimphu,Bebena,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-05,2026-02-20,45,,4.0,0.0,0.0,Low
+EMP0179,tashi topgyal,Tashi Topgyal,Other Services,Thimphu,Babesa,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-05,54,,4.0,0.0,0.0,Low
+EMP0180,thimphu thromdethimphu thromde,Thimphu ThromdeThimphu Thromde,"Public administration and defense,compulsory social security",Thimphu,Pamtsho,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-05,68,,4.0,0.0,0.0,Low
+EMP0181,thinley dorji,Thinley Dorji,Construction,Punakha,Kuru punakha,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-19,2025-07-22,62,,2.43,0.0,0.0,Low
+EMP0182,tsamgar construction,TSAMGAR Construction Private Limited,Construction,Haa,Gongzim Ugyen Dorji HSS,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-15,2026-04-23,66,,4.0,0.0,0.0,Low
+EMP0183,tsherim resort,Tsherim Resort,Accommodation and Food service activities,Paro,"Shumu, Lango",,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-11,2026-02-27,70,,4.0,0.0,0.0,Low
+EMP0184,tshering choden,Tshering Choden,Construction,Paro,Chogzhing,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-05,2026-05-12,45,,4.0,0.0,0.0,Low
+EMP0185,tshering wangmo,Tshering Wangmo,Construction,Haa,Haa,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-15,2025-09-11,66,,2.97,0.0,0.0,Low
+EMP0186,ugyen tshering,Ugyen Tshering,Construction,Paro,Taba,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-08,68,,4.0,0.0,0.0,Low
+EMP0187,wangmo,Wangmo,Construction,Haa,Haa town,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2025-09-12,67,,2.99,0.0,0.0,Low
+EMP0188,yangchen automobile workshop,Yangchen Automobile Workshop,Other Services,Thimphu,Olarongchu/Olakha,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,4.0,0.0,0.0,Low
+EMP0189,yangphel,Yangphel Private Limited,Other Services,Punakha,Ewakha,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-18,2026-05-22,32,,4.0,0.0,0.0,Low
+EMP0190,yeega selden,Yeega Selden,Construction,Punakha,Bala,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-18,2026-05-19,32,,4.0,0.0,0.0,Low
+EMP0191,yongchab engineering solution,Yongchab Engineering Solution,Manufacturing,Thimphu,Bjemina,,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-04,2026-04-07,46,,4.0,0.0,0.0,Low
+EMP0192,33 soksoom centre for well being and happiness,33 Soksoom Centre for Well-being and Happiness,Accommodation and Food service activities,Thimphu,Main Town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-04,2026-05-04,77,,2.0,0.0,0.0,Low
+EMP0193,8 eleven vivo bhutan,8 Eleven - Vivo Bhutan,Wholesale and retail trade,Thimphu,Hongkong Market,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-10-06,2025-10-06,287,,2.0,0.0,0.0,Low
+EMP0194,a s automobile workshop,A.S Automobile Workshop,"Professional, scientific and technical services",Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0195,aero tech,Aero-TECH,"Professional, scientific and technical services",Thimphu,"Changjalu, Thimphu",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-10-30,2025-10-30,263,,2.0,0.0,0.0,Low
+EMP0196,aita singh gajmer,Aita Singh Gajmer,Construction,Wangdue Phodrang,Thangkhu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-23,2026-05-23,58,,2.0,0.0,0.0,Low
+EMP0197,anjuli darjee,Anjuli Darjee,Construction,Punakha,Mendelgang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-25,2026-05-25,56,,2.0,0.0,0.0,Low
+EMP0198,army sawmill,Army Sawmill,Manufacturing,Wangdue Phodrang,Tencholing,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-14,2026-06-14,36,,2.0,0.0,0.0,Low
+EMP0199,bail auto industrial lubricants,BAiL Auto & Industrial Lubricants,Wholesale and retail trade,Thimphu,"Olarongchu, Olakha",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0200,basochu hydropower plant,Basochu Hydropower Plant,"Electricity, gas, steam and air conditioning supply",Wangdue Phodrang,Rurichhu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-25,2026-03-25,117,,2.0,0.0,0.0,Low
+EMP0201,bhakta maya labar,Bhakta Maya Labar,Construction,Wangdue Phodrang,"Thangkhu, Wangdue Phodrang",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-22,2026-05-22,59,,2.0,0.0,0.0,Low
+EMP0202,bhutan agro industries,Bhutan Agro Industries Limited,Manufacturing,Thimphu,Wangchutaba,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-25,2026-03-25,117,,2.0,0.0,0.0,Low
+EMP0203,bhutan eco automobiles,Bhutan Eco Automobiles,"Professional, scientific and technical services",Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0204,bhutan grc,Bhutan GRC,Manufacturing,Thimphu,Bjemina Industrial Estate,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-07,2026-04-07,104,,2.0,0.0,0.0,Low
+EMP0205,bhutan herbal tea,Bhutan Herbal Tea,Manufacturing,Paro,"Zhelngo, Shaba",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0206,bhutan national bank,Bhutan National Bank Limited,Financial services and insurance,Thimphu,BNB Head Office,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-26,2026-03-26,116,,2.0,0.0,0.0,Low
+EMP0207,bhutan organic mushroom,Bhutan Organic Mushroom,Manufacturing,Paro,Navana,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-17,2026-02-17,153,,2.0,0.0,0.0,Low
+EMP0208,bhutan telecom,Bhutan Telecom Limited,Information and communication services,Thimphu,Chubachuu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-26,2026-03-26,116,,2.0,0.0,0.0,Low
+EMP0209,bidha,Bidha,Construction,Haa,Haa Town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-12,2025-09-12,311,,2.0,0.0,0.0,Low
+EMP0210,bongde goma resort,Bongde Goma Resort,Accommodation and Food service activities,Paro,Bongde,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-04,2025-11-04,258,,2.0,0.0,0.0,Low
+EMP0211,bongde institute of hotel and tourism,Bongde Institute of Hotel and Tourism,Transportation and storage,Paro,Bongde,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-04,2025-11-04,258,,2.0,0.0,0.0,Low
+EMP0212,bumpa tshering,Bumpa Tshering,Construction,Thimphu,Hejo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-05,2026-06-05,45,,2.0,0.0,0.0,Low
+EMP0213,central perk bakery cafe,Central Perk (Bakery & Cafe),Manufacturing,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0214,chakra subba,Chakra Subba,Construction,Paro,Ngoba,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0215,changba automobile workshop,Changba Automobile Workshop,Other Services,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0216,chenchen,Chenchen,Construction,Paro,Tshenjee,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0217,chencho dema,Chencho Dema,Construction,Paro,Wanakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-15,2026-05-15,66,,2.0,0.0,0.0,Low
+EMP0218,chencho dorji,Chencho Dorji,Construction,Paro,Bonday,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0219,chencho gyeltshen,Chencho Gyeltshen,Construction,Thimphu,Hejo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-05,2026-06-05,45,,2.0,0.0,0.0,Low
+EMP0220,chencho om,Chencho Om,Construction,Paro,Dopshari,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-17,2026-06-17,33,,2.0,0.0,0.0,Low
+EMP0221,chenzom,Chenzom,Construction,Paro,Drugyel,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0222,chheme auto workshop,Chheme Auto Workshop,Other Services,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-24,2026-04-24,87,,2.0,0.0,0.0,Low
+EMP0223,chhundu automobile workshop,Chhundu Automobile Workshop,"Professional, scientific and technical services",Thimphu,"Namseling, Mewang, Thimphu",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-12,2026-03-12,130,,2.0,0.0,0.0,Low
+EMP0224,chimi dema,Chimi Dema,Construction,Wangdue Phodrang,Bajo Throm,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-22,2026-05-22,59,,2.0,0.0,0.0,Low
+EMP0225,choeda automobile workshop,Choeda Automobile Workshop,Other Services,Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0226,choki,Choki,Construction,Paro,Gebjana,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2026-05-14,67,,2.0,0.0,0.0,Low
+EMP0227,choki automobile workshop,Choki Automobile Workshop,"Professional, scientific and technical services",Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-06,2026-04-06,105,,2.0,0.0,0.0,Low
+EMP0228,choki gyeltshen,Choki Gyeltshen,Construction,Thimphu,Pamtsho,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-23,2026-06-23,27,,2.0,0.0,0.0,Low
+EMP0229,choney wangmo,Choney Wangmo,Construction,Paro,Shomo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2026-05-14,67,,2.0,0.0,0.0,Low
+EMP0230,d g archi techs studio,D.G Archi-Techs' Studio,"Professional, scientific and technical services",Thimphu,Olakha Lam-4,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-12,2025-09-12,311,,2.0,0.0,0.0,Low
+EMP0231,dagap brothers automobile,Dagap Brothers Automobile,"Professional, scientific and technical services",Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0232,damchae dem,Damchae Dem,Construction,Thimphu,"Near Zero, Babasa",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-04,2026-06-04,46,,2.0,0.0,0.0,Low
+EMP0233,dawa automobile workshop,Dawa Automobile Workshop,Manufacturing,Thimphu,Olarongchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0234,dawa dem,Dawa Dem,Construction,Paro,Shaba,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-07,2025-09-07,316,,2.0,0.0,0.0,Low
+EMP0235,dawa tshering construction,Dawa Tshering Construction Private Limited,Construction,Thimphu,Dechencholing,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-20,2026-02-20,150,,2.0,0.0,0.0,Low
+EMP0236,deki dema spare parts,Deki Dema Spare Parts,Wholesale and retail trade,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0237,deki wangmo,Deki Wangmo,Construction,Paro,Bondey,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0238,dema yangzom,Dema Yangzom,Unknown,Paro,Drugyeldingkha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-15,2026-05-15,66,,2.0,0.0,0.0,Low
+EMP0239,dendy,Dendy,Unknown,Paro,Yoezerling,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2026-05-14,67,,2.0,0.0,0.0,Low
+EMP0240,design build,Design & Build Private Limited,Construction,Punakha,"CNR, Lobesa",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-21,2026-05-21,60,,2.0,0.0,0.0,Low
+EMP0241,devika rani rai,Devika Rani Rai,Construction,Thimphu,Depsi,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-05,2026-05-05,76,,2.0,0.0,0.0,Low
+EMP0242,dewa spa and wellness resort,Dewa Spa and Wellness Resort Pvt. Ltd,Human health and social work,Thimphu,"Nyenzerkha, Mewang",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-25,2026-05-25,56,,2.0,0.0,0.0,Low
+EMP0243,dharma arts crafts,Dharma Arts & Crafts,Manufacturing,Thimphu,Bjemina,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-30,2026-03-30,112,,2.0,0.0,0.0,Low
+EMP0244,dhendup auto spare parts,Dhendup Auto Spare Parts,Wholesale and retail trade,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0245,dhendup automobiles,Dhendup Automobiles,Other Services,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0246,dheyma vajra jv,Dheyma-Vajra JV,Construction,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-01,2026-04-01,110,,2.0,0.0,0.0,Low
+EMP0247,dorji auto parts electrical repair service,Dorji Auto Parts & Electrical Repair Service,Wholesale and retail trade,Thimphu,Olarongchu.Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0248,dorji khandu,Dorji Khandu,Construction,Paro,Jukha Dopshari,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0249,dorji tshering,Dorji Tshering,Construction,Thimphu,Changbangdhu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-05-06,75,,2.0,0.0,0.0,Low
+EMP0250,druk events,DRUK EVENTS,Other Services,Thimphu,Changlimithang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-05,2025-09-05,318,,2.0,0.0,0.0,Low
+EMP0251,druk karzey builder,Druk KarZey Builder Private Limited,Construction,Paro,Drugyel,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0252,druk pnb bank,Druk PNB Bank Ltd.,Financial services and insurance,Thimphu,Town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-08-22,2025-08-22,332,,2.0,0.0,0.0,Low
+EMP0253,druk trading equipments,DRUK TRADING EQUIPMENTS,Wholesale and retail trade,Thimphu,"Namsiling, Mewang Gewog",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-10-24,2025-10-24,269,,2.0,0.0,0.0,Low
+EMP0254,druk yango automobiles,Druk Yango Automobiles,Other Services,Thimphu,Namsaling,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-12,2026-03-12,130,,2.0,0.0,0.0,Low
+EMP0255,drukgyal workshop,Drukgyal Workshop,Other Services,Thimphu,Olarongchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0256,dungkar ugyen automobile workshop,Dungkar Ugyen Automobile Workshop,"Professional, scientific and technical services",Thimphu,Olarongchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0257,dynamic motor care service,Dynamic Motor Care Service,Other Services,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-07-21,2025-07-21,364,,2.0,0.0,0.0,Low
+EMP0258,dzambala pharmaceutical and medical supplies,Dzambala Pharmaceutical and Medical Supplies,Wholesale and retail trade,Thimphu,"Changzamtok, Behind Deki School",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-01-14,2026-01-14,187,,2.0,0.0,0.0,Low
+EMP0259,fine bhutan wine,Fine Bhutan Wine Ltd,Manufacturing,Thimphu,Chubachu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0260,garden kuenjung auto workshop,Garden kuenjung Auto Workshop,Other Services,Thimphu,Olarongchhu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0261,gauri maya tamang,Gauri Maya Tamang,Construction,Thimphu,MOICE head office,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-26,2026-06-26,24,,2.0,0.0,0.0,Low
+EMP0262,gegay,Gegay,Construction,Paro,Nemjo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-06,2025-09-06,317,,2.0,0.0,0.0,Low
+EMP0263,ghalley auto electrical workshop,Ghalley Auto Electrical Workshop,Other Services,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0264,greener way,Greener Way,"Water supply; sewerage, waste management",Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-26,2026-03-26,116,,2.0,0.0,0.0,Low
+EMP0265,haa heritage hotel,Haa Heritage Hotel,Accommodation and Food service activities,Haa,"Kajena, Katsho",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-26,2026-02-26,144,,2.0,0.0,0.0,Low
+EMP0266,high heaven karaoke,High Heaven Karaoke,"Arts, entertainment and recreation",Thimphu,Main Town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-05-06,75,,2.0,0.0,0.0,Low
+EMP0267,highlander,Highlander,Accommodation and Food service activities,Thimphu,Norzin Lam,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-16,2026-02-16,154,,2.0,0.0,0.0,Low
+EMP0268,hotel ratna vara,Hotel Ratna Vara,Accommodation and Food service activities,Paro,Main Town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-27,2026-02-27,143,,2.0,0.0,0.0,Low
+EMP0269,hotel rustic roots,Hotel Rustic Roots,Accommodation and Food service activities,Paro,Duezhi,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-13,2025-09-13,310,,2.0,0.0,0.0,Low
+EMP0270,imerit bhutan,iMerit Bhutan Private Limited,"Professional, scientific and technical services",Thimphu,"Babesa, ThimphuTechPark, Thimphu",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-03,2025-11-03,259,,2.0,0.0,0.0,Low
+EMP0271,indo venture,Indo Venture Pvt. Ltd,Wholesale and retail trade,Paro,Nemeyzampa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0272,international treks and tours,International Treks and Tours,Other Services,Paro,Jagathang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-26,2025-09-26,297,,2.0,0.0,0.0,Low
+EMP0273,j j automobile workshop,J&J Automobile Workshop,"Professional, scientific and technical services",Thimphu,Olakha Workshop,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0274,j s spare parts and accessories,J.S spare parts and accessories,Wholesale and retail trade,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0275,jamyang loden,Jamyang Loden,Construction,Thimphu,Pamtsho,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-23,2026-06-23,27,,2.0,0.0,0.0,Low
+EMP0276,jochu thinley,Jochu Thinley,Construction,Thimphu,Bebena,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-20,2026-02-20,150,,2.0,0.0,0.0,Low
+EMP0277,jurme yeshe phuntsho,Jurme Yeshe Phuntsho,Construction,Thimphu,Begana,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-05-06,75,,2.0,0.0,0.0,Low
+EMP0278,jurmed phendhey wire netting,Jurmed Phendhey Wire Netting,Manufacturing,Paro,Shaba,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0279,kaachi grand,Kaachi Grand,Accommodation and Food service activities,Paro,Town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-07,2025-11-07,255,,2.0,0.0,0.0,Low
+EMP0280,kancha automobile workshop,Kancha Automobile Workshop,Other Services,Thimphu,Olarangchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0281,karma ghalay wangchuk,Karma Ghalay Wangchuk,Unknown,Paro,Gangri,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-17,2026-06-17,33,,2.0,0.0,0.0,Low
+EMP0282,karma phuntsho wangdi,Karma Phuntsho Wangdi,Unknown,Paro,Tshakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0283,karma tenzin automobile workshop,Karma Tenzin Automobile Workshop,Other Services,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0284,karma wangmo auto mobile service,Karma Wangmo Auto Mobile Service,Other Services,Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-06,2026-04-06,105,,2.0,0.0,0.0,Low
+EMP0285,kelzang dawa,Kelzang Dawa,Construction,Thimphu,Geney,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-03,2026-06-03,47,,2.0,0.0,0.0,Low
+EMP0286,kezang,Kezang,Construction,Paro,Richukha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-11,2026-05-11,70,,2.0,0.0,0.0,Low
+EMP0287,kezang namgay,Kezang Namgay,Construction,Thimphu,Dangrina,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-20,2026-02-20,150,,2.0,0.0,0.0,Low
+EMP0288,khamsum inn,Khamsum Inn,Accommodation and Food service activities,Paro,Town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-08,2025-11-08,254,,2.0,0.0,0.0,Low
+EMP0289,khandu wangmo,Khandu Wangmo,Construction,Thimphu,Lungtenphu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-01,2026-04-01,110,,2.0,0.0,0.0,Low
+EMP0290,kingdom essences,Kingdom Essences Private Limited,Manufacturing,Thimphu,Kabesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-07,2026-04-07,104,,2.0,0.0,0.0,Low
+EMP0291,koms education consultancy and placement firm,KOMS Education Consultancy and Placement Firm,Education,Thimphu,olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-03,2025-09-03,320,,2.0,0.0,0.0,Low
+EMP0292,kota,Kota,Unknown,Thimphu,Lower Motithang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-18,2026-03-18,124,,2.0,0.0,0.0,Low
+EMP0293,kuenjung automobile workshop,Kuenjung Automobile Workshop,Other Services,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-23,2026-04-23,88,,2.0,0.0,0.0,Low
+EMP0294,kuenzang automobile workshop,Kuenzang Automobile Workshop,"Professional, scientific and technical services",Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-06,2026-04-06,105,,2.0,0.0,0.0,Low
+EMP0295,lakpa engineering workshop,Lakpa Engineering Workshop,"Professional, scientific and technical services",Thimphu,Olarongchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0296,lama dorji,Lama Dorji,Construction,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-05,2026-05-05,76,,2.0,0.0,0.0,Low
+EMP0297,lathos construction,Lathos Construction,Construction,Paro,Lamgong,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0298,leki pem,Leki Pem,Construction,Thimphu,"Langdro, Mewang",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-03,2026-06-03,47,,2.0,0.0,0.0,Low
+EMP0299,lemon tree resort,Lemon Tree Resort,Accommodation and Food service activities,Thimphu,Taba,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-04,2026-05-04,77,,2.0,0.0,0.0,Low
+EMP0300,lhadon,Lhadon,Unknown,Thimphu,Hejo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-05,2026-06-05,45,,2.0,0.0,0.0,Low
+EMP0301,lhak sam super interlocking bricks,Lhak Sam Super- Interlocking Bricks,Manufacturing,Thimphu,Ganekha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-07,2026-04-07,104,,2.0,0.0,0.0,Low
+EMP0302,lhamo,Lhamo,Construction,Thimphu,Pamtsho,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-23,2026-06-23,27,,2.0,0.0,0.0,Low
+EMP0303,lhawang dorji,Lhawang Dorji,Unknown,Thimphu,Hejo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-05,2026-06-05,45,,2.0,0.0,0.0,Low
+EMP0304,lilly construction,Lilly Construction,Construction,Thimphu,Jungshina,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-10,2026-03-10,132,,2.0,0.0,0.0,Low
+EMP0305,living water yusipang,Living Water Yusipang,Manufacturing,Thimphu,Yusipang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-24,2026-03-24,118,,2.0,0.0,0.0,Low
+EMP0306,lobzang nima,Lobzang Nima,Construction,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0307,lotus hotel,Lotus Hotel,Accommodation and Food service activities,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-07-12,2025-07-12,373,,2.0,0.0,0.0,Low
+EMP0308,ludrong hotel,Ludrong Hotel,Accommodation and Food service activities,Thimphu,Langjophakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-26,2026-05-26,55,,2.0,0.0,0.0,Low
+EMP0309,m s lungten automobile workshop olarongchu thimphu,M/s Lungten Automobile Workshop Olarongchu Thimphu,"Professional, scientific and technical services",Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-06,2026-04-06,105,,2.0,0.0,0.0,Low
+EMP0310,m s samphel dhendup construction,M/s Samphel Dhendup Construction Company Private Limited,Construction,Thimphu,Lungtenphu MSS,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-27,2026-04-27,84,,2.0,0.0,0.0,Low
+EMP0311,m s ugyen tshenden construction rirab construction,M/s Ugyen Tshenden Construction & Rirab Construction,Construction,Thimphu,Jungshina,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-10,2026-03-10,132,,2.0,0.0,0.0,Low
+EMP0312,man maya rai,Man Maya Rai,Construction,Paro,Kitchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0313,mandala builders,Mandala Builders,Construction,Thimphu,Dangrina,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-05-06,75,,2.0,0.0,0.0,Low
+EMP0314,maya machinery,Maya Machinery,Other Services,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-21,2025-11-21,241,,2.0,0.0,0.0,Low
+EMP0315,medhey e commerce,MEDHEY E-COMMERCE,Wholesale and retail trade,Thimphu,Chubachu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-10-24,2025-10-24,269,,2.0,0.0,0.0,Low
+EMP0316,megh raj tamang,Megh Raj Tamang,Construction,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-22,2026-06-22,28,,2.0,0.0,0.0,Low
+EMP0317,mindu construction,Mindu Construction Private Limited,Construction,Paro,-,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-04,2025-11-04,258,,2.0,0.0,0.0,Low
+EMP0318,mindu dorji,Mindu Dorji,Construction,Paro,Bongde,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-04,2025-11-04,258,,2.0,0.0,0.0,Low
+EMP0319,ministry of education and skills development chundu armed forces public school,Ministry of Education and Skills Development Chundu Armed Forces Public School,Construction,Haa,Haa Chundhu School,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-12,2025-09-12,311,,2.0,0.0,0.0,Low
+EMP0320,ministry of infrastructure and transportdepartment of human settlement,Ministry of Infrastructure and TransportDepartment of Human Settlement,"Public administration and defense,compulsory social security",Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-09,2026-03-09,133,,2.0,0.0,0.0,Low
+EMP0321,namgay artisanal brewery,Namgay Artisanal Brewery,Manufacturing,Paro,"Damshibhu, Woochu, near Tashi Namgay resort",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0322,namgay tshering,Namgay Tshering,Unknown,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-01,2026-04-01,110,,2.0,0.0,0.0,Low
+EMP0323,namgay zam,Namgay Zam,Construction,Punakha,Pungdzong,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-22,2026-05-22,59,,2.0,0.0,0.0,Low
+EMP0324,namsay automobile workshop,Namsay automobile Workshop,Other Services,Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0325,national housing development,National Housing Development Corporation Limited,Real estate,Thimphu,Drimey Lam,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-24,2026-03-24,118,,2.0,0.0,0.0,Low
+EMP0326,natural resources development,Natural Resources Development Corporation Limited,"Agriculture, forestry and fishing",Thimphu,Phendey Lam,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-31,2026-03-31,111,,2.0,0.0,0.0,Low
+EMP0327,nidu tshering,Nidu Tshering,Construction,Paro,Nyamezampa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0328,nima bidha,Nima Bidha,Construction,Paro,Tshandona,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0329,nima om,Nima Om,Construction,Thimphu,Lungtenphu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0330,ninda wangmo,Ninda Wangmo,Construction,Thimphu,Jungshina,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-05,2026-05-05,76,,2.0,0.0,0.0,Low
+EMP0331,nirmala tamang,Nirmala Tamang,Construction,Thimphu,Hongtsho,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-28,2026-05-28,53,,2.0,0.0,0.0,Low
+EMP0332,nisha limbu,Nisha Limbu,Construction,Paro,Kharilamyo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0333,norbu healing hotel,Norbu Healing Hotel,Accommodation and Food service activities,Thimphu,Olakah,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-08-04,2025-08-04,350,,2.0,0.0,0.0,Low
+EMP0334,norbu tshering,Norbu Tshering,Construction,Haa,"Lhayel Ka, Haa",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-15,2026-05-15,66,,2.0,0.0,0.0,Low
+EMP0335,nortak mines minerals,Nortak Mines & Minerals Private Limited,Manufacturing,Thimphu,Thimphu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0336,norzin automobiles workshop,Norzin Automobiles Workshop,Other Services,Thimphu,Olokha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0337,norzin enterprise,Norzin Enterprise,Wholesale and retail trade,Thimphu,Olarongchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0338,nsk automobile workshop,NSK Automobile Workshop,"Professional, scientific and technical services",Thimphu,Olarongchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-05-06,75,,2.0,0.0,0.0,Low
+EMP0339,ntt construction,NTT Construction,Construction,Thimphu,Changjiji,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-09,2026-03-09,133,,2.0,0.0,0.0,Low
+EMP0340,ongdi timber industries,Ongdi Timber Industries,Manufacturing,Thimphu,Khasadrapchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0341,p gyeltshen construction,P.Gyeltshen Construction Pvt.ltd,Construction,Thimphu,Changjalu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-03,2026-03-03,139,,2.0,0.0,0.0,Low
+EMP0342,paegyel construction,PAEGYEL CONSTRUCTION PRIVATE LIMITED,Construction,Thimphu,Changlimethang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-14,2025-09-14,309,,2.0,0.0,0.0,Low
+EMP0343,passang dema,Passang Dema,Construction,Wangdue Phodrang,Bajo Throm,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-22,2026-05-22,59,,2.0,0.0,0.0,Low
+EMP0344,pelbar geyphyel automobile,Pelbar Geyphyel Automobile,Other Services,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0345,pelden restaurant,Pelden Restaurant,Accommodation and Food service activities,Haa,Haa Throm,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-26,2026-02-26,144,,2.0,0.0,0.0,Low
+EMP0346,pem deki,Pem Deki,Construction,Paro,Tsatsam,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0347,pem tshomo,Pem Tshomo,Construction,Paro,Shomo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0348,pem zam,Pem Zam,Construction,Paro,Geptey,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-28,2026-02-28,142,,2.0,0.0,0.0,Low
+EMP0349,pema choki,Pema Choki,Construction,Wangdue Phodrang,Thango,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-20,2026-05-20,61,,2.0,0.0,0.0,Low
+EMP0350,pema namgay,Pema Namgay,Construction,Punakha,Kabjisa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-20,2026-05-20,61,,2.0,0.0,0.0,Low
+EMP0351,pema yangsel hotel,Pema Yangsel Hotel,Accommodation and Food service activities,Paro,Town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-06,2025-11-06,256,,2.0,0.0,0.0,Low
+EMP0352,pemako,Pemako,Accommodation and Food service activities,Punakha,Lhabesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-09,2025-09-09,314,,2.0,0.0,0.0,Low
+EMP0353,penjor yardak fabrication unit,Penjor Yardak (Fabrication Unit),Manufacturing,Thimphu,Debsi,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-12,2025-09-12,311,,2.0,0.0,0.0,Low
+EMP0354,pes pvt ltd c o bhel,PES Pvt. Ltd C/o BHEL,"Electricity, gas, steam and air conditioning supply",Wangdue Phodrang,Kamichu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-25,2026-03-25,117,,2.0,0.0,0.0,Low
+EMP0355,phub dem,Phub Dem,Unknown,Punakha,Lobesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-21,2026-05-21,60,,2.0,0.0,0.0,Low
+EMP0356,phub lham,Phub Lham,Construction,Punakha,Punakha : Serigang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-07-29,2025-07-29,356,,2.0,0.0,0.0,Low
+EMP0357,phub lhamo,Phub Lhamo,Construction,Punakha,Gumakarmo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-14,2026-06-14,36,,2.0,0.0,0.0,Low
+EMP0358,phuensum builders,Phuensum Builders Private Limited,Construction,Thimphu,Ngabiphu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-28,2026-05-28,53,,2.0,0.0,0.0,Low
+EMP0359,phuntsho,Phuntsho,Construction,Paro,Tsendona,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0360,phurba,Phurba,Construction,Punakha,Tshokhana,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-22,2026-05-22,59,,2.0,0.0,0.0,Low
+EMP0361,punatshangchu hydro power projectphpa i,Punatshangchu Hydro Power ProjectPHPA-I,Construction,Wangdue Phodrang,"Bjimthangkha, Gase Tshogom",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-10-04,2025-10-04,289,,2.0,0.0,0.0,Low
+EMP0362,purna automobile workshop,Purna Automobile Workshop,Other Services,Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-06,2026-04-06,105,,2.0,0.0,0.0,Low
+EMP0363,rajesh automobile,Rajesh Automobile,Other Services,Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0364,rajiv chhetri,Rajiv Chhetri,Construction,Thimphu,Changbangdu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-01,2026-04-01,110,,2.0,0.0,0.0,Low
+EMP0365,reina sampheling automobile workshop,Reina Sampheling Automobile Workshop,Other Services,Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0366,renew microfinance,RENEW Microfinance private limited,Financial services and insurance,Thimphu,Lower Mothithang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-10-09,2025-10-09,284,,2.0,0.0,0.0,Low
+EMP0367,resort thim dorji paro riverfront,Resort Thim-Dorji @ Paro Riverfront,Accommodation and Food service activities,Paro,Remphakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-15,2026-04-15,96,,2.0,0.0,0.0,Low
+EMP0368,rinchen education consultancy and placement firm,Rinchen Education Consultancy and Placement Firm,"Professional, scientific and technical services",Thimphu,Jattu Building,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-12-03,2025-12-03,229,,2.0,0.0,0.0,Low
+EMP0369,rinchen lham,Rinchen Lham,Construction,Paro,"Above AMC, Paro",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0370,rinchen wangdi,Rinchen Wangdi,Construction,Punakha,Bjichulum,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-25,2026-05-25,56,,2.0,0.0,0.0,Low
+EMP0371,rinzin choden,Rinzin Choden,Construction,Thimphu,Gedagom,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-03,2026-06-03,47,,2.0,0.0,0.0,Low
+EMP0372,rinzin wangmo,Rinzin Wangmo,Construction,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-09,2026-03-09,133,,2.0,0.0,0.0,Low
+EMP0373,river front resort,River Front Resort,Accommodation and Food service activities,Paro,Tshendona,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-06,2025-11-06,256,,2.0,0.0,0.0,Low
+EMP0374,robotics iot training institute riti,Robotics & IoT Training Institute (RITI),Education,Thimphu,"Hongkong Market, Sangay Enterprise building, Top floor",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-17,2025-09-17,306,,2.0,0.0,0.0,Low
+EMP0375,royal bhutan armyrba head quarter,Royal Bhutan ArmyRBA Head Quarter,"Public administration and defense,compulsory social security",Thimphu,Lungtenphu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0376,royal body guardroyal body guard,Royal Body GuardRoyal Body Guard,"Public administration and defense,compulsory social security",Thimphu,Pamtsho,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-23,2026-06-23,27,,2.0,0.0,0.0,Low
+EMP0377,sangay lhamo,Sangay Lhamo,Construction,Punakha,Yusakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-21,2026-05-21,60,,2.0,0.0,0.0,Low
+EMP0378,sayden,Sayden,Unknown,Thimphu,Changbangdu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-05-06,75,,2.0,0.0,0.0,Low
+EMP0379,shambala boutique hotel,Shambala Boutique Hotel,Accommodation and Food service activities,Paro,shomu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-01,2026-05-01,80,,2.0,0.0,0.0,Low
+EMP0380,shingla unit,Shingla Unit,Manufacturing,Thimphu,Chamgang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-07,2026-04-07,104,,2.0,0.0,0.0,Low
+EMP0381,singay group of comapnies,Singay Group of Comapnies,Mining and quarrying,Thimphu,Bjemina,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-15,2026-04-15,96,,2.0,0.0,0.0,Low
+EMP0382,sonam,Sonam,Construction,Punakha,Zomi,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-22,2026-05-22,59,,2.0,0.0,0.0,Low
+EMP0383,sonam dema,Sonam Dema,Construction,Paro,Nemjo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2026-05-14,67,,2.0,0.0,0.0,Low
+EMP0384,sonam dorji,Sonam Dorji,Construction,Thimphu,Lower Mothithang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-17,2026-03-17,125,,2.0,0.0,0.0,Low
+EMP0385,sonam kiba,Sonam Kiba,Construction,Paro,Shomo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0386,sonam tshomo,Sonam Tshomo,Construction,Thimphu,Jungshina,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-23,2026-06-23,27,,2.0,0.0,0.0,Low
+EMP0387,soyalla,Soyalla,Manufacturing,Thimphu,Changzamtog startup,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0388,stcbl hpcl petroleum distributors,STCBL-HPCL Petroleum Distributors,Wholesale and retail trade,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-27,2026-03-27,115,,2.0,0.0,0.0,Low
+EMP0389,sunita chhetri,Sunita Chhetri,Construction,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0390,t t wangyal construction,T.T Wangyal Construction,Construction,Paro,Town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-27,2026-02-27,143,,2.0,0.0,0.0,Low
+EMP0391,takin education consultancy and placement firm,Takin Education Consultancy and Placement Firm,"Professional, scientific and technical services",Thimphu,Maintown,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-08-21,2025-08-21,333,,2.0,0.0,0.0,Low
+EMP0392,taktsangri la sonammissie boutique,TaktsangRi-La [SonamMissie Boutique Private Limited ],Accommodation and Food service activities,Paro,Tsento,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-07,2025-11-07,255,,2.0,0.0,0.0,Low
+EMP0393,tandin,Tandin,Construction,Thimphu,Hejo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-05,2026-06-05,45,,2.0,0.0,0.0,Low
+EMP0394,tandin auto electric workshop,Tandin Auto Electric Workshop,"Professional, scientific and technical services",Thimphu,Olarongchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0395,tandin automobile workshop,Tandin Automobile Workshop,"Professional, scientific and technical services",Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0396,tashi demba,Tashi Demba,Construction,Paro,Samten Tsemo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-17,2026-06-17,33,,2.0,0.0,0.0,Low
+EMP0397,tashi dorji,Tashi Dorji,Construction,Paro,Nemjo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0398,tashi dungkarling automobile workshop,Tashi Dungkarling Automobile Workshop,"Professional, scientific and technical services",Thimphu,Olarongchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0399,tashi khel automobile workshop,Tashi Khel Automobile Workshop,Other Services,Thimphu,Olarongchu /Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-09,2026-04-09,102,,2.0,0.0,0.0,Low
+EMP0400,tashi peljor,Tashi Peljor,Construction,Thimphu,Jungshina,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-10-23,2025-10-23,270,,2.0,0.0,0.0,Low
+EMP0401,tashi phuntsho,Tashi Phuntsho,Construction,Paro,Paro Hospital,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2026-05-14,67,,2.0,0.0,0.0,Low
+EMP0402,techno engineering works,Techno Engineering Works,Other Services,Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-12,2026-03-12,130,,2.0,0.0,0.0,Low
+EMP0403,tee dee auto works,Tee Dee Auto Works,"Professional, scientific and technical services",Thimphu,Olarongchu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0404,tenzin,Tenzin,Accommodation and Food service activities,Punakha,KHURUTHANG,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-10-12,2025-10-12,281,,2.0,0.0,0.0,Low
+EMP0405,tenzin dolma,Tenzin Dolma,Construction,Thimphu,Hejo,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-05,2026-06-05,45,,2.0,0.0,0.0,Low
+EMP0406,tenzin samphel sculpture house,Tenzin Samphel Sculpture House,Manufacturing,Thimphu,Upper Motithang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-14,2026-04-14,97,,2.0,0.0,0.0,Low
+EMP0407,tenzin shacha,Tenzin Shacha,Construction,Thimphu,Jazam,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-26,2026-05-26,55,,2.0,0.0,0.0,Low
+EMP0408,tenzin wangmo,Tenzin Wangmo,Construction,Thimphu,"Ngabiphu, Near RTC",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-28,2026-05-28,53,,2.0,0.0,0.0,Low
+EMP0409,tenzing tshering,Tenzing Tshering,Construction,Paro,Tsongdu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-27,2026-02-27,143,,2.0,0.0,0.0,Low
+EMP0410,thangu wood works,Thangu Wood Works,Manufacturing,Wangdue Phodrang,Thango,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-22,2026-05-22,59,,2.0,0.0,0.0,Low
+EMP0411,the capital hotel,THE CAPITAL HOTEL,Accommodation and Food service activities,Thimphu,"Chubachu, Thimphu",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-18,2025-09-18,305,,2.0,0.0,0.0,Low
+EMP0412,the view by tara phendeyling,The View by Tara Phendeyling,Accommodation and Food service activities,Thimphu,Lungtenphu,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-17,2026-04-17,94,,2.0,0.0,0.0,Low
+EMP0413,thinlay gyamtsho,Thinlay Gyamtsho,Construction,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-22,2026-06-22,28,,2.0,0.0,0.0,Low
+EMP0414,thinley,Thinley,Construction,Paro,Drugyeldingkha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2026-05-14,67,,2.0,0.0,0.0,Low
+EMP0415,thuenkyen phuntsho sawmill unit,Thuenkyen Phuntsho Sawmill Unit,"Agriculture, forestry and fishing",Wangdue Phodrang,Wongjukha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-14,2026-06-14,36,,2.0,0.0,0.0,Low
+EMP0416,time4cha,time4CHA,Accommodation and Food service activities,Thimphu,"Etho Metho Complex, Chang Lam",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-18,2026-04-18,93,,2.0,0.0,0.0,Low
+EMP0417,tobden construction,tobden construction,Construction,Wangdue Phodrang,Bajo Throm,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-22,2026-05-22,59,,2.0,0.0,0.0,Low
+EMP0418,trans himalayan automobiles,Trans Himalayan Automobiles,"Professional, scientific and technical services",Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0419,trulku dorji thogme,Trulku Dorji Thogme,Construction,Paro,Ngoba,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0420,tsengo,Tsengo,Unknown,Thimphu,Lungtenphu Lap,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0421,tshejor s ayzey,Tshejor's Ayzey,Manufacturing,Thimphu,"Tshaphu, Mewang Gewof",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-07,2026-04-07,104,,2.0,0.0,0.0,Low
+EMP0422,tshering,Tshering,Other Services,Thimphu,Changangkha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-01-20,2026-01-20,181,,2.0,0.0,0.0,Low
+EMP0423,tshering choki,Tshering Choki,Construction,Paro,Tshelkha Lamgong,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0424,tshering dema,Tshering Dema,Construction,Paro,Bondey,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-12,2026-05-12,69,,2.0,0.0,0.0,Low
+EMP0425,tshering dorji,Tshering Dorji,Construction,Haa,Haha throm,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-12,2025-09-12,311,,2.0,0.0,0.0,Low
+EMP0426,tshering pem,Tshering Pem,Construction,Paro,Gabjana,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2026-05-14,67,,2.0,0.0,0.0,Low
+EMP0427,tshering wangchuk,Tshering Wangchuk,Construction,Haa,Above Haa town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-11,2025-09-11,312,,2.0,0.0,0.0,Low
+EMP0428,tshering wangdi,Tshering Wangdi,Construction,Haa,Haa Throm,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-15,2026-05-15,66,,2.0,0.0,0.0,Low
+EMP0429,tshering yangzom,Tshering Yangzom,Construction,Thimphu,Dechencholing,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-06,2026-05-06,75,,2.0,0.0,0.0,Low
+EMP0430,tshewang pem,Tshewang Pem,Construction,Paro,Paro Town,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-04,2025-11-04,258,,2.0,0.0,0.0,Low
+EMP0431,u j automobile workshop,U.J Automobile Workshop,"Professional, scientific and technical services",Thimphu,Olarongchu/Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0432,ugyel rabsel workshop,Ugyel Rabsel Workshop,Other Services,Punakha,Tshokhana,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-25,2026-05-25,56,,2.0,0.0,0.0,Low
+EMP0433,ugyen choden,Ugyen Choden,Construction,Paro,Luni,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-14,2026-05-14,67,,2.0,0.0,0.0,Low
+EMP0434,ugyen penjor,Ugyen Penjor,Construction,Paro,Tsendona,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0435,ugyen wangchuk,Ugyen Wangchuk,Construction,Paro,Chemnasakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0436,uhm chuna natural spring water,Uhm-Chuna Natural Spring Water,Manufacturing,Paro,"Damserbu, Woochu",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0437,vara furniture,Vara Furniture,Manufacturing,Thimphu,Ramtokto,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-08,2026-04-08,103,,2.0,0.0,0.0,Low
+EMP0438,venus beauty salon,Venus Beauty Salon,Other Services,Thimphu,Next to Le Meredian,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-23,2026-03-23,119,,2.0,0.0,0.0,Low
+EMP0439,venus hair beauty training institute,Venus Hair & Beauty Training Institute,Other Services,Thimphu,Thimphu Town - Opposite to Hotel 89,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-10-06,2025-10-06,287,,2.0,0.0,0.0,Low
+EMP0440,viviek automobile workshop,Viviek Automobile Workshop,Other Services,Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-06,2026-04-06,105,,2.0,0.0,0.0,Low
+EMP0441,wangchuk agro enginering,Wangchuk Agro Enginering,Manufacturing,Paro,"Paro,Wangchang",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0442,wangda,Wangda,Construction,Thimphu,Changjiji,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-09-10,2025-09-10,313,,2.0,0.0,0.0,Low
+EMP0443,wangthang construction,Wangthang Construction Private Limited,Construction,Paro,Paro college,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-02-27,2026-02-27,143,,2.0,0.0,0.0,Low
+EMP0444,wildcloud,Wildcloud,Accommodation and Food service activities,Thimphu,Motithang,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-10-08,2025-10-08,285,,2.0,0.0,0.0,Low
+EMP0445,wonder wood based furniture unit,Wonder Wood Based Furniture Unit,Manufacturing,Paro,"Dopshari, Thachuchalu",,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-10,2026-04-10,101,,2.0,0.0,0.0,Low
+EMP0446,wood world,Wood World,Manufacturing,Thimphu,Changzamtog,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-08-14,2025-08-14,340,,2.0,0.0,0.0,Low
+EMP0447,yangki automobile,Yangki Automobile,"Professional, scientific and technical services",Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-04-06,2026-04-06,105,,2.0,0.0,0.0,Low
+EMP0448,yangki dema,Yangki Dema,Unknown,Thimphu,Jungshina,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-06-23,2026-06-23,27,,2.0,0.0,0.0,Low
+EMP0449,yangzom,Yangzom,Construction,Paro,Tsenshi,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0450,yarphel furniture unit,Yarphel Furniture Unit,Manufacturing,Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-05,2026-05-05,76,,2.0,0.0,0.0,Low
+EMP0451,yd auto mobile workshop,YD Auto Mobile Workshop,"Professional, scientific and technical services",Thimphu,Olakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-27,2026-05-27,54,,2.0,0.0,0.0,Low
+EMP0452,yoejung construction,Yoejung Construction,Construction,Punakha,Punakha Highway,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-20,2026-05-20,61,,2.0,0.0,0.0,Low
+EMP0453,yonten,Yonten,Construction,Punakha,Yuwakha,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-22,2026-05-22,59,,2.0,0.0,0.0,Low
+EMP0454,yt trading,YT Trading,Wholesale and retail trade,Punakha,Tshokona,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-25,2026-05-25,56,,2.0,0.0,0.0,Low
+EMP0455,zangmo,Zangmo,Construction,Paro,Nyameyzampa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-05-13,2026-05-13,68,,2.0,0.0,0.0,Low
+EMP0456,zhideychen boutique hotel,Zhideychen Boutique Hotel,Accommodation and Food service activities,Paro,Geptey,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2025-11-04,2025-11-04,258,,2.0,0.0,0.0,Low
+EMP0457,zimdra automobiles,Zimdra Automobiles,"Professional, scientific and technical services",Thimphu,Babesa,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-03-27,2026-03-27,115,,2.0,0.0,0.0,Low

@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Risk Assessment | LIRAS</title>
+
+    <link rel="stylesheet" href="risk-assessment.css">
+    <link rel="stylesheet" href="shared.css">
+
+    <!-- Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Chart -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+
+<!-- SIDEBAR -->
+
+<aside class="sidebar">
+
+    <div class="logo"><img class="liras-brand-logo" src="assets/liras-logo.png" alt="LIRAS logo"><span>LIRAS</span></div>
+
+
+    <ul class="menu">
+
+        <li>
+            <a href="dashboard.html">
+                <i class="fa-solid fa-chart-line"></i>
+                Dashboard
+            </a>
+        </li>
+
+
+        <li>
+            <a href="employers.html">
+                <i class="fa-solid fa-building"></i>
+                Employers
+            </a>
+        </li>
+
+
+
+        <li class="active">
+            <a href="risk-assessment.html">
+                <i class="fa-solid fa-brain"></i>
+                AI Risk Assessment
+            </a>
+        </li>
+
+         <li>
+            <a href="inspection.html">
+                <i class="fa-solid fa-clipboard-check"></i>
+                Inspections
+            </a>
+        </li>
+
+        <li>
+            <a href="reports.html">
+                <i class="fa-solid fa-file-lines"></i>
+                Reports
+            </a>
+        </li>
+
+
+        <li>
+            <a href="settings.html">
+                <i class="fa-solid fa-gear"></i>
+                Settings
+            </a>
+        </li>
+
+        <li>
+            <a href="profile.html">
+                <i class="fa-solid fa-user"></i>
+                Profile
+            </a>
+        </li>
+
+        <li>
+            <a href="#" onclick="lirasLogout(); return false;">
+                <i class="fa-solid fa-right-from-bracket"></i>
+                Logout
+            </a>
+        </li>
+
+    </ul>
+
+
+</aside>
+
+<!-- MAIN -->
+
+<main class="main">
+
+
+<header>
+
+    <h1>
+        AI Risk Assessment System
+    </h1>
+
+
+    <div class="profile">
+
+        <i class="fa-solid fa-user-circle"></i>
+
+        Labour Officer
+
+    </div>
+
+
+</header>
+
+
+
+<section class="container">
+
+
+<!-- INPUT CARD -->
+
+<div class="card">
+
+
+<h2>
+<i class="fa-solid fa-microchip"></i>
+Employer Risk Prediction
+</h2>
+
+
+
+<div class="form-grid">
+
+
+<div>
+<label>
+Employer Name
+</label>
+
+<input 
+type="text"
+id="employerName"
+placeholder="Enter employer name">
+
+</div>
+
+
+
+<div>
+
+<label>
+Industry
+</label>
+
+<select id="industry">
+
+<option value="construction">
+Construction
+</option>
+
+<option value="manufacturing">
+Manufacturing
+</option>
+
+
+<option value="service">
+Service
+</option>
+
+
+<option value="agriculture">
+Agriculture
+</option>
+
+
+</select>
+
+</div>
+
+
+
+<div>
+
+<label>
+Number of Employees
+</label>
+
+<input 
+type="number"
+id="employees"
+placeholder="Employees">
+
+</div>
+
+
+
+<div>
+
+<label>
+Previous Violations
+</label>
+
+<input 
+type="number"
+id="violations"
+value="0">
+
+</div>
+
+
+
+<div>
+
+<label>
+Worker Complaints
+</label>
+
+<input 
+type="number"
+id="complaints"
+value="0">
+
+</div>
+
+
+
+
+<div>
+
+<label>
+Workplace Accidents
+</label>
+
+<input 
+type="number"
+id="accidents"
+value="0">
+
+</div>
+
+
+
+
+<div>
+
+<label>
+OSH Violations
+</label>
+
+<input 
+type="number"
+id="osh"
+value="0">
+
+</div>
+
+
+
+</div>
+
+
+
+<button onclick="calculateRisk()">
+
+<i class="fa-solid fa-brain"></i>
+
+Analyze Risk
+
+</button>
+
+
+</div>
+
+
+
+
+
+<!-- RESULT -->
+
+<div class="card result">
+
+
+<h2>
+AI Prediction Result
+</h2>
+
+
+
+<div class="risk-box">
+
+
+<div>
+
+<h3>
+Risk Score
+</h3>
+
+<p id="score">
+0
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+Risk Level
+</h3>
+
+<p id="level">
+Waiting...
+</p>
+
+</div>
+
+
+</div>
+
+
+
+<div class="recommendation">
+
+<h3>
+AI Recommendation
+</h3>
+
+
+<p id="recommendation">
+
+No assessment completed.
+
+</p>
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+<!-- EXPLANATION -->
+
+<div class="card">
+
+
+<h2>
+AI Explanation
+</h2>
+
+
+<ul id="explanation">
+
+<li>
+Complete assessment to view AI reasoning.
+</li>
+
+</ul>
+
+
+</div>
+
+
+
+
+
+
+<!-- CHART -->
+
+<div class="card">
+
+
+<h2>
+Risk Factor Analysis
+</h2>
+
+
+<canvas id="riskChart"></canvas>
+
+
+</div>
+
+
+
+</section>
+
+
+
+</main>
+
+
+<script src="api.js"></script>
+<script src="shared.js"></script>
+<script src="profile-store.js"></script>
+<script src="risk-assessment.js"></script>
+
+</body>
+</html>
